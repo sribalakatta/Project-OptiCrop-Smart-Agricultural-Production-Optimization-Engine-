@@ -1,0 +1,2201 @@
+N,P,K,temperature,humidity,ph,rainfall,crop,location,season,yield
+91,40,44,25.88,84.23,5.38,215.37,rice,Western Dry Zone,Rabi,5.13
+94,43,45,21.22,82.8,5.81,228.27,rice,Western Dry Zone,Whole Year,5.37
+95,47,40,22.42,87.61,5.98,249.98,rice,Central Plateau,Rabi,4.59
+90,41,34,21.91,82.19,5.91,231.42,rice,Southern Hills,Zaid,5.9
+87,40,41,21.23,86.98,5.88,225.45,rice,Coastal Delta,Whole Year,4.43
+89,42,43,22.99,80.77,5.69,197.35,rice,Central Plateau,Whole Year,5.72
+101,36,45,25.62,82.85,4.85,214.45,rice,Northeast Plain,Kharif,5.14
+81,32,41,22.77,84.44,5.57,249.57,rice,Coastal Delta,Rabi,5.4
+92,43,45,23.85,81.25,6.16,233.57,rice,Western Dry Zone,Rabi,4.9
+86,43,42,21.62,82.38,6.12,240.71,rice,Western Dry Zone,Kharif,5.64
+82,48,48,23.53,85.24,6.15,195.48,rice,Northeast Plain,Zaid,5.0
+85,33,34,20.96,78.49,5.44,235.38,rice,Northeast Plain,Kharif,5.03
+84,51,33,23.97,82.62,5.65,229.26,rice,Northeast Plain,Whole Year,5.26
+89,38,33,24.98,83.75,4.85,242.52,rice,Coastal Delta,Zaid,4.59
+93,43,44,21.28,86.0,5.81,242.26,rice,Coastal Delta,Whole Year,4.43
+94,43,48,23.48,79.97,6.61,256.05,rice,Western Dry Zone,Kharif,4.61
+99,44,38,25.84,82.44,5.39,218.53,rice,Coastal Delta,Rabi,4.77
+95,45,35,23.27,81.44,6.64,213.94,rice,Western Dry Zone,Rabi,5.08
+77,50,47,23.47,83.1,5.37,250.76,rice,Central Plateau,Zaid,5.77
+79,39,34,24.93,86.56,4.97,251.34,rice,Southern Hills,Whole Year,5.22
+79,42,38,21.24,83.6,5.55,204.9,rice,Southern Hills,Whole Year,5.56
+99,45,43,23.55,80.43,5.32,223.13,rice,Coastal Delta,Rabi,4.8
+80,31,45,25.07,82.18,5.24,228.49,rice,Central Plateau,Rabi,5.39
+81,40,45,24.09,78.86,5.42,246.65,rice,Northeast Plain,Kharif,4.81
+82,32,43,24.9,78.88,6.21,209.28,rice,Coastal Delta,Rabi,5.37
+97,36,45,23.0,79.54,5.37,200.56,rice,Western Dry Zone,Kharif,4.7
+94,43,43,25.71,83.59,5.58,225.38,rice,Western Dry Zone,Kharif,5.51
+97,50,38,21.51,79.6,6.43,207.14,rice,Coastal Delta,Whole Year,5.82
+84,42,38,26.69,82.0,5.29,256.5,rice,Central Plateau,Kharif,5.04
+96,37,31,24.74,78.88,6.08,235.54,rice,Southern Hills,Rabi,5.66
+97,40,33,24.23,81.66,6.1,216.59,rice,Central Plateau,Whole Year,5.57
+93,49,39,26.39,83.5,5.34,215.17,rice,Southern Hills,Rabi,5.78
+79,44,38,24.72,86.07,5.29,209.12,rice,Western Dry Zone,Zaid,5.42
+87,36,40,23.12,85.07,6.26,238.54,rice,Southern Hills,Whole Year,5.14
+94,40,42,21.64,83.7,5.37,231.93,rice,Northeast Plain,Kharif,5.16
+95,31,39,21.53,81.9,5.16,249.22,rice,Central Plateau,Kharif,5.04
+99,36,46,26.42,82.75,5.52,199.51,rice,Coastal Delta,Kharif,4.81
+94,49,39,24.62,84.01,6.19,244.05,rice,Coastal Delta,Rabi,5.09
+89,48,42,21.31,85.4,6.5,212.2,rice,Northeast Plain,Rabi,5.17
+102,40,42,23.55,82.35,6.18,247.68,rice,Southern Hills,Zaid,5.39
+92,45,37,27.06,83.56,5.83,218.4,rice,Western Dry Zone,Kharif,5.54
+81,41,36,24.4,82.33,5.82,257.37,rice,Coastal Delta,Whole Year,5.26
+91,41,42,25.33,80.6,5.97,236.61,rice,Central Plateau,Whole Year,5.73
+100,36,34,26.46,81.01,6.0,243.01,rice,Central Plateau,Rabi,4.8
+87,52,31,24.98,85.08,5.42,212.82,rice,Southern Hills,Rabi,4.7
+90,35,50,22.85,78.49,4.75,235.12,rice,Northeast Plain,Zaid,5.43
+82,40,42,21.95,85.41,5.8,230.23,rice,Northeast Plain,Kharif,5.42
+101,51,43,22.9,82.67,5.52,209.63,rice,Central Plateau,Rabi,5.58
+91,46,35,21.17,79.74,6.22,217.42,rice,Southern Hills,Kharif,5.13
+104,45,38,23.39,81.67,6.45,207.18,rice,Northeast Plain,Zaid,5.42
+92,49,39,23.18,84.22,6.25,200.54,rice,Central Plateau,Zaid,5.31
+102,41,34,26.16,80.19,5.94,199.19,rice,Southern Hills,Whole Year,5.44
+84,46,33,21.98,82.53,5.17,246.8,rice,Western Dry Zone,Kharif,5.23
+79,53,38,24.01,82.81,5.47,226.48,rice,Western Dry Zone,Rabi,4.97
+102,41,42,21.08,81.38,5.19,219.96,rice,Coastal Delta,Rabi,4.64
+87,36,35,27.46,85.64,6.25,212.91,rice,Western Dry Zone,Whole Year,5.4
+87,41,43,22.66,79.14,5.64,234.95,rice,Western Dry Zone,Whole Year,4.58
+88,47,33,20.49,79.51,4.9,195.62,rice,Western Dry Zone,Kharif,4.55
+90,41,42,24.45,79.97,6.32,250.99,rice,Coastal Delta,Kharif,5.16
+84,50,47,26.32,82.9,6.29,213.66,rice,Northeast Plain,Zaid,5.1
+82,44,37,24.06,81.61,5.48,246.42,rice,Coastal Delta,Rabi,5.71
+96,36,35,24.07,82.1,6.4,240.49,rice,Coastal Delta,Kharif,5.1
+88,40,41,22.5,78.68,6.28,217.38,rice,Central Plateau,Rabi,5.86
+91,44,40,21.99,79.66,5.99,229.81,rice,Central Plateau,Rabi,5.31
+93,44,36,22.58,79.23,5.65,240.32,rice,Southern Hills,Rabi,5.33
+87,53,38,24.89,77.75,6.18,247.68,rice,Western Dry Zone,Kharif,4.66
+80,49,36,27.09,83.58,4.92,243.08,rice,Western Dry Zone,Whole Year,4.8
+99,39,40,24.31,82.0,5.59,237.9,rice,Coastal Delta,Rabi,5.12
+86,40,42,22.75,79.97,5.35,195.43,rice,Western Dry Zone,Zaid,4.69
+100,38,36,24.19,86.1,5.71,209.05,rice,Northeast Plain,Rabi,5.3
+96,42,38,24.51,83.06,5.83,223.4,rice,Southern Hills,Kharif,5.85
+82,38,46,21.67,81.55,5.45,205.38,rice,Western Dry Zone,Rabi,5.59
+83,37,45,26.24,83.02,6.18,210.25,rice,Central Plateau,Zaid,4.59
+79,41,38,22.49,79.71,5.18,230.51,rice,Central Plateau,Kharif,4.71
+79,34,38,22.87,81.61,5.53,225.69,rice,Coastal Delta,Zaid,5.04
+100,39,36,24.72,79.18,5.87,252.57,rice,Central Plateau,Rabi,5.58
+82,44,39,23.91,84.6,4.97,247.14,rice,Northeast Plain,Rabi,4.69
+85,35,40,24.23,84.73,6.14,207.94,rice,Southern Hills,Kharif,5.61
+96,41,49,25.86,79.63,5.73,217.38,rice,Southern Hills,Whole Year,5.78
+86,43,47,24.0,85.0,5.28,218.97,rice,Western Dry Zone,Zaid,5.81
+102,41,33,25.26,81.68,6.57,208.14,rice,Western Dry Zone,Kharif,4.61
+87,42,40,22.97,79.27,5.3,210.32,rice,Coastal Delta,Rabi,4.96
+98,43,38,24.0,82.08,6.02,238.89,rice,Western Dry Zone,Zaid,5.55
+92,44,46,27.04,84.56,4.95,227.81,rice,Northeast Plain,Zaid,5.39
+84,44,34,26.19,86.83,6.14,226.23,rice,Central Plateau,Kharif,4.87
+83,48,31,26.39,83.62,5.8,221.14,rice,Coastal Delta,Rabi,5.15
+88,41,41,22.15,83.45,5.19,242.18,rice,Coastal Delta,Rabi,5.47
+101,44,42,24.94,78.38,5.58,200.82,rice,Central Plateau,Kharif,4.52
+100,33,39,22.76,78.52,5.3,255.9,rice,Coastal Delta,Rabi,4.73
+86,49,41,27.87,82.81,6.17,248.83,rice,Coastal Delta,Rabi,5.51
+102,37,43,20.4,84.73,5.29,257.34,rice,Central Plateau,Kharif,5.2
+93,47,47,23.88,81.0,6.28,215.75,rice,Coastal Delta,Rabi,5.59
+94,46,44,23.45,82.06,6.2,243.09,rice,Coastal Delta,Rabi,5.67
+84,37,41,25.33,82.36,5.18,218.33,rice,Western Dry Zone,Kharif,5.22
+89,31,47,25.12,82.59,6.52,244.52,rice,Central Plateau,Kharif,5.36
+86,39,49,24.78,79.8,6.47,236.97,rice,Coastal Delta,Whole Year,5.37
+85,32,43,22.8,78.19,5.36,218.38,rice,Western Dry Zone,Whole Year,5.39
+86,48,34,22.19,81.97,6.52,196.54,rice,Coastal Delta,Whole Year,5.66
+87,45,32,21.54,79.67,6.02,256.76,rice,Central Plateau,Kharif,4.75
+92,44,34,22.42,77.99,5.42,228.0,rice,Coastal Delta,Rabi,5.79
+91,40,43,24.4,60.94,5.85,109.68,maize,Central Plateau,Kharif,4.65
+72,45,46,25.46,60.57,6.16,103.67,maize,Coastal Delta,Whole Year,4.51
+86,54,40,22.14,54.95,6.06,88.44,maize,Northeast Plain,Zaid,4.5
+80,42,29,23.63,56.12,5.88,83.27,maize,Western Dry Zone,Whole Year,4.11
+87,44,45,27.22,63.71,6.05,87.3,maize,Coastal Delta,Rabi,3.73
+78,41,30,19.07,57.56,6.06,90.47,maize,Southern Hills,Zaid,3.99
+77,36,37,23.38,63.13,6.08,93.66,maize,Southern Hills,Zaid,4.78
+81,49,36,27.21,64.76,6.43,95.17,maize,Northeast Plain,Zaid,4.62
+75,45,45,24.24,55.64,5.99,93.25,maize,Northeast Plain,Kharif,4.4
+92,49,50,22.78,58.75,6.41,76.09,maize,Northeast Plain,Kharif,4.6
+82,39,34,22.63,65.29,6.31,96.26,maize,Central Plateau,Rabi,3.64
+86,48,34,17.81,59.51,6.47,86.37,maize,Southern Hills,Kharif,4.19
+83,45,33,24.88,59.49,6.34,83.3,maize,Southern Hills,Whole Year,4.44
+87,43,33,21.54,59.88,6.07,80.57,maize,Northeast Plain,Zaid,3.75
+86,49,39,20.01,64.37,6.38,81.92,maize,Coastal Delta,Kharif,3.91
+91,48,45,23.85,60.26,5.86,98.03,maize,Southern Hills,Rabi,4.48
+84,44,39,22.84,55.14,6.22,92.04,maize,Southern Hills,Whole Year,4.33
+76,42,38,23.03,60.86,6.0,95.11,maize,Southern Hills,Whole Year,3.6
+78,46,33,27.05,58.81,6.19,79.25,maize,Western Dry Zone,Kharif,4.41
+85,35,34,25.25,61.66,5.76,102.3,maize,Northeast Plain,Kharif,3.73
+74,40,48,17.65,65.67,6.24,106.86,maize,Coastal Delta,Whole Year,3.96
+90,45,32,23.87,61.93,6.02,94.68,maize,Southern Hills,Rabi,4.43
+90,46,46,23.15,61.97,6.25,88.62,maize,Northeast Plain,Kharif,3.71
+75,43,35,26.61,61.95,6.43,94.56,maize,Central Plateau,Kharif,3.5
+74,44,39,27.45,52.54,6.2,77.53,maize,Southern Hills,Whole Year,4.62
+73,47,43,23.15,61.1,6.74,97.94,maize,Western Dry Zone,Zaid,4.16
+75,50,48,26.57,62.55,5.68,93.04,maize,Northeast Plain,Rabi,4.58
+81,50,46,23.12,65.18,6.17,104.02,maize,Southern Hills,Kharif,3.48
+75,48,49,23.63,59.16,5.8,93.54,maize,Northeast Plain,Zaid,3.99
+73,37,33,25.91,58.12,6.1,86.05,maize,Western Dry Zone,Rabi,4.58
+66,47,37,23.94,60.95,6.16,91.43,maize,Coastal Delta,Whole Year,4.69
+76,46,38,22.95,61.07,5.82,94.15,maize,Western Dry Zone,Whole Year,4.86
+90,47,31,24.33,62.77,5.99,94.48,maize,Central Plateau,Kharif,3.73
+92,48,39,22.25,64.28,6.07,91.1,maize,Coastal Delta,Whole Year,4.63
+81,46,31,23.12,59.07,6.09,100.42,maize,Western Dry Zone,Zaid,4.32
+73,41,29,24.7,62.23,6.15,81.98,maize,Western Dry Zone,Whole Year,4.45
+78,37,40,25.42,60.75,6.67,91.85,maize,Northeast Plain,Rabi,4.84
+84,37,40,22.47,58.77,6.21,84.29,maize,Southern Hills,Whole Year,4.79
+71,37,29,26.83,58.57,6.69,98.92,maize,Central Plateau,Whole Year,3.78
+85,40,35,21.06,53.94,6.23,73.92,maize,Northeast Plain,Rabi,4.81
+78,44,28,20.27,63.9,5.62,74.8,maize,Western Dry Zone,Kharif,4.54
+79,44,39,22.94,59.12,6.17,86.71,maize,Western Dry Zone,Whole Year,4.46
+78,36,33,24.31,57.76,6.06,88.26,maize,Southern Hills,Zaid,4.43
+82,46,34,21.0,66.2,5.75,83.92,maize,Coastal Delta,Zaid,4.71
+68,39,36,19.7,65.64,6.36,94.78,maize,Central Plateau,Rabi,3.97
+93,47,43,19.13,60.99,6.1,81.67,maize,Northeast Plain,Whole Year,4.09
+80,47,35,25.27,55.08,5.97,93.38,maize,Coastal Delta,Zaid,3.79
+88,48,40,26.43,57.01,6.67,81.08,maize,Central Plateau,Zaid,4.14
+83,45,30,24.01,56.57,5.77,90.86,maize,Central Plateau,Whole Year,4.26
+79,52,38,18.5,58.38,6.2,98.57,maize,Coastal Delta,Kharif,3.86
+81,53,40,25.87,59.7,6.68,87.38,maize,Coastal Delta,Whole Year,3.51
+76,54,42,20.37,62.92,6.22,91.64,maize,Central Plateau,Whole Year,4.84
+91,36,36,27.44,61.47,6.23,102.89,maize,Central Plateau,Whole Year,4.42
+72,42,40,18.93,60.11,6.16,86.01,maize,Central Plateau,Whole Year,4.32
+82,46,43,25.34,60.39,6.21,72.32,maize,Coastal Delta,Rabi,3.94
+75,47,36,27.41,57.88,6.15,100.45,maize,Central Plateau,Kharif,4.2
+88,44,32,22.46,62.44,6.18,93.07,maize,Central Plateau,Zaid,4.58
+85,48,38,21.64,56.5,6.12,88.33,maize,Western Dry Zone,Zaid,3.97
+80,45,40,25.31,56.3,6.25,92.29,maize,Northeast Plain,Rabi,4.85
+71,43,36,20.85,64.98,6.16,80.78,maize,Coastal Delta,Rabi,3.56
+78,51,33,22.78,56.75,5.9,95.32,maize,Western Dry Zone,Zaid,4.38
+84,53,42,21.41,62.41,5.79,81.95,maize,Southern Hills,Zaid,3.54
+86,42,29,27.05,60.95,6.02,96.67,maize,Northeast Plain,Whole Year,4.33
+76,46,33,24.21,53.45,6.5,91.03,maize,Coastal Delta,Rabi,3.78
+90,44,39,27.42,54.19,5.7,91.59,maize,Southern Hills,Kharif,3.5
+75,52,47,19.69,56.75,6.35,78.22,maize,Central Plateau,Kharif,3.75
+88,45,47,23.49,66.01,6.48,94.13,maize,Coastal Delta,Rabi,4.65
+75,49,34,19.02,56.73,5.87,106.8,maize,Northeast Plain,Zaid,4.67
+70,35,32,19.26,61.96,6.52,80.35,maize,Central Plateau,Whole Year,4.04
+75,41,37,26.22,59.36,6.03,98.78,maize,Western Dry Zone,Whole Year,3.83
+86,40,47,20.31,64.68,5.98,90.54,maize,Southern Hills,Whole Year,3.86
+75,49,34,24.54,62.37,6.11,81.37,maize,Western Dry Zone,Zaid,4.0
+90,48,31,22.24,58.75,5.87,91.1,maize,Central Plateau,Whole Year,4.61
+74,46,35,21.37,60.62,5.98,82.97,maize,Southern Hills,Kharif,3.72
+77,41,48,24.5,56.55,6.39,91.08,maize,Northeast Plain,Whole Year,4.13
+91,49,42,23.83,56.82,6.55,97.25,maize,Central Plateau,Zaid,4.13
+77,47,38,21.67,57.72,6.35,82.59,maize,Western Dry Zone,Whole Year,3.99
+70,45,48,24.89,61.41,5.94,83.95,maize,Southern Hills,Kharif,3.87
+82,40,38,22.61,62.21,6.04,90.5,maize,Southern Hills,Zaid,4.41
+70,46,33,21.04,60.88,6.45,99.23,maize,Coastal Delta,Rabi,4.55
+91,51,39,24.44,60.99,5.91,92.9,maize,Central Plateau,Kharif,4.1
+93,49,45,20.47,67.57,5.66,93.31,maize,Southern Hills,Kharif,4.42
+86,47,33,24.86,63.86,5.78,93.85,maize,Coastal Delta,Zaid,4.0
+95,42,34,19.82,56.84,6.26,77.03,maize,Western Dry Zone,Whole Year,3.43
+72,38,43,21.96,60.53,6.5,83.86,maize,Southern Hills,Whole Year,4.35
+86,39,28,23.16,62.81,6.18,79.69,maize,Western Dry Zone,Zaid,3.92
+81,47,40,22.44,56.93,6.16,78.29,maize,Central Plateau,Kharif,4.61
+81,44,38,25.09,65.51,5.72,80.77,maize,Central Plateau,Rabi,4.53
+81,42,41,26.11,57.07,6.11,91.42,maize,Coastal Delta,Rabi,3.79
+76,39,42,18.59,63.41,6.27,95.27,maize,Western Dry Zone,Zaid,4.46
+79,50,35,20.55,64.39,6.47,90.36,maize,Southern Hills,Kharif,3.56
+78,44,38,22.71,60.44,6.66,84.32,maize,Coastal Delta,Zaid,4.89
+80,42,29,22.67,61.38,6.03,79.17,maize,Northeast Plain,Kharif,3.92
+92,44,33,22.54,62.14,6.47,102.96,maize,Northeast Plain,Zaid,3.54
+87,46,37,17.77,59.74,6.15,87.2,maize,Western Dry Zone,Rabi,4.8
+75,48,31,25.44,58.74,5.9,96.8,maize,Central Plateau,Whole Year,4.7
+79,51,41,17.44,58.28,5.61,96.55,maize,Southern Hills,Zaid,4.3
+75,48,27,17.43,63.54,6.27,94.49,maize,Coastal Delta,Whole Year,4.16
+83,50,27,19.88,55.98,6.2,75.22,maize,Southern Hills,Kharif,4.8
+83,41,35,20.57,56.31,6.11,93.49,maize,Southern Hills,Kharif,4.42
+43,53,81,18.04,20.13,6.42,44.86,chickpea,Northeast Plain,Whole Year,1.85
+44,60,77,19.26,18.21,6.76,29.69,chickpea,Northeast Plain,Rabi,2.26
+33,69,84,22.04,16.76,6.6,40.65,chickpea,Central Plateau,Kharif,1.63
+42,64,70,21.34,21.75,5.91,47.53,chickpea,Coastal Delta,Rabi,2.2
+43,56,74,22.04,17.23,6.25,47.06,chickpea,Southern Hills,Zaid,1.91
+47,55,71,20.58,20.18,6.41,40.37,chickpea,Coastal Delta,Whole Year,2.09
+47,64,79,21.13,22.14,5.94,44.64,chickpea,Northeast Plain,Rabi,1.75
+45,59,87,23.57,16.26,6.81,46.16,chickpea,Northeast Plain,Kharif,2.23
+43,52,80,19.66,13.59,6.66,26.02,chickpea,Northeast Plain,Rabi,1.54
+41,58,72,21.84,13.34,6.69,47.88,chickpea,Central Plateau,Kharif,1.79
+44,67,78,20.18,16.42,6.12,43.79,chickpea,Western Dry Zone,Rabi,1.95
+42,71,72,17.91,17.94,6.34,46.98,chickpea,Central Plateau,Kharif,2.02
+44,60,71,22.35,15.48,6.45,35.9,chickpea,Southern Hills,Kharif,2.27
+44,62,78,22.54,18.09,6.65,33.26,chickpea,Southern Hills,Kharif,2.05
+46,65,66,19.05,12.79,6.89,34.22,chickpea,Western Dry Zone,Rabi,1.97
+53,65,78,22.09,16.54,6.68,34.98,chickpea,Western Dry Zone,Kharif,1.49
+35,55,79,23.03,17.07,6.31,47.65,chickpea,Southern Hills,Rabi,1.54
+44,66,74,18.18,18.93,6.74,36.81,chickpea,Southern Hills,Zaid,1.81
+40,63,70,17.56,18.42,6.66,48.04,chickpea,Central Plateau,Rabi,1.7
+52,56,76,22.23,21.03,6.36,32.32,chickpea,Central Plateau,Whole Year,2.17
+42,64,77,20.31,21.03,6.19,39.17,chickpea,Northeast Plain,Zaid,1.86
+42,55,77,22.37,18.98,6.37,32.54,chickpea,Western Dry Zone,Zaid,2.09
+35,73,79,20.55,16.85,6.17,45.87,chickpea,Central Plateau,Whole Year,2.16
+45,62,78,21.67,14.99,5.96,45.07,chickpea,Western Dry Zone,Rabi,1.97
+45,59,70,19.9,20.24,6.74,48.02,chickpea,Western Dry Zone,Kharif,1.66
+38,68,79,18.07,22.44,6.55,45.52,chickpea,Northeast Plain,Kharif,2.04
+39,60,83,23.02,17.07,6.42,30.34,chickpea,Western Dry Zone,Kharif,1.78
+37,62,79,22.89,16.05,6.38,47.59,chickpea,Central Plateau,Kharif,1.45
+40,55,76,17.57,17.28,6.72,46.55,chickpea,Central Plateau,Kharif,1.51
+37,60,85,21.26,14.6,6.76,49.94,chickpea,Coastal Delta,Kharif,2.2
+49,61,84,19.4,16.61,6.09,50.68,chickpea,Southern Hills,Kharif,1.58
+46,57,70,21.65,20.04,6.48,48.83,chickpea,Coastal Delta,Rabi,1.47
+42,69,75,21.77,18.18,6.23,29.83,chickpea,Southern Hills,Whole Year,2.16
+48,60,70,19.29,19.61,6.65,30.62,chickpea,Southern Hills,Whole Year,2.03
+52,53,78,20.96,15.67,6.28,42.32,chickpea,Southern Hills,Rabi,1.7
+34,57,81,22.66,19.24,6.79,47.52,chickpea,Southern Hills,Kharif,1.57
+48,62,68,16.91,18.61,6.05,34.45,chickpea,Coastal Delta,Zaid,1.64
+51,66,78,21.17,16.99,6.92,45.11,chickpea,Southern Hills,Rabi,2.16
+39,72,76,17.37,20.6,6.19,36.92,chickpea,Central Plateau,Whole Year,1.47
+40,62,73,18.04,18.86,6.64,37.46,chickpea,Central Plateau,Kharif,2.37
+39,68,86,21.23,16.02,6.47,31.99,chickpea,Western Dry Zone,Rabi,2.03
+35,73,71,17.83,16.62,6.55,49.5,chickpea,Central Plateau,Kharif,1.51
+51,67,72,17.88,17.39,7.0,34.72,chickpea,Southern Hills,Kharif,1.9
+53,64,82,16.84,19.05,6.6,30.42,chickpea,Western Dry Zone,Rabi,1.5
+41,56,72,19.44,15.13,6.55,36.89,chickpea,Northeast Plain,Kharif,1.96
+44,61,80,23.13,18.51,6.93,42.22,chickpea,Coastal Delta,Kharif,2.16
+47,63,71,19.35,18.59,6.19,44.85,chickpea,Coastal Delta,Kharif,1.97
+43,51,84,16.69,17.82,6.63,50.18,chickpea,Southern Hills,Rabi,1.56
+50,68,83,21.54,18.66,6.42,44.32,chickpea,Southern Hills,Rabi,1.48
+38,59,85,19.85,18.15,6.7,40.5,chickpea,Northeast Plain,Kharif,1.57
+47,71,65,22.18,16.75,6.99,38.04,chickpea,Northeast Plain,Zaid,1.89
+37,69,81,19.86,20.52,7.07,39.16,chickpea,Western Dry Zone,Rabi,1.62
+49,68,77,23.84,15.67,6.33,39.02,chickpea,Central Plateau,Zaid,2.1
+31,67,74,19.77,14.18,6.27,33.44,chickpea,Central Plateau,Rabi,2.32
+45,59,69,19.19,14.7,6.64,40.7,chickpea,Northeast Plain,Zaid,2.38
+45,67,79,18.78,17.03,6.43,53.38,chickpea,Southern Hills,Rabi,2.08
+34,63,78,20.04,18.21,6.95,37.46,chickpea,Northeast Plain,Kharif,2.48
+52,68,75,20.63,17.56,6.91,39.09,chickpea,Northeast Plain,Rabi,1.91
+54,61,85,19.56,18.47,6.75,31.47,chickpea,Western Dry Zone,Kharif,2.14
+46,65,87,22.18,14.7,6.19,37.7,chickpea,Central Plateau,Zaid,1.7
+55,58,80,22.94,20.65,6.95,44.18,chickpea,Coastal Delta,Zaid,1.83
+32,68,78,19.89,17.75,6.77,41.58,chickpea,Southern Hills,Rabi,1.97
+41,61,81,22.57,18.09,6.36,38.83,chickpea,Northeast Plain,Zaid,1.58
+41,63,83,19.47,17.6,5.91,34.12,chickpea,Coastal Delta,Whole Year,1.83
+42,65,69,21.1,17.1,6.84,40.71,chickpea,Southern Hills,Kharif,2.07
+40,66,82,17.72,18.6,6.69,32.03,chickpea,Coastal Delta,Rabi,1.74
+35,58,86,20.13,16.84,6.48,35.64,chickpea,Northeast Plain,Kharif,1.69
+50,55,79,16.96,19.68,6.32,42.75,chickpea,Coastal Delta,Kharif,2.0
+44,64,67,18.51,17.19,6.79,38.97,chickpea,Southern Hills,Rabi,2.0
+46,72,70,18.47,16.93,6.87,45.47,chickpea,Northeast Plain,Whole Year,1.86
+30,66,72,18.26,18.88,6.4,33.45,chickpea,Coastal Delta,Kharif,2.21
+40,60,81,21.59,20.12,6.86,45.57,chickpea,Northeast Plain,Whole Year,2.25
+46,73,75,20.64,17.2,6.77,40.37,chickpea,Coastal Delta,Kharif,1.53
+39,52,75,21.86,15.58,5.81,38.94,chickpea,Southern Hills,Rabi,1.55
+45,63,75,23.8,15.68,6.54,30.36,chickpea,Southern Hills,Rabi,1.56
+45,72,90,21.51,17.81,6.57,46.38,chickpea,Southern Hills,Rabi,1.91
+45,69,88,21.93,18.99,6.46,39.89,chickpea,Western Dry Zone,Zaid,1.72
+41,55,76,21.85,19.65,6.8,40.44,chickpea,Southern Hills,Zaid,2.29
+43,64,76,20.43,16.9,6.37,47.24,chickpea,Western Dry Zone,Kharif,1.92
+45,70,80,20.36,17.72,5.94,46.5,chickpea,Central Plateau,Whole Year,2.4
+48,61,80,21.68,14.72,6.63,50.37,chickpea,Western Dry Zone,Zaid,1.84
+33,72,71,22.83,17.51,6.72,51.14,chickpea,Central Plateau,Rabi,2.04
+54,61,83,17.7,17.95,6.42,35.96,chickpea,Central Plateau,Rabi,2.26
+47,70,74,19.47,15.13,6.13,41.37,chickpea,Western Dry Zone,Zaid,1.77
+46,52,72,16.16,18.39,6.85,46.67,chickpea,Northeast Plain,Kharif,1.79
+54,58,87,19.21,15.86,7.08,43.35,chickpea,Coastal Delta,Zaid,1.69
+48,64,83,18.31,17.64,6.93,52.37,chickpea,Coastal Delta,Whole Year,1.65
+45,58,71,19.78,17.82,6.53,32.89,chickpea,Western Dry Zone,Zaid,1.79
+43,64,80,21.3,16.11,6.26,48.94,chickpea,Western Dry Zone,Rabi,2.4
+50,56,71,22.03,15.34,6.16,37.98,chickpea,Western Dry Zone,Kharif,1.75
+49,61,74,22.41,15.61,5.92,51.64,chickpea,Northeast Plain,Zaid,2.21
+40,63,75,22.9,20.61,5.99,37.84,chickpea,Central Plateau,Rabi,2.41
+37,65,69,21.69,21.77,6.68,53.17,chickpea,Western Dry Zone,Whole Year,1.94
+33,68,82,20.94,15.08,5.96,50.18,chickpea,Western Dry Zone,Kharif,2.37
+50,65,81,17.2,14.17,6.26,28.38,chickpea,Central Plateau,Kharif,1.56
+41,65,75,22.36,17.69,6.12,51.75,chickpea,Northeast Plain,Whole Year,1.9
+40,65,70,21.6,15.36,6.5,26.23,chickpea,Central Plateau,Rabi,1.9
+37,60,79,18.82,19.68,6.78,42.72,chickpea,Central Plateau,Whole Year,2.09
+46,62,68,20.43,16.02,6.68,40.61,chickpea,Coastal Delta,Zaid,1.83
+53,72,77,17.64,20.08,6.1,44.58,chickpea,Southern Hills,Zaid,1.71
+16,60,57,17.61,20.1,5.4,65.18,kidneybeans,Southern Hills,Kharif,1.37
+16,62,55,22.1,18.54,5.87,83.89,kidneybeans,Western Dry Zone,Rabi,1.47
+24,60,51,14.93,22.33,5.66,85.3,kidneybeans,Central Plateau,Kharif,1.49
+17,64,51,18.17,20.46,5.69,102.31,kidneybeans,Northeast Plain,Kharif,1.16
+34,54,55,22.51,21.13,5.69,83.1,kidneybeans,Western Dry Zone,Kharif,1.84
+18,59,51,15.96,16.5,5.68,77.31,kidneybeans,Coastal Delta,Rabi,1.84
+31,60,63,16.84,24.44,5.68,86.12,kidneybeans,Coastal Delta,Kharif,1.27
+16,59,59,23.91,18.73,5.44,51.4,kidneybeans,Northeast Plain,Kharif,1.81
+17,52,57,24.29,21.9,5.95,82.97,kidneybeans,Western Dry Zone,Whole Year,1.71
+22,62,56,18.38,20.95,5.98,65.75,kidneybeans,Western Dry Zone,Zaid,1.28
+35,65,52,23.61,17.01,5.97,96.53,kidneybeans,Northeast Plain,Kharif,1.82
+18,61,56,15.86,20.26,6.1,77.07,kidneybeans,Northeast Plain,Rabi,1.26
+27,58,56,20.6,21.62,5.56,89.38,kidneybeans,Northeast Plain,Whole Year,1.26
+23,55,59,20.79,25.88,5.69,72.34,kidneybeans,Coastal Delta,Kharif,1.36
+24,57,62,16.91,23.21,5.99,77.56,kidneybeans,Western Dry Zone,Kharif,1.21
+16,66,50,19.98,21.37,5.83,64.67,kidneybeans,Coastal Delta,Kharif,1.66
+24,69,56,22.15,18.56,5.68,80.18,kidneybeans,Southern Hills,Whole Year,1.36
+26,66,51,23.65,18.95,5.74,57.32,kidneybeans,Northeast Plain,Zaid,1.79
+31,59,50,23.19,20.41,5.74,93.37,kidneybeans,Northeast Plain,Whole Year,1.86
+32,55,51,16.4,17.39,6.01,84.55,kidneybeans,Coastal Delta,Whole Year,1.47
+17,59,49,15.41,22.14,5.44,65.22,kidneybeans,Central Plateau,Whole Year,1.85
+18,61,62,15.04,21.79,6.06,79.47,kidneybeans,Western Dry Zone,Kharif,1.47
+15,60,60,20.14,24.39,5.33,70.43,kidneybeans,Western Dry Zone,Whole Year,1.59
+26,58,53,17.95,23.51,5.95,101.55,kidneybeans,Southern Hills,Whole Year,1.29
+22,65,54,18.8,24.72,5.55,81.52,kidneybeans,Northeast Plain,Whole Year,1.39
+26,65,53,16.69,25.38,5.78,87.96,kidneybeans,Western Dry Zone,Whole Year,1.81
+27,55,50,18.81,18.8,5.78,89.87,kidneybeans,Central Plateau,Whole Year,1.62
+30,67,55,23.34,19.89,5.56,73.69,kidneybeans,Northeast Plain,Zaid,1.37
+34,64,62,16.12,20.86,5.44,83.64,kidneybeans,Coastal Delta,Whole Year,1.71
+31,51,55,17.95,17.66,5.65,89.82,kidneybeans,Southern Hills,Rabi,1.59
+20,61,49,23.67,22.66,5.84,96.16,kidneybeans,Central Plateau,Kharif,1.87
+34,57,51,15.64,22.98,5.86,55.73,kidneybeans,Northeast Plain,Whole Year,1.53
+25,57,52,16.14,19.59,5.71,56.43,kidneybeans,Northeast Plain,Zaid,1.37
+19,61,55,17.04,19.41,5.53,81.3,kidneybeans,Coastal Delta,Rabi,1.7
+22,60,53,23.72,25.11,5.43,70.66,kidneybeans,Western Dry Zone,Whole Year,1.79
+12,60,57,15.72,25.36,5.97,93.52,kidneybeans,Southern Hills,Rabi,1.17
+35,55,62,19.41,20.81,6.03,98.58,kidneybeans,Western Dry Zone,Kharif,1.68
+29,65,50,18.38,19.5,5.56,58.08,kidneybeans,Southern Hills,Kharif,1.43
+34,61,55,22.47,23.69,5.65,66.65,kidneybeans,Coastal Delta,Kharif,1.21
+18,64,55,21.36,18.78,5.65,69.71,kidneybeans,Northeast Plain,Whole Year,1.79
+23,63,51,15.92,19.97,5.28,102.96,kidneybeans,Western Dry Zone,Kharif,1.89
+23,61,49,19.67,25.45,5.57,97.67,kidneybeans,Northeast Plain,Whole Year,1.64
+22,62,56,18.79,19.71,5.42,85.07,kidneybeans,Coastal Delta,Rabi,1.66
+27,59,62,21.29,24.61,5.74,90.52,kidneybeans,Coastal Delta,Kharif,1.87
+16,63,50,21.83,22.24,5.43,63.82,kidneybeans,Central Plateau,Whole Year,1.16
+22,66,62,15.79,24.21,5.92,71.8,kidneybeans,Central Plateau,Kharif,1.4
+24,61,56,20.16,25.91,5.9,74.1,kidneybeans,Northeast Plain,Rabi,1.26
+15,59,48,23.37,21.87,5.55,71.86,kidneybeans,Central Plateau,Zaid,1.31
+15,54,54,21.2,19.72,6.02,94.29,kidneybeans,Southern Hills,Whole Year,1.91
+25,64,57,18.65,22.65,5.67,70.41,kidneybeans,Western Dry Zone,Rabi,1.56
+23,66,56,23.13,21.1,5.74,67.15,kidneybeans,Western Dry Zone,Kharif,1.74
+26,58,57,20.03,21.37,6.29,86.5,kidneybeans,Northeast Plain,Kharif,1.84
+23,65,52,22.86,19.18,5.6,68.16,kidneybeans,Coastal Delta,Zaid,1.65
+33,67,64,18.96,21.1,5.65,66.21,kidneybeans,Central Plateau,Whole Year,1.29
+19,58,49,18.07,20.81,5.77,64.22,kidneybeans,Northeast Plain,Zaid,1.82
+28,64,59,18.93,22.87,5.51,65.01,kidneybeans,Coastal Delta,Zaid,1.9
+16,55,54,14.54,19.42,5.7,64.8,kidneybeans,Coastal Delta,Kharif,1.87
+15,70,65,19.83,24.14,5.71,68.55,kidneybeans,Central Plateau,Whole Year,1.59
+28,57,62,22.01,21.13,5.51,93.58,kidneybeans,Southern Hills,Kharif,1.78
+20,67,59,21.46,20.1,5.97,71.11,kidneybeans,Western Dry Zone,Rabi,1.18
+19,58,55,14.88,16.69,5.84,83.01,kidneybeans,Southern Hills,Zaid,1.64
+31,56,52,22.86,24.81,5.63,84.99,kidneybeans,Central Plateau,Whole Year,1.36
+21,61,59,18.97,15.22,5.81,101.97,kidneybeans,Central Plateau,Zaid,1.57
+24,61,51,20.19,17.82,5.89,61.29,kidneybeans,Western Dry Zone,Whole Year,1.26
+19,54,54,18.6,23.43,5.8,81.95,kidneybeans,Coastal Delta,Rabi,1.47
+22,58,53,22.92,23.21,5.88,95.59,kidneybeans,Western Dry Zone,Whole Year,1.85
+17,68,50,22.54,25.23,5.63,64.66,kidneybeans,Central Plateau,Kharif,1.25
+31,58,58,15.2,19.15,6.11,67.3,kidneybeans,Central Plateau,Rabi,1.44
+27,60,55,21.8,18.14,5.75,61.84,kidneybeans,Northeast Plain,Kharif,1.24
+29,58,61,21.09,24.5,5.73,77.84,kidneybeans,Central Plateau,Zaid,1.83
+15,51,55,17.83,20.23,5.64,82.4,kidneybeans,Southern Hills,Kharif,1.46
+29,62,56,15.67,21.4,5.66,98.35,kidneybeans,Northeast Plain,Whole Year,1.33
+25,57,53,20.51,21.84,5.53,70.93,kidneybeans,Coastal Delta,Rabi,1.62
+24,61,57,21.34,19.62,5.63,85.32,kidneybeans,Northeast Plain,Zaid,1.64
+18,58,60,16.87,23.45,5.4,93.19,kidneybeans,Central Plateau,Kharif,1.84
+23,60,49,23.28,19.18,5.98,57.78,kidneybeans,Central Plateau,Rabi,1.62
+30,55,57,19.8,18.86,5.61,86.14,kidneybeans,Western Dry Zone,Zaid,1.58
+25,66,52,18.21,22.97,5.92,79.22,kidneybeans,Coastal Delta,Kharif,1.45
+26,56,53,19.48,18.24,6.16,71.98,kidneybeans,Northeast Plain,Whole Year,1.66
+21,58,48,21.44,16.5,6.11,63.72,kidneybeans,Southern Hills,Whole Year,1.44
+19,62,57,22.75,22.08,6.1,72.59,kidneybeans,Central Plateau,Kharif,1.27
+33,57,52,23.2,17.6,5.99,95.95,kidneybeans,Central Plateau,Zaid,1.43
+20,61,56,19.35,18.48,5.53,92.26,kidneybeans,Northeast Plain,Whole Year,1.74
+19,63,51,21.91,18.98,5.62,65.94,kidneybeans,Southern Hills,Zaid,1.32
+23,62,61,16.27,19.48,5.85,91.69,kidneybeans,Central Plateau,Rabi,1.38
+23,60,61,20.23,19.69,6.03,61.71,kidneybeans,Central Plateau,Rabi,1.6
+25,56,62,22.67,22.18,5.88,87.89,kidneybeans,Northeast Plain,Kharif,1.71
+27,66,64,23.74,17.45,5.67,68.51,kidneybeans,Northeast Plain,Zaid,1.56
+26,53,47,21.75,21.73,6.04,93.78,kidneybeans,Northeast Plain,Rabi,1.24
+19,56,62,22.07,22.29,5.94,79.09,kidneybeans,Coastal Delta,Rabi,1.59
+27,56,52,18.33,20.19,5.45,91.46,kidneybeans,Western Dry Zone,Zaid,1.71
+19,56,47,19.85,25.34,5.87,71.6,kidneybeans,Coastal Delta,Kharif,1.18
+31,67,55,21.29,18.09,5.59,85.83,kidneybeans,Northeast Plain,Rabi,1.92
+23,55,60,17.49,19.4,6.19,98.94,kidneybeans,Coastal Delta,Whole Year,1.36
+24,59,53,16.57,23.58,5.43,69.88,kidneybeans,Central Plateau,Kharif,1.88
+15,69,58,15.98,22.61,6.06,77.75,kidneybeans,Central Plateau,Whole Year,1.58
+30,64,51,19.72,26.25,5.68,107.6,kidneybeans,Western Dry Zone,Kharif,1.7
+24,59,57,18.77,15.04,5.58,64.45,kidneybeans,Northeast Plain,Zaid,1.93
+22,66,50,19.47,19.79,5.63,82.17,kidneybeans,Western Dry Zone,Kharif,1.63
+30,56,53,24.21,17.63,5.58,102.87,kidneybeans,Northeast Plain,Whole Year,1.24
+31,64,23,29.36,43.86,5.73,119.99,pigeonpeas,Western Dry Zone,Kharif,1.94
+25,78,26,20.32,58.25,6.6,119.69,pigeonpeas,Central Plateau,Rabi,2.68
+31,67,16,26.83,52.8,5.97,111.76,pigeonpeas,Coastal Delta,Whole Year,2.29
+37,75,21,24.05,43.3,6.02,107.62,pigeonpeas,Northeast Plain,Rabi,2.38
+36,78,25,28.45,55.18,6.5,103.96,pigeonpeas,Northeast Plain,Rabi,2.13
+18,76,13,26.21,53.15,5.78,121.67,pigeonpeas,Western Dry Zone,Kharif,2.52
+36,68,27,24.62,54.05,6.66,96.86,pigeonpeas,Western Dry Zone,Rabi,2.54
+31,75,20,20.12,53.91,6.43,127.68,pigeonpeas,Southern Hills,Zaid,2.0
+22,64,22,20.2,52.75,5.79,100.42,pigeonpeas,Coastal Delta,Rabi,2.04
+17,66,25,21.59,55.84,6.15,105.61,pigeonpeas,Southern Hills,Rabi,2.07
+28,69,29,21.39,49.25,6.06,111.02,pigeonpeas,Coastal Delta,Whole Year,1.58
+16,82,16,21.77,60.85,6.14,111.63,pigeonpeas,Southern Hills,Kharif,2.19
+19,65,24,23.19,54.21,5.52,132.97,pigeonpeas,Coastal Delta,Whole Year,2.52
+32,65,22,20.91,55.52,5.97,101.36,pigeonpeas,Western Dry Zone,Zaid,2.38
+31,71,20,24.29,51.7,6.4,106.71,pigeonpeas,Southern Hills,Rabi,1.76
+23,80,23,24.42,49.93,6.5,130.02,pigeonpeas,Coastal Delta,Whole Year,1.94
+32,77,17,24.35,48.01,5.69,126.46,pigeonpeas,Northeast Plain,Whole Year,2.32
+28,74,20,28.35,55.42,5.52,107.54,pigeonpeas,Southern Hills,Whole Year,1.56
+26,70,23,23.66,55.98,6.64,118.79,pigeonpeas,Northeast Plain,Zaid,2.4
+29,72,28,20.34,56.16,6.63,124.48,pigeonpeas,Central Plateau,Zaid,2.62
+29,70,19,21.03,54.5,5.52,111.71,pigeonpeas,Northeast Plain,Kharif,2.46
+20,67,22,27.86,49.86,6.42,142.18,pigeonpeas,Western Dry Zone,Zaid,1.55
+30,74,19,26.35,58.29,6.36,102.62,pigeonpeas,Southern Hills,Rabi,1.67
+32,68,21,25.68,53.95,6.02,106.57,pigeonpeas,Southern Hills,Whole Year,2.05
+25,81,21,27.54,45.23,6.38,97.46,pigeonpeas,Western Dry Zone,Kharif,1.92
+16,69,12,22.28,50.22,5.31,110.15,pigeonpeas,Central Plateau,Kharif,1.84
+31,74,16,30.63,59.14,6.1,110.06,pigeonpeas,Coastal Delta,Zaid,1.76
+29,74,15,20.46,50.35,5.86,100.34,pigeonpeas,Northeast Plain,Whole Year,2.08
+25,78,17,21.03,59.91,5.77,122.38,pigeonpeas,Northeast Plain,Zaid,1.54
+27,77,21,26.19,49.44,6.55,99.9,pigeonpeas,Northeast Plain,Rabi,1.79
+36,67,14,24.7,46.39,6.18,131.48,pigeonpeas,Coastal Delta,Zaid,1.55
+36,78,13,27.56,57.36,6.16,88.59,pigeonpeas,Northeast Plain,Rabi,1.9
+31,72,23,29.63,48.57,5.91,117.59,pigeonpeas,Southern Hills,Zaid,2.64
+21,80,14,21.46,59.7,6.71,84.18,pigeonpeas,Coastal Delta,Whole Year,1.78
+19,78,18,23.86,57.95,5.92,135.93,pigeonpeas,Southern Hills,Zaid,2.02
+36,68,17,27.75,46.13,5.85,113.18,pigeonpeas,Coastal Delta,Kharif,2.62
+28,79,23,21.69,52.51,6.62,103.72,pigeonpeas,Northeast Plain,Kharif,1.56
+37,82,27,23.02,52.57,6.54,123.64,pigeonpeas,Southern Hills,Zaid,1.73
+24,67,18,29.4,58.17,6.25,97.27,pigeonpeas,Northeast Plain,Rabi,2.46
+30,69,17,24.45,55.38,6.41,112.74,pigeonpeas,Coastal Delta,Whole Year,2.33
+25,67,29,29.32,51.41,7.07,105.31,pigeonpeas,Southern Hills,Rabi,1.53
+26,69,18,22.2,47.25,5.81,90.69,pigeonpeas,Southern Hills,Zaid,1.96
+17,66,20,19.61,56.49,6.91,118.13,pigeonpeas,Southern Hills,Kharif,1.97
+29,71,21,29.47,44.46,6.08,133.02,pigeonpeas,Coastal Delta,Kharif,1.62
+20,78,15,27.84,48.4,5.96,136.8,pigeonpeas,Coastal Delta,Kharif,1.94
+23,67,19,21.77,48.18,6.81,122.55,pigeonpeas,Northeast Plain,Rabi,2.36
+19,75,21,23.97,57.69,6.21,130.94,pigeonpeas,Southern Hills,Zaid,1.78
+24,73,21,26.37,46.21,6.42,131.91,pigeonpeas,Northeast Plain,Zaid,2.38
+23,65,20,23.15,53.34,6.36,108.92,pigeonpeas,Central Plateau,Whole Year,2.22
+25,70,30,19.37,55.14,6.38,114.53,pigeonpeas,Northeast Plain,Rabi,1.84
+36,68,18,24.81,45.46,5.75,127.87,pigeonpeas,Coastal Delta,Whole Year,2.3
+21,80,24,27.99,46.73,5.63,99.97,pigeonpeas,Coastal Delta,Whole Year,2.29
+27,78,23,27.68,44.53,6.19,123.55,pigeonpeas,Coastal Delta,Kharif,1.65
+26,71,17,26.6,44.82,6.53,131.2,pigeonpeas,Central Plateau,Kharif,1.79
+17,65,15,26.72,54.5,5.36,105.18,pigeonpeas,Southern Hills,Zaid,2.53
+26,72,17,29.29,59.36,6.71,110.1,pigeonpeas,Northeast Plain,Rabi,1.64
+29,80,23,25.89,45.8,6.02,121.11,pigeonpeas,Western Dry Zone,Rabi,2.71
+31,74,20,23.26,52.35,6.7,117.93,pigeonpeas,Coastal Delta,Zaid,1.97
+29,74,21,25.17,49.68,5.97,133.88,pigeonpeas,Southern Hills,Rabi,1.72
+35,67,21,22.68,54.77,6.04,95.14,pigeonpeas,Central Plateau,Rabi,2.2
+27,69,11,29.29,54.18,6.09,82.66,pigeonpeas,Northeast Plain,Zaid,2.41
+30,66,20,27.99,50.12,5.68,111.68,pigeonpeas,Coastal Delta,Zaid,1.82
+31,79,28,22.3,59.39,5.9,95.79,pigeonpeas,Southern Hills,Rabi,1.47
+38,66,28,24.71,61.29,6.09,130.92,pigeonpeas,Southern Hills,Rabi,1.72
+38,62,21,22.61,58.05,5.24,116.76,pigeonpeas,Coastal Delta,Zaid,2.53
+37,71,25,26.65,45.21,6.11,130.47,pigeonpeas,Central Plateau,Kharif,2.45
+36,76,22,20.6,48.8,6.39,133.99,pigeonpeas,Coastal Delta,Kharif,1.84
+31,68,29,26.04,52.0,6.21,108.44,pigeonpeas,Northeast Plain,Rabi,1.65
+37,72,24,25.69,56.5,6.49,109.09,pigeonpeas,Southern Hills,Zaid,2.22
+20,75,20,25.49,46.91,6.49,109.62,pigeonpeas,Coastal Delta,Zaid,2.55
+23,77,19,23.66,58.32,6.08,92.0,pigeonpeas,Central Plateau,Zaid,1.72
+33,78,21,22.3,55.34,6.21,128.55,pigeonpeas,Western Dry Zone,Zaid,2.51
+24,79,15,21.32,50.11,6.05,113.42,pigeonpeas,Western Dry Zone,Zaid,2.14
+20,68,16,29.42,47.55,6.5,111.98,pigeonpeas,Western Dry Zone,Rabi,2.63
+25,72,29,25.13,43.62,6.49,143.15,pigeonpeas,Southern Hills,Kharif,1.47
+26,61,25,23.9,49.05,6.23,138.81,pigeonpeas,Northeast Plain,Rabi,1.5
+32,69,13,28.87,49.22,6.46,131.68,pigeonpeas,Northeast Plain,Zaid,2.0
+26,64,20,23.26,55.02,6.37,117.1,pigeonpeas,Central Plateau,Rabi,1.93
+22,66,19,27.25,47.93,6.15,115.91,pigeonpeas,Northeast Plain,Whole Year,2.46
+36,74,14,27.77,57.66,5.94,120.37,pigeonpeas,Coastal Delta,Whole Year,1.93
+29,64,24,29.62,53.36,6.58,105.18,pigeonpeas,Northeast Plain,Rabi,2.23
+28,77,23,26.68,49.28,6.57,106.73,pigeonpeas,Northeast Plain,Kharif,1.77
+28,69,17,23.18,52.84,5.73,126.72,pigeonpeas,Central Plateau,Kharif,1.64
+31,68,20,27.58,62.27,6.49,111.43,pigeonpeas,Central Plateau,Rabi,2.23
+30,64,20,22.46,51.35,5.4,101.11,pigeonpeas,Northeast Plain,Rabi,2.59
+17,76,24,19.7,47.48,6.54,134.02,pigeonpeas,Southern Hills,Zaid,2.27
+24,71,20,20.97,53.07,6.12,98.81,pigeonpeas,Northeast Plain,Kharif,2.02
+23,65,30,26.2,50.33,5.49,97.74,pigeonpeas,Central Plateau,Zaid,2.4
+23,70,24,22.81,56.55,6.32,108.2,pigeonpeas,Western Dry Zone,Kharif,2.19
+22,75,25,26.82,46.29,6.6,94.92,pigeonpeas,Coastal Delta,Whole Year,1.54
+25,70,15,21.69,60.48,6.49,113.06,pigeonpeas,Coastal Delta,Whole Year,1.55
+37,61,20,26.1,59.46,6.29,107.13,pigeonpeas,Southern Hills,Kharif,1.52
+26,71,21,23.93,54.88,6.7,115.66,pigeonpeas,Southern Hills,Rabi,2.59
+22,72,23,21.41,48.26,6.91,123.05,pigeonpeas,Coastal Delta,Zaid,2.62
+40,68,15,21.64,60.53,5.8,131.14,pigeonpeas,Central Plateau,Whole Year,1.61
+37,74,20,19.67,49.53,5.66,115.3,pigeonpeas,Southern Hills,Whole Year,1.48
+31,74,21,24.02,48.5,6.2,98.32,pigeonpeas,Coastal Delta,Zaid,2.12
+33,81,22,20.94,46.22,6.59,133.49,pigeonpeas,Northeast Plain,Whole Year,2.09
+32,77,14,20.21,56.92,6.61,103.14,pigeonpeas,Coastal Delta,Zaid,1.78
+29,66,22,24.96,47.74,6.79,113.26,pigeonpeas,Central Plateau,Zaid,2.5
+21,42,15,25.96,60.66,7.23,48.2,mothbeans,Central Plateau,Zaid,1.35
+14,37,14,26.03,56.05,6.83,27.23,mothbeans,Central Plateau,Rabi,1.25
+15,41,23,27.98,52.67,6.38,41.93,mothbeans,Central Plateau,Whole Year,0.83
+21,42,15,24.55,53.6,7.68,49.75,mothbeans,Coastal Delta,Kharif,1.22
+22,42,19,24.38,43.93,6.93,31.1,mothbeans,Southern Hills,Whole Year,1.17
+19,54,20,27.73,54.94,6.84,56.19,mothbeans,Southern Hills,Whole Year,1.36
+27,44,22,27.63,48.57,7.04,55.8,mothbeans,Northeast Plain,Whole Year,1.4
+17,60,15,27.28,49.14,6.86,39.21,mothbeans,Southern Hills,Zaid,1.41
+18,42,18,29.44,42.92,6.97,52.99,mothbeans,Western Dry Zone,Kharif,1.14
+27,48,26,28.84,44.79,6.99,41.83,mothbeans,Southern Hills,Zaid,1.41
+22,50,23,30.08,51.07,6.59,43.38,mothbeans,Southern Hills,Zaid,1.28
+30,53,24,29.52,55.97,6.76,29.38,mothbeans,Northeast Plain,Rabi,0.99
+20,39,25,30.15,50.46,7.45,35.99,mothbeans,Central Plateau,Zaid,1.03
+21,51,22,29.03,44.96,7.3,28.06,mothbeans,Coastal Delta,Whole Year,1.04
+22,47,21,27.48,42.32,6.66,28.75,mothbeans,Northeast Plain,Zaid,0.83
+15,36,11,29.63,50.29,7.03,39.16,mothbeans,Coastal Delta,Zaid,0.97
+17,55,16,27.49,39.72,6.73,43.89,mothbeans,Central Plateau,Kharif,1.44
+21,51,27,28.96,54.91,6.36,53.9,mothbeans,Northeast Plain,Kharif,1.3
+14,50,17,29.02,55.7,7.11,35.15,mothbeans,Coastal Delta,Whole Year,1.38
+22,40,16,27.78,49.81,7.24,43.53,mothbeans,Central Plateau,Zaid,1.07
+20,43,25,30.7,40.75,6.88,48.13,mothbeans,Central Plateau,Whole Year,0.95
+14,42,24,25.4,54.92,6.99,30.74,mothbeans,Central Plateau,Rabi,1.4
+17,51,18,29.32,61.87,7.38,54.8,mothbeans,Central Plateau,Whole Year,0.85
+20,54,18,30.42,60.47,7.24,52.67,mothbeans,Central Plateau,Rabi,0.87
+22,50,17,28.88,52.98,6.53,34.52,mothbeans,Western Dry Zone,Kharif,0.91
+18,43,17,28.21,61.55,7.17,39.0,mothbeans,Central Plateau,Kharif,0.83
+10,48,18,28.29,48.98,6.42,34.97,mothbeans,Coastal Delta,Whole Year,1.46
+17,52,21,24.81,56.4,7.16,40.6,mothbeans,Coastal Delta,Whole Year,0.9
+24,42,17,29.72,49.3,7.01,46.61,mothbeans,Western Dry Zone,Whole Year,0.94
+17,57,20,28.44,57.75,6.62,33.07,mothbeans,Central Plateau,Whole Year,1.41
+26,47,19,30.3,61.81,7.06,46.97,mothbeans,Coastal Delta,Kharif,0.97
+15,54,26,29.03,52.54,6.39,48.31,mothbeans,Central Plateau,Kharif,0.84
+22,49,16,30.62,59.2,7.11,56.73,mothbeans,Central Plateau,Whole Year,0.82
+16,48,26,27.48,41.4,7.12,56.87,mothbeans,Coastal Delta,Kharif,1.22
+25,53,15,28.97,42.69,7.21,34.18,mothbeans,Western Dry Zone,Kharif,0.98
+21,44,28,25.83,56.74,7.32,44.22,mothbeans,Coastal Delta,Whole Year,1.34
+23,43,25,28.95,51.51,6.72,53.65,mothbeans,Western Dry Zone,Zaid,1.46
+21,46,26,28.66,57.16,7.28,36.62,mothbeans,Coastal Delta,Rabi,1.23
+27,46,16,25.48,41.32,6.25,42.27,mothbeans,Coastal Delta,Kharif,0.88
+20,45,22,27.88,52.37,7.32,47.43,mothbeans,Western Dry Zone,Rabi,0.84
+25,50,13,28.73,53.18,6.75,46.58,mothbeans,Western Dry Zone,Kharif,1.01
+26,56,17,26.9,59.53,6.44,36.12,mothbeans,Western Dry Zone,Rabi,1.41
+28,49,21,29.52,45.65,6.83,52.17,mothbeans,Central Plateau,Zaid,1.17
+20,45,24,25.34,55.83,6.36,39.37,mothbeans,Western Dry Zone,Rabi,1.05
+20,48,22,30.79,43.06,7.05,32.54,mothbeans,Central Plateau,Rabi,1.18
+21,37,23,28.43,39.84,7.21,40.51,mothbeans,Western Dry Zone,Kharif,0.8
+13,37,18,25.24,46.0,6.7,47.28,mothbeans,Northeast Plain,Rabi,1.19
+17,42,22,26.84,44.17,6.77,44.47,mothbeans,Southern Hills,Rabi,1.32
+26,44,23,25.17,43.86,7.65,37.87,mothbeans,Northeast Plain,Kharif,0.92
+29,44,22,27.44,50.11,6.54,33.93,mothbeans,Western Dry Zone,Rabi,1.38
+28,36,26,27.19,53.84,7.11,60.63,mothbeans,Southern Hills,Rabi,0.93
+21,49,27,29.0,44.5,6.36,29.48,mothbeans,Western Dry Zone,Kharif,1.14
+20,57,24,27.92,50.45,7.51,36.69,mothbeans,Central Plateau,Whole Year,1.19
+20,44,24,24.8,49.74,7.23,29.58,mothbeans,Central Plateau,Rabi,1.37
+21,50,16,28.44,43.36,7.44,43.87,mothbeans,Northeast Plain,Kharif,1.32
+20,43,25,28.26,48.63,7.12,52.54,mothbeans,Western Dry Zone,Rabi,0.9
+16,55,17,28.98,54.73,6.4,63.31,mothbeans,Coastal Delta,Zaid,1.03
+30,39,15,27.15,55.7,6.47,37.13,mothbeans,Northeast Plain,Rabi,1.41
+26,56,25,28.07,45.93,7.29,46.02,mothbeans,Northeast Plain,Zaid,0.98
+23,39,23,26.93,44.04,6.59,44.14,mothbeans,Coastal Delta,Rabi,0.89
+16,59,19,27.63,55.28,7.67,59.32,mothbeans,Northeast Plain,Kharif,1.1
+21,47,21,24.94,46.19,6.82,56.52,mothbeans,Coastal Delta,Whole Year,0.95
+14,51,20,26.96,60.24,7.06,24.04,mothbeans,Northeast Plain,Zaid,1.05
+16,46,20,26.08,40.94,7.7,45.38,mothbeans,Southern Hills,Kharif,0.81
+22,53,15,25.73,59.05,6.8,44.16,mothbeans,Central Plateau,Whole Year,1.19
+22,50,17,28.01,52.88,7.31,39.79,mothbeans,Central Plateau,Rabi,1.16
+25,50,13,27.04,43.68,6.74,33.18,mothbeans,Western Dry Zone,Rabi,1.14
+22,48,24,28.14,53.69,7.56,61.69,mothbeans,Western Dry Zone,Rabi,1.28
+17,48,11,27.13,61.44,7.19,58.32,mothbeans,Coastal Delta,Rabi,1.38
+15,57,28,26.43,57.18,6.71,58.59,mothbeans,Southern Hills,Whole Year,1.41
+22,47,22,27.55,51.88,7.16,60.32,mothbeans,Coastal Delta,Kharif,1.29
+24,42,22,29.18,37.82,7.08,58.95,mothbeans,Coastal Delta,Kharif,0.97
+27,46,26,25.17,55.02,6.71,47.16,mothbeans,Western Dry Zone,Kharif,1.16
+18,58,20,25.54,49.5,7.47,40.46,mothbeans,Coastal Delta,Whole Year,1.35
+16,49,11,25.72,47.87,6.73,63.85,mothbeans,Coastal Delta,Zaid,1.15
+13,53,18,25.7,45.8,6.47,58.27,mothbeans,Western Dry Zone,Kharif,1.34
+17,60,27,28.84,54.84,7.1,46.27,mothbeans,Southern Hills,Whole Year,0.94
+22,43,22,26.94,52.68,6.66,48.35,mothbeans,Southern Hills,Whole Year,0.99
+22,46,14,27.67,53.02,6.94,58.23,mothbeans,Southern Hills,Rabi,0.93
+21,39,20,27.64,42.88,7.34,39.18,mothbeans,Coastal Delta,Rabi,1.02
+26,49,20,26.69,39.89,7.29,42.35,mothbeans,Central Plateau,Kharif,0.89
+20,54,26,27.44,44.71,7.05,44.28,mothbeans,Central Plateau,Whole Year,1.08
+23,47,18,25.32,59.94,6.99,34.46,mothbeans,Coastal Delta,Whole Year,0.98
+12,49,24,25.41,54.87,7.12,47.44,mothbeans,Central Plateau,Zaid,1.25
+26,46,14,28.01,41.86,6.43,65.11,mothbeans,Central Plateau,Kharif,1.35
+25,50,23,28.83,52.86,6.47,37.84,mothbeans,Western Dry Zone,Whole Year,1.29
+19,49,22,29.69,47.03,7.27,38.02,mothbeans,Northeast Plain,Rabi,1.45
+21,42,15,27.13,61.0,7.23,54.52,mothbeans,Northeast Plain,Rabi,1.36
+28,51,23,26.98,46.35,6.96,28.83,mothbeans,Western Dry Zone,Whole Year,1.37
+25,53,13,25.16,58.33,7.46,37.52,mothbeans,Western Dry Zone,Zaid,1.24
+17,45,29,26.6,42.77,7.22,39.43,mothbeans,Western Dry Zone,Whole Year,1.11
+16,49,25,26.1,62.25,7.45,40.87,mothbeans,Southern Hills,Kharif,1.43
+24,43,20,28.84,40.85,7.45,39.66,mothbeans,Central Plateau,Rabi,1.05
+16,52,13,26.62,49.41,6.67,31.75,mothbeans,Coastal Delta,Kharif,1.18
+17,46,20,29.27,52.96,6.9,36.89,mothbeans,Northeast Plain,Zaid,1.42
+21,55,16,27.07,43.48,6.82,49.37,mothbeans,Central Plateau,Zaid,1.28
+15,51,24,28.94,39.19,7.51,40.78,mothbeans,Northeast Plain,Zaid,1.28
+27,47,15,26.89,53.39,6.55,50.66,mothbeans,Central Plateau,Whole Year,1.09
+22,51,20,28.84,53.39,7.03,52.07,mothbeans,Western Dry Zone,Zaid,1.4
+19,50,19,25.7,53.0,7.69,52.28,mothbeans,Central Plateau,Whole Year,1.33
+18,51,17,28.71,81.59,6.42,34.68,mungbean,Coastal Delta,Zaid,1.58
+18,58,27,29.14,84.87,6.69,44.72,mungbean,Coastal Delta,Zaid,0.99
+23,55,27,28.5,83.61,6.91,41.71,mungbean,Southern Hills,Kharif,1.14
+6,54,23,30.19,82.77,6.54,57.01,mungbean,Western Dry Zone,Zaid,1.52
+24,60,15,27.78,79.67,6.82,52.31,mungbean,Central Plateau,Rabi,1.08
+10,56,20,28.2,84.48,6.98,33.88,mungbean,Coastal Delta,Zaid,1.3
+13,48,10,29.57,82.97,6.37,46.5,mungbean,Western Dry Zone,Rabi,1.4
+14,55,19,27.47,80.98,6.75,49.21,mungbean,Southern Hills,Zaid,1.25
+9,49,13,27.38,82.75,6.42,56.82,mungbean,Western Dry Zone,Kharif,1.63
+12,51,15,27.39,85.77,6.24,51.16,mungbean,Western Dry Zone,Rabi,1.39
+26,51,30,29.22,85.35,6.34,44.2,mungbean,Coastal Delta,Rabi,1.67
+15,49,26,29.02,82.9,6.56,37.1,mungbean,Coastal Delta,Whole Year,1.53
+26,53,26,26.77,84.32,6.31,44.84,mungbean,Northeast Plain,Zaid,1.44
+13,54,21,27.68,83.53,6.16,45.16,mungbean,Southern Hills,Zaid,1.43
+13,44,13,29.29,82.12,6.94,42.18,mungbean,Western Dry Zone,Kharif,1.7
+18,54,15,27.43,78.71,7.08,50.88,mungbean,Western Dry Zone,Whole Year,1.44
+24,46,26,28.72,84.95,6.26,53.41,mungbean,Coastal Delta,Rabi,1.09
+19,46,21,27.86,78.32,6.94,44.01,mungbean,Central Plateau,Zaid,1.08
+20,51,29,28.04,85.71,6.32,41.68,mungbean,Coastal Delta,Whole Year,1.34
+7,49,23,29.85,80.26,7.15,48.43,mungbean,Southern Hills,Kharif,1.1
+16,48,22,27.25,81.56,7.06,52.69,mungbean,Coastal Delta,Zaid,1.68
+13,50,14,27.23,86.4,6.86,47.57,mungbean,Southern Hills,Whole Year,1.78
+20,44,19,27.3,82.7,6.15,45.68,mungbean,Central Plateau,Whole Year,1.48
+11,48,21,30.08,84.44,7.35,62.89,mungbean,Central Plateau,Rabi,1.4
+28,43,16,29.01,82.93,6.37,42.25,mungbean,Coastal Delta,Zaid,1.22
+29,44,25,30.45,82.8,6.82,48.88,mungbean,Coastal Delta,Kharif,1.66
+21,53,15,27.3,81.41,6.79,55.86,mungbean,Western Dry Zone,Kharif,1.5
+20,45,18,27.77,87.07,6.83,35.37,mungbean,Coastal Delta,Kharif,1.09
+23,51,22,29.89,81.55,6.42,49.98,mungbean,Coastal Delta,Rabi,1.43
+14,55,26,30.12,78.79,6.97,37.22,mungbean,Coastal Delta,Rabi,1.62
+18,53,27,27.85,84.76,6.15,32.56,mungbean,Coastal Delta,Kharif,1.1
+13,50,15,29.36,79.2,6.63,63.32,mungbean,Central Plateau,Zaid,1.42
+12,44,16,28.2,78.94,7.45,51.87,mungbean,Southern Hills,Zaid,1.28
+16,50,28,26.71,82.4,6.11,62.98,mungbean,Central Plateau,Whole Year,1.51
+20,49,24,29.81,80.1,7.17,50.97,mungbean,Northeast Plain,Kharif,1.04
+9,46,27,27.03,84.62,6.77,39.86,mungbean,Western Dry Zone,Kharif,1.68
+21,51,16,28.36,80.01,6.59,50.59,mungbean,Western Dry Zone,Rabi,1.45
+12,47,18,29.01,81.53,6.71,44.08,mungbean,Southern Hills,Whole Year,1.25
+16,50,21,28.06,86.46,6.77,49.36,mungbean,Coastal Delta,Whole Year,1.48
+11,47,27,29.15,83.37,6.94,49.2,mungbean,Northeast Plain,Rabi,1.07
+25,51,12,29.2,85.89,6.48,50.47,mungbean,Coastal Delta,Whole Year,1.78
+26,51,19,28.86,81.38,5.95,57.23,mungbean,Central Plateau,Kharif,1.18
+15,52,24,27.56,85.77,5.98,44.96,mungbean,Central Plateau,Kharif,1.16
+14,47,17,28.76,82.74,6.48,42.19,mungbean,Southern Hills,Zaid,1.08
+20,47,18,30.05,79.28,6.63,56.11,mungbean,Western Dry Zone,Whole Year,1.57
+20,48,17,28.85,85.97,7.38,59.67,mungbean,Northeast Plain,Rabi,1.38
+11,45,20,29.19,80.39,6.44,53.92,mungbean,Coastal Delta,Zaid,1.28
+13,55,13,29.6,81.44,6.95,42.53,mungbean,Western Dry Zone,Kharif,1.58
+22,46,21,28.28,83.25,6.12,34.78,mungbean,Western Dry Zone,Whole Year,1.11
+15,58,22,27.15,84.29,7.04,43.5,mungbean,Central Plateau,Kharif,1.73
+20,44,21,27.58,86.07,7.08,56.49,mungbean,Northeast Plain,Whole Year,1.03
+12,55,22,27.5,81.76,6.39,56.73,mungbean,Central Plateau,Rabi,1.08
+7,53,13,27.56,77.42,6.54,56.97,mungbean,Central Plateau,Zaid,1.75
+27,57,22,28.31,80.85,6.32,45.54,mungbean,Western Dry Zone,Whole Year,1.53
+23,51,27,27.95,85.59,6.72,39.32,mungbean,Western Dry Zone,Whole Year,1.17
+20,50,17,28.15,82.16,6.08,45.14,mungbean,Central Plateau,Zaid,1.0
+25,49,18,28.31,83.5,6.58,44.18,mungbean,Coastal Delta,Rabi,1.71
+15,52,22,28.59,82.05,7.29,47.34,mungbean,Southern Hills,Whole Year,1.1
+29,43,21,27.31,82.49,6.69,33.49,mungbean,Northeast Plain,Zaid,1.48
+10,43,17,28.55,83.39,6.55,40.78,mungbean,Coastal Delta,Whole Year,1.76
+7,52,26,28.95,81.88,7.37,33.79,mungbean,Southern Hills,Rabi,1.05
+29,56,21,29.85,81.22,7.16,61.33,mungbean,Western Dry Zone,Zaid,1.73
+26,46,20,27.14,82.6,6.63,46.66,mungbean,Coastal Delta,Kharif,1.41
+15,58,24,26.5,80.98,7.17,55.69,mungbean,Coastal Delta,Zaid,1.39
+8,46,25,30.44,84.03,6.29,40.25,mungbean,Western Dry Zone,Whole Year,1.42
+14,49,25,28.28,85.37,6.06,57.99,mungbean,Northeast Plain,Whole Year,1.28
+13,49,18,29.77,81.73,6.96,46.48,mungbean,Southern Hills,Kharif,1.0
+14,49,24,27.35,81.82,6.54,59.06,mungbean,Northeast Plain,Rabi,1.17
+13,44,21,26.89,85.51,6.52,46.72,mungbean,Southern Hills,Kharif,1.21
+19,44,15,28.98,81.55,6.23,50.7,mungbean,Central Plateau,Whole Year,1.59
+18,49,13,30.49,79.11,7.01,32.95,mungbean,Coastal Delta,Rabi,1.45
+14,58,19,28.69,82.02,6.28,41.36,mungbean,Central Plateau,Kharif,1.62
+25,46,17,29.12,82.57,6.5,51.85,mungbean,Southern Hills,Kharif,1.15
+19,46,22,28.85,84.91,6.74,46.89,mungbean,Western Dry Zone,Whole Year,1.11
+24,57,17,29.26,83.5,6.48,47.42,mungbean,Northeast Plain,Rabi,1.47
+23,49,20,27.13,82.09,6.35,43.91,mungbean,Northeast Plain,Kharif,1.3
+17,54,16,27.0,83.39,7.02,38.46,mungbean,Coastal Delta,Whole Year,1.44
+22,57,27,28.37,81.26,6.95,45.01,mungbean,Coastal Delta,Rabi,1.49
+24,55,20,29.05,80.11,7.21,57.08,mungbean,Western Dry Zone,Kharif,1.53
+23,41,21,27.73,78.83,7.06,40.51,mungbean,Western Dry Zone,Rabi,1.34
+24,51,19,27.81,83.96,6.54,41.0,mungbean,Southern Hills,Rabi,1.06
+30,49,17,29.62,82.7,6.87,45.61,mungbean,Coastal Delta,Rabi,1.08
+24,40,21,27.13,81.92,6.66,56.67,mungbean,Southern Hills,Whole Year,1.26
+25,58,25,26.74,81.79,6.56,36.78,mungbean,Northeast Plain,Rabi,1.03
+13,49,23,27.28,81.82,6.75,34.31,mungbean,Western Dry Zone,Kharif,1.65
+23,46,23,28.33,82.82,6.46,41.15,mungbean,Northeast Plain,Rabi,1.72
+14,55,24,28.19,80.93,6.89,38.46,mungbean,Western Dry Zone,Kharif,1.4
+21,50,24,27.62,82.51,6.69,32.98,mungbean,Coastal Delta,Kharif,1.09
+11,55,18,29.15,81.67,6.45,46.47,mungbean,Southern Hills,Rabi,1.35
+25,57,17,29.3,80.73,6.23,34.05,mungbean,Central Plateau,Rabi,1.74
+9,51,18,28.61,82.4,6.64,44.14,mungbean,Coastal Delta,Zaid,1.21
+10,50,25,29.9,83.22,6.62,46.61,mungbean,Central Plateau,Kharif,1.08
+20,44,15,28.52,84.38,6.46,46.73,mungbean,Coastal Delta,Kharif,1.25
+26,47,23,30.56,81.06,7.22,42.01,mungbean,Southern Hills,Whole Year,1.57
+23,53,15,26.87,83.41,6.37,46.05,mungbean,Central Plateau,Whole Year,1.36
+14,42,17,27.12,78.8,6.48,48.04,mungbean,Northeast Plain,Zaid,1.55
+17,50,13,28.88,84.54,6.55,58.12,mungbean,Western Dry Zone,Zaid,1.2
+11,52,25,29.59,82.29,6.5,51.65,mungbean,Western Dry Zone,Rabi,1.53
+11,47,18,28.17,78.13,5.93,54.13,mungbean,Central Plateau,Rabi,1.48
+25,60,27,27.07,80.56,6.74,39.9,mungbean,Western Dry Zone,Kharif,1.27
+27,65,30,28.28,58.07,7.51,65.53,blackgram,Northeast Plain,Zaid,1.28
+36,59,30,26.69,67.71,7.21,82.16,blackgram,Coastal Delta,Rabi,1.82
+39,57,28,26.6,71.4,6.55,70.31,blackgram,Northeast Plain,Rabi,1.64
+42,74,26,25.13,63.89,6.57,64.88,blackgram,Southern Hills,Zaid,1.29
+44,66,31,26.56,61.26,6.73,54.89,blackgram,Southern Hills,Zaid,1.35
+32,62,27,26.29,62.19,6.8,72.51,blackgram,Western Dry Zone,Whole Year,1.96
+37,64,27,29.23,62.44,6.97,71.23,blackgram,Coastal Delta,Whole Year,1.75
+46,66,27,27.27,62.86,6.57,61.77,blackgram,Coastal Delta,Kharif,1.38
+36,58,27,27.48,67.16,6.39,78.43,blackgram,Northeast Plain,Kharif,1.49
+32,64,20,28.56,68.56,7.51,62.32,blackgram,Northeast Plain,Whole Year,1.45
+49,67,35,27.75,65.11,6.86,80.46,blackgram,Coastal Delta,Kharif,1.82
+43,65,26,27.21,64.14,7.28,81.58,blackgram,Western Dry Zone,Zaid,1.83
+30,57,27,27.41,64.92,6.77,63.12,blackgram,Coastal Delta,Zaid,1.52
+36,54,30,29.8,66.82,6.84,63.3,blackgram,Coastal Delta,Zaid,1.19
+42,57,28,26.83,61.13,6.85,74.74,blackgram,Coastal Delta,Zaid,1.94
+35,63,30,28.76,67.02,6.41,74.42,blackgram,Central Plateau,Whole Year,1.51
+43,70,29,29.79,66.16,7.17,80.79,blackgram,Southern Hills,Whole Year,1.73
+39,75,24,28.89,66.65,6.82,70.36,blackgram,Western Dry Zone,Rabi,1.92
+28,66,20,29.38,65.58,6.93,64.04,blackgram,Central Plateau,Zaid,1.55
+47,68,18,27.58,62.18,6.39,74.5,blackgram,Northeast Plain,Zaid,1.32
+45,61,24,27.63,63.32,6.24,69.53,blackgram,Central Plateau,Rabi,1.86
+39,71,16,26.73,63.0,6.99,51.55,blackgram,Northeast Plain,Rabi,1.46
+38,59,28,28.69,68.57,6.93,62.59,blackgram,Coastal Delta,Rabi,1.35
+30,71,29,29.81,68.82,6.45,60.23,blackgram,Southern Hills,Rabi,1.8
+38,62,23,28.55,65.97,7.07,64.6,blackgram,Northeast Plain,Kharif,1.48
+40,69,29,27.12,62.59,7.28,61.8,blackgram,Northeast Plain,Zaid,1.82
+47,53,18,25.65,64.35,7.43,74.68,blackgram,Northeast Plain,Rabi,1.21
+34,67,20,25.48,65.1,6.89,60.05,blackgram,Northeast Plain,Whole Year,1.49
+44,63,19,29.22,66.13,6.86,66.76,blackgram,Central Plateau,Kharif,1.9
+45,63,27,27.06,59.17,7.04,75.59,blackgram,Western Dry Zone,Zaid,1.44
+28,66,20,27.46,65.15,6.82,57.47,blackgram,Western Dry Zone,Zaid,1.69
+38,52,26,28.23,70.48,6.82,75.27,blackgram,Northeast Plain,Rabi,1.51
+43,58,24,28.05,60.57,7.19,59.89,blackgram,Southern Hills,Zaid,1.37
+40,66,26,28.83,64.58,6.74,76.28,blackgram,Coastal Delta,Zaid,1.58
+37,55,25,28.11,59.71,6.31,71.21,blackgram,Southern Hills,Whole Year,1.42
+34,64,29,25.63,67.63,7.14,81.38,blackgram,Western Dry Zone,Kharif,1.7
+42,64,27,28.91,62.53,6.83,78.99,blackgram,Western Dry Zone,Rabi,1.2
+34,69,33,24.54,62.25,7.06,67.69,blackgram,Coastal Delta,Kharif,1.8
+37,61,26,25.83,59.93,6.82,64.06,blackgram,Western Dry Zone,Zaid,1.47
+41,68,31,25.09,62.96,6.34,56.03,blackgram,Southern Hills,Zaid,1.54
+32,67,32,29.38,63.41,7.26,71.54,blackgram,Northeast Plain,Rabi,1.52
+37,64,25,29.58,64.23,6.7,58.16,blackgram,Southern Hills,Kharif,1.3
+42,63,29,26.36,65.85,7.66,72.45,blackgram,Southern Hills,Whole Year,1.29
+38,56,16,26.66,70.35,6.58,76.39,blackgram,Central Plateau,Zaid,1.53
+40,72,31,26.62,59.67,7.09,74.17,blackgram,Central Plateau,Rabi,1.54
+44,56,27,25.07,65.83,7.14,68.32,blackgram,Coastal Delta,Kharif,1.67
+37,67,23,29.96,65.76,7.36,70.39,blackgram,Coastal Delta,Rabi,1.72
+40,63,23,29.34,67.95,7.08,71.33,blackgram,Coastal Delta,Zaid,1.45
+41,55,30,29.87,65.17,7.04,78.08,blackgram,Western Dry Zone,Zaid,1.4
+34,57,27,26.92,58.26,7.24,62.74,blackgram,Southern Hills,Kharif,1.26
+36,58,25,27.46,63.47,7.03,74.48,blackgram,Southern Hills,Rabi,1.48
+36,69,20,28.54,72.51,6.9,69.8,blackgram,Central Plateau,Rabi,1.19
+47,61,26,25.61,62.04,7.14,65.56,blackgram,Western Dry Zone,Whole Year,1.42
+27,56,25,26.98,60.1,7.14,69.49,blackgram,Coastal Delta,Kharif,1.44
+27,68,31,28.54,63.68,7.34,76.79,blackgram,Coastal Delta,Zaid,1.36
+40,61,28,27.84,68.06,7.44,60.64,blackgram,Coastal Delta,Rabi,1.77
+27,63,17,28.08,65.07,7.03,62.42,blackgram,Northeast Plain,Whole Year,1.88
+35,62,31,29.14,69.5,7.1,79.82,blackgram,Central Plateau,Rabi,1.66
+35,62,25,28.1,66.68,6.82,67.3,blackgram,Central Plateau,Zaid,1.53
+42,63,20,25.25,61.96,7.13,59.13,blackgram,Western Dry Zone,Whole Year,1.4
+26,61,30,28.56,63.72,6.74,73.76,blackgram,Western Dry Zone,Rabi,1.84
+41,66,25,27.91,64.1,6.66,66.39,blackgram,Central Plateau,Whole Year,1.46
+41,65,24,27.61,61.08,6.88,77.24,blackgram,Northeast Plain,Whole Year,1.77
+46,56,20,27.78,67.91,7.21,55.74,blackgram,Central Plateau,Kharif,1.64
+34,70,21,27.13,63.4,6.9,77.16,blackgram,Coastal Delta,Zaid,1.39
+44,67,23,27.74,67.71,7.59,71.38,blackgram,Southern Hills,Whole Year,1.65
+39,66,22,27.71,61.76,6.33,53.59,blackgram,Coastal Delta,Kharif,1.54
+40,61,23,26.47,59.0,7.07,71.0,blackgram,Central Plateau,Rabi,1.66
+42,70,27,29.16,64.37,7.68,54.88,blackgram,Coastal Delta,Kharif,1.34
+41,71,23,30.41,66.04,6.81,66.0,blackgram,Western Dry Zone,Whole Year,1.92
+31,58,25,29.52,65.55,6.6,74.22,blackgram,Northeast Plain,Rabi,1.83
+28,53,19,26.75,66.65,7.34,60.88,blackgram,Northeast Plain,Whole Year,1.65
+33,68,34,27.58,71.24,6.96,64.38,blackgram,Central Plateau,Whole Year,1.65
+40,54,23,28.16,64.7,7.0,80.99,blackgram,Western Dry Zone,Whole Year,1.51
+34,67,24,29.49,65.01,7.32,71.22,blackgram,Coastal Delta,Zaid,1.71
+45,63,25,28.47,67.38,7.2,59.41,blackgram,Northeast Plain,Whole Year,1.2
+45,64,29,29.85,60.15,6.35,73.3,blackgram,Coastal Delta,Whole Year,1.5
+38,63,29,27.15,62.53,7.2,72.43,blackgram,Northeast Plain,Whole Year,1.58
+46,68,23,27.48,69.45,6.53,68.64,blackgram,Coastal Delta,Zaid,1.2
+48,62,31,26.46,57.76,6.79,70.47,blackgram,Northeast Plain,Whole Year,1.47
+41,56,22,27.62,61.72,6.79,67.04,blackgram,Western Dry Zone,Kharif,1.36
+38,59,25,29.02,64.59,6.44,69.96,blackgram,Central Plateau,Rabi,1.55
+41,54,24,29.74,61.98,7.44,77.48,blackgram,Central Plateau,Kharif,1.53
+45,63,26,29.57,59.39,6.56,72.55,blackgram,Northeast Plain,Zaid,1.66
+33,63,26,29.61,67.71,7.07,58.16,blackgram,Western Dry Zone,Kharif,1.22
+36,57,22,28.7,64.03,7.29,78.81,blackgram,Northeast Plain,Zaid,1.29
+38,58,22,25.79,63.61,7.02,68.85,blackgram,Western Dry Zone,Whole Year,1.79
+41,72,20,25.53,58.08,6.41,60.25,blackgram,Northeast Plain,Zaid,1.32
+42,67,29,28.39,62.44,6.83,64.91,blackgram,Northeast Plain,Whole Year,1.65
+40,65,21,25.38,58.52,7.07,66.05,blackgram,Western Dry Zone,Whole Year,1.91
+29,64,19,27.59,68.79,7.19,79.68,blackgram,Western Dry Zone,Kharif,1.7
+45,68,19,25.27,58.47,6.97,76.58,blackgram,Western Dry Zone,Kharif,1.47
+38,53,29,26.2,61.15,7.06,81.68,blackgram,Western Dry Zone,Rabi,1.34
+38,63,33,28.73,68.22,7.33,68.4,blackgram,Coastal Delta,Whole Year,1.31
+35,51,25,25.28,60.0,7.46,63.8,blackgram,Northeast Plain,Zaid,1.59
+32,61,30,26.2,70.4,7.27,57.43,blackgram,Northeast Plain,Zaid,1.22
+33,60,28,26.35,65.48,6.84,65.44,blackgram,Central Plateau,Rabi,1.31
+40,58,22,24.32,65.34,6.87,77.34,blackgram,Southern Hills,Rabi,1.23
+38,63,25,29.74,66.05,6.74,61.96,blackgram,Coastal Delta,Whole Year,1.63
+34,71,24,26.39,69.46,6.67,76.83,blackgram,Western Dry Zone,Kharif,1.9
+16,63,29,22.18,66.14,6.02,44.93,lentil,Southern Hills,Whole Year,1.74
+16,66,26,23.52,69.58,6.22,44.53,lentil,Northeast Plain,Kharif,1.99
+23,59,22,18.86,61.67,6.5,44.7,lentil,Coastal Delta,Rabi,1.53
+19,57,19,24.27,62.61,6.54,42.75,lentil,Northeast Plain,Kharif,1.52
+12,56,24,23.95,68.06,6.59,45.1,lentil,Coastal Delta,Zaid,1.5
+22,50,30,19.51,65.01,6.63,47.06,lentil,Central Plateau,Whole Year,1.7
+27,68,17,22.05,60.71,6.07,38.77,lentil,Western Dry Zone,Zaid,1.97
+21,63,26,19.51,62.38,5.85,44.03,lentil,Southern Hills,Kharif,1.82
+22,63,24,21.88,66.06,6.73,52.96,lentil,Southern Hills,Rabi,1.76
+20,57,28,18.89,63.78,7.08,47.35,lentil,Western Dry Zone,Rabi,1.65
+21,60,32,21.98,65.72,7.1,43.0,lentil,Western Dry Zone,Whole Year,1.46
+19,66,24,19.12,64.35,6.27,40.93,lentil,Northeast Plain,Kharif,1.97
+28,60,20,18.88,65.13,6.42,33.0,lentil,Central Plateau,Zaid,1.7
+16,64,31,19.11,63.85,6.42,51.79,lentil,Coastal Delta,Rabi,1.47
+20,60,34,19.76,69.6,6.91,44.47,lentil,Southern Hills,Whole Year,1.67
+19,59,17,21.54,67.87,6.5,39.87,lentil,Western Dry Zone,Whole Year,1.95
+25,62,20,19.46,67.47,6.86,34.23,lentil,Central Plateau,Rabi,1.81
+20,59,27,21.36,65.29,6.78,47.2,lentil,Central Plateau,Whole Year,1.54
+24,62,28,24.42,67.38,6.5,37.76,lentil,Northeast Plain,Rabi,1.77
+18,57,28,20.66,70.41,6.46,49.89,lentil,Northeast Plain,Whole Year,2.04
+20,63,22,19.75,60.56,6.85,45.12,lentil,Central Plateau,Kharif,1.87
+23,55,32,21.43,62.27,6.61,46.94,lentil,Central Plateau,Rabi,1.56
+16,60,21,22.89,64.98,5.86,43.6,lentil,Southern Hills,Zaid,1.73
+21,59,25,19.6,66.84,7.27,46.46,lentil,Western Dry Zone,Whole Year,1.59
+26,61,28,22.95,66.33,5.98,49.99,lentil,Southern Hills,Whole Year,1.85
+18,54,33,22.07,68.27,6.49,37.42,lentil,Central Plateau,Kharif,1.87
+12,56,26,21.89,63.32,6.23,56.15,lentil,Southern Hills,Whole Year,2.14
+17,58,26,21.26,62.85,6.45,58.32,lentil,Central Plateau,Rabi,1.84
+15,52,28,21.57,62.86,6.32,52.62,lentil,Coastal Delta,Whole Year,1.69
+18,51,21,24.93,69.07,7.16,48.48,lentil,Central Plateau,Kharif,2.0
+21,69,25,22.02,62.76,6.06,32.65,lentil,Western Dry Zone,Whole Year,2.05
+30,59,21,22.98,60.27,6.16,51.22,lentil,Western Dry Zone,Zaid,1.75
+27,62,17,18.04,63.11,6.8,56.22,lentil,Central Plateau,Kharif,1.39
+17,55,23,20.5,63.8,6.2,46.73,lentil,Southern Hills,Whole Year,2.07
+21,69,25,23.31,66.45,6.68,49.17,lentil,Southern Hills,Whole Year,1.88
+18,65,26,18.83,69.28,6.74,40.34,lentil,Coastal Delta,Zaid,1.44
+26,56,18,19.92,62.88,7.26,52.62,lentil,Northeast Plain,Whole Year,1.63
+17,58,20,21.49,62.12,6.25,49.88,lentil,Central Plateau,Rabi,1.83
+21,57,15,19.09,66.99,5.8,55.63,lentil,Western Dry Zone,Whole Year,1.76
+25,57,25,21.46,66.74,7.07,49.7,lentil,Western Dry Zone,Rabi,2.01
+20,58,31,18.93,66.76,6.91,37.71,lentil,Coastal Delta,Whole Year,1.44
+16,55,26,22.1,65.71,6.33,43.62,lentil,Western Dry Zone,Zaid,1.69
+20,68,23,17.92,62.54,6.33,43.89,lentil,Coastal Delta,Zaid,2.05
+18,63,16,22.58,65.53,6.44,52.29,lentil,Southern Hills,Whole Year,2.0
+16,62,33,19.8,63.13,6.62,41.94,lentil,Western Dry Zone,Rabi,2.12
+19,59,35,19.49,64.42,6.31,42.21,lentil,Northeast Plain,Whole Year,1.92
+14,58,22,24.69,67.66,6.85,42.0,lentil,Southern Hills,Kharif,1.9
+20,58,23,21.48,69.23,6.77,48.73,lentil,Northeast Plain,Kharif,1.88
+22,54,24,23.35,65.55,6.35,48.67,lentil,Central Plateau,Zaid,2.09
+26,52,22,20.44,69.27,7.01,40.98,lentil,Western Dry Zone,Kharif,1.9
+17,64,24,22.61,68.97,6.02,48.62,lentil,Western Dry Zone,Whole Year,2.03
+18,59,24,21.34,59.87,6.5,49.93,lentil,Northeast Plain,Kharif,2.04
+18,64,25,19.08,66.58,6.15,43.62,lentil,Northeast Plain,Whole Year,1.61
+24,59,23,23.86,61.06,6.18,38.54,lentil,Southern Hills,Rabi,1.42
+22,66,17,20.08,67.01,6.22,45.97,lentil,Southern Hills,Kharif,1.88
+22,53,19,23.09,70.42,5.97,45.13,lentil,Northeast Plain,Zaid,1.68
+21,66,24,25.4,70.24,6.25,44.27,lentil,Northeast Plain,Zaid,1.65
+27,65,18,21.97,62.93,6.44,40.94,lentil,Western Dry Zone,Rabi,1.96
+24,60,22,25.32,66.43,6.28,45.45,lentil,Central Plateau,Kharif,1.37
+12,62,26,18.76,67.3,7.05,41.85,lentil,Southern Hills,Rabi,2.01
+15,58,26,24.98,71.02,6.79,43.82,lentil,Northeast Plain,Zaid,1.85
+27,57,23,21.23,63.63,6.32,32.47,lentil,Northeast Plain,Whole Year,1.44
+20,59,30,22.81,63.23,6.31,45.15,lentil,Western Dry Zone,Whole Year,1.77
+22,59,25,20.04,66.59,7.07,54.23,lentil,Western Dry Zone,Rabi,1.64
+26,60,25,20.79,61.93,6.29,40.13,lentil,Coastal Delta,Rabi,1.53
+22,62,29,23.55,66.65,6.97,42.58,lentil,Central Plateau,Whole Year,1.44
+22,63,25,20.71,64.15,5.94,46.94,lentil,Southern Hills,Kharif,1.66
+16,53,32,23.7,63.49,6.61,44.4,lentil,Central Plateau,Rabi,1.63
+25,69,20,17.84,65.54,5.85,42.26,lentil,Western Dry Zone,Rabi,1.38
+22,64,24,22.19,60.35,6.2,45.47,lentil,Western Dry Zone,Rabi,1.85
+22,54,22,19.41,68.43,6.39,41.68,lentil,Northeast Plain,Whole Year,1.69
+19,65,29,24.85,61.58,6.45,55.56,lentil,Northeast Plain,Kharif,1.84
+15,58,30,20.12,61.34,5.98,42.36,lentil,Coastal Delta,Zaid,1.77
+20,66,33,20.58,61.65,6.2,52.04,lentil,Northeast Plain,Whole Year,1.9
+19,56,30,24.8,60.26,6.12,35.75,lentil,Western Dry Zone,Whole Year,1.71
+24,63,20,19.1,64.62,5.98,48.73,lentil,Coastal Delta,Rabi,1.66
+17,61,19,20.07,60.77,7.1,49.52,lentil,Western Dry Zone,Zaid,1.43
+13,54,17,18.23,68.42,5.92,45.92,lentil,Western Dry Zone,Whole Year,1.53
+19,55,26,23.86,65.09,6.67,46.88,lentil,Southern Hills,Rabi,1.58
+20,60,28,20.48,69.23,6.18,54.46,lentil,Northeast Plain,Zaid,2.01
+23,54,30,22.78,71.03,6.78,53.72,lentil,Southern Hills,Zaid,1.52
+14,65,32,20.12,69.34,6.48,37.01,lentil,Southern Hills,Whole Year,2.01
+20,57,33,18.4,58.26,6.06,37.34,lentil,Southern Hills,Kharif,1.97
+22,59,23,22.82,67.13,6.53,34.9,lentil,Southern Hills,Whole Year,1.92
+15,61,27,19.21,61.15,6.36,45.89,lentil,Coastal Delta,Rabi,1.9
+21,59,17,18.81,60.2,6.17,40.34,lentil,Southern Hills,Zaid,1.9
+21,58,17,23.69,68.12,6.05,51.49,lentil,Coastal Delta,Whole Year,1.39
+26,65,20,19.37,65.18,6.7,57.8,lentil,Western Dry Zone,Kharif,1.44
+26,67,25,19.47,62.43,6.4,55.99,lentil,Southern Hills,Zaid,1.57
+18,54,32,19.2,68.73,6.22,52.16,lentil,Northeast Plain,Kharif,1.73
+17,54,23,24.55,67.29,6.31,42.53,lentil,Coastal Delta,Zaid,1.64
+18,63,20,18.02,71.39,6.39,51.85,lentil,Western Dry Zone,Zaid,1.93
+23,66,33,18.4,65.34,6.44,43.17,lentil,Southern Hills,Whole Year,1.37
+20,56,21,19.59,66.37,5.95,50.75,lentil,Southern Hills,Whole Year,1.53
+23,56,29,22.7,60.76,6.83,38.22,lentil,Coastal Delta,Rabi,1.59
+21,58,28,24.66,64.75,6.25,53.63,lentil,Southern Hills,Zaid,1.77
+11,67,21,23.81,64.28,6.69,50.89,lentil,Central Plateau,Kharif,1.85
+21,58,20,24.41,67.46,6.62,41.39,lentil,Western Dry Zone,Whole Year,1.56
+20,56,18,20.63,62.03,6.88,44.24,lentil,Coastal Delta,Zaid,1.71
+13,55,24,19.13,68.72,6.33,43.01,lentil,Western Dry Zone,Zaid,1.71
+17,13,34,23.19,85.95,6.07,99.58,pomegranate,Coastal Delta,Whole Year,4.05
+23,9,35,25.0,88.47,6.65,104.08,pomegranate,Northeast Plain,Kharif,4.71
+10,19,41,20.02,84.66,6.9,102.71,pomegranate,Southern Hills,Kharif,4.24
+12,27,31,20.2,89.65,6.63,98.87,pomegranate,Central Plateau,Kharif,4.28
+21,15,49,21.59,88.79,6.34,115.06,pomegranate,Central Plateau,Kharif,4.65
+14,10,48,21.04,91.8,6.16,114.75,pomegranate,Central Plateau,Rabi,5.09
+28,15,34,23.46,87.91,6.56,107.18,pomegranate,Western Dry Zone,Whole Year,5.3
+20,18,35,20.71,90.03,6.12,111.38,pomegranate,Southern Hills,Zaid,4.19
+28,24,43,22.1,83.49,6.15,94.1,pomegranate,Northeast Plain,Zaid,4.78
+18,23,38,22.64,89.91,6.7,97.24,pomegranate,Western Dry Zone,Zaid,5.33
+18,28,44,24.13,87.9,6.9,112.98,pomegranate,Western Dry Zone,Kharif,4.58
+8,19,43,19.23,91.53,6.03,98.62,pomegranate,Northeast Plain,Zaid,4.78
+16,10,40,20.95,89.4,6.59,100.56,pomegranate,Central Plateau,Kharif,5.02
+20,6,37,24.07,85.44,6.61,96.84,pomegranate,Southern Hills,Kharif,5.11
+20,14,38,22.55,83.55,6.46,95.73,pomegranate,Central Plateau,Kharif,5.22
+11,10,45,22.44,89.43,5.98,110.62,pomegranate,Western Dry Zone,Kharif,4.72
+17,23,43,20.25,87.4,6.2,111.21,pomegranate,Western Dry Zone,Kharif,4.54
+7,24,39,24.15,82.27,6.07,115.56,pomegranate,Northeast Plain,Zaid,4.79
+22,18,39,22.88,89.2,6.74,100.84,pomegranate,Southern Hills,Whole Year,4.62
+9,15,35,23.08,87.06,6.97,100.01,pomegranate,Central Plateau,Whole Year,4.45
+20,19,41,24.66,89.69,6.71,106.54,pomegranate,Northeast Plain,Kharif,5.23
+15,6,43,24.74,86.32,6.79,97.97,pomegranate,Western Dry Zone,Rabi,3.98
+23,21,39,20.44,89.08,6.22,100.98,pomegranate,Central Plateau,Kharif,4.56
+25,7,46,21.07,86.7,6.1,104.55,pomegranate,Northeast Plain,Zaid,5.12
+25,22,44,25.02,87.51,5.93,102.23,pomegranate,Southern Hills,Kharif,5.26
+23,22,46,20.68,86.79,6.81,98.4,pomegranate,Coastal Delta,Whole Year,4.76
+10,17,41,20.65,84.67,6.86,118.51,pomegranate,Northeast Plain,Rabi,5.35
+16,12,32,23.17,84.87,6.58,100.92,pomegranate,Western Dry Zone,Rabi,5.04
+19,17,44,23.08,87.31,6.5,110.15,pomegranate,Central Plateau,Zaid,5.19
+9,23,42,21.99,88.94,6.27,109.03,pomegranate,Central Plateau,Whole Year,5.32
+23,13,34,22.54,85.7,6.87,100.23,pomegranate,Central Plateau,Rabi,4.44
+30,21,41,22.79,86.22,6.64,115.05,pomegranate,Southern Hills,Rabi,5.02
+24,13,41,24.35,85.73,6.04,113.25,pomegranate,Western Dry Zone,Whole Year,4.89
+23,15,39,21.29,84.18,6.65,105.81,pomegranate,Southern Hills,Whole Year,4.38
+14,18,45,23.4,83.68,6.14,113.52,pomegranate,Southern Hills,Kharif,4.78
+22,23,42,24.57,89.29,6.27,98.07,pomegranate,Central Plateau,Whole Year,4.07
+6,13,33,24.19,82.76,6.88,90.77,pomegranate,Western Dry Zone,Kharif,4.72
+17,6,43,23.46,85.21,6.37,101.17,pomegranate,Southern Hills,Zaid,4.15
+21,19,33,21.84,88.37,6.38,112.15,pomegranate,Coastal Delta,Rabi,5.2
+22,25,37,19.58,87.76,6.9,115.58,pomegranate,Northeast Plain,Rabi,4.64
+19,9,39,21.02,88.25,6.74,110.96,pomegranate,Southern Hills,Zaid,4.35
+18,17,35,20.7,86.01,6.82,105.21,pomegranate,Northeast Plain,Whole Year,4.04
+24,25,34,19.3,87.25,6.51,105.54,pomegranate,Western Dry Zone,Whole Year,4.01
+16,22,40,22.24,91.75,6.63,104.64,pomegranate,Central Plateau,Kharif,4.89
+20,16,45,20.55,84.24,6.28,109.06,pomegranate,Central Plateau,Zaid,4.05
+8,28,43,22.39,88.85,6.27,107.97,pomegranate,Northeast Plain,Kharif,4.48
+20,11,34,23.29,85.24,6.38,119.46,pomegranate,Central Plateau,Whole Year,4.51
+6,27,43,23.21,88.88,6.7,92.29,pomegranate,Coastal Delta,Kharif,4.98
+16,25,31,23.17,84.28,6.65,111.01,pomegranate,Coastal Delta,Whole Year,4.61
+18,21,33,21.53,88.88,6.63,109.7,pomegranate,Central Plateau,Zaid,4.5
+25,22,43,23.76,84.59,6.35,109.96,pomegranate,Western Dry Zone,Kharif,4.58
+24,16,35,22.75,85.48,6.77,113.01,pomegranate,Northeast Plain,Kharif,4.34
+16,16,42,21.43,83.06,6.73,116.5,pomegranate,Coastal Delta,Rabi,4.87
+15,11,31,24.5,84.34,6.58,95.17,pomegranate,Central Plateau,Zaid,5.12
+26,16,43,21.0,90.09,6.54,106.9,pomegranate,Coastal Delta,Zaid,5.25
+12,21,37,25.09,88.38,6.99,109.88,pomegranate,Central Plateau,Whole Year,4.79
+14,13,40,20.8,85.74,6.4,95.18,pomegranate,Western Dry Zone,Whole Year,4.97
+21,18,47,23.5,89.05,6.25,100.78,pomegranate,Central Plateau,Kharif,4.83
+17,21,49,24.83,88.42,6.88,103.7,pomegranate,Western Dry Zone,Rabi,4.37
+10,15,37,23.56,88.35,6.42,113.93,pomegranate,Northeast Plain,Whole Year,5.13
+19,13,49,22.59,92.51,5.85,107.38,pomegranate,Southern Hills,Whole Year,4.56
+27,19,37,23.65,86.22,6.69,100.45,pomegranate,Southern Hills,Zaid,4.25
+24,25,40,21.21,88.31,6.34,106.12,pomegranate,Southern Hills,Kharif,5.07
+16,28,45,19.84,87.39,6.27,100.45,pomegranate,Southern Hills,Rabi,4.52
+12,19,40,20.86,87.53,6.37,110.2,pomegranate,Western Dry Zone,Whole Year,3.98
+16,5,33,20.22,83.17,6.65,109.63,pomegranate,Central Plateau,Zaid,4.97
+22,21,36,23.55,87.37,6.65,106.54,pomegranate,Coastal Delta,Whole Year,5.12
+15,12,40,24.66,87.18,6.04,103.76,pomegranate,Northeast Plain,Kharif,5.39
+16,14,37,20.13,85.28,6.97,111.75,pomegranate,Northeast Plain,Kharif,4.66
+24,22,32,22.38,82.78,6.8,101.74,pomegranate,Southern Hills,Kharif,5.43
+19,23,44,21.45,87.35,6.57,110.55,pomegranate,Western Dry Zone,Zaid,4.66
+20,12,44,22.85,85.22,6.16,102.34,pomegranate,Central Plateau,Whole Year,4.03
+13,21,34,23.79,89.09,6.71,110.55,pomegranate,Western Dry Zone,Kharif,4.0
+7,22,40,22.84,91.1,6.5,99.31,pomegranate,Coastal Delta,Whole Year,5.24
+27,14,37,20.62,87.07,6.14,107.56,pomegranate,Coastal Delta,Kharif,4.03
+10,16,48,24.04,82.83,6.93,95.55,pomegranate,Central Plateau,Rabi,4.41
+28,19,39,23.74,92.28,6.46,111.16,pomegranate,Western Dry Zone,Kharif,5.19
+19,23,36,21.51,87.2,6.74,109.4,pomegranate,Northeast Plain,Whole Year,4.81
+10,28,40,22.05,86.42,6.64,104.35,pomegranate,Central Plateau,Rabi,4.34
+13,25,33,22.12,87.37,6.51,114.79,pomegranate,Coastal Delta,Rabi,4.57
+29,25,46,24.76,90.92,6.53,105.71,pomegranate,Southern Hills,Zaid,4.21
+14,23,39,20.6,85.22,5.74,101.35,pomegranate,Coastal Delta,Rabi,4.25
+18,8,36,21.37,90.27,7.14,115.04,pomegranate,Northeast Plain,Rabi,4.68
+11,18,39,21.47,88.13,6.05,103.01,pomegranate,Western Dry Zone,Rabi,4.0
+17,16,42,21.32,91.25,6.52,96.31,pomegranate,Western Dry Zone,Rabi,4.98
+28,26,38,24.61,87.89,6.83,108.58,pomegranate,Northeast Plain,Zaid,4.97
+18,16,44,20.36,86.65,6.78,96.13,pomegranate,Northeast Plain,Whole Year,4.61
+20,22,50,20.41,91.12,6.67,108.28,pomegranate,Central Plateau,Zaid,4.76
+14,19,38,24.3,88.95,5.88,105.29,pomegranate,Southern Hills,Kharif,4.1
+23,13,47,20.31,87.2,6.35,105.72,pomegranate,Coastal Delta,Rabi,4.93
+22,17,41,24.54,85.07,6.16,102.31,pomegranate,Western Dry Zone,Rabi,4.31
+14,19,37,20.46,88.75,6.47,117.82,pomegranate,Northeast Plain,Rabi,5.06
+20,8,42,22.44,87.84,6.3,101.85,pomegranate,Central Plateau,Whole Year,5.17
+7,27,48,23.79,91.13,6.02,100.23,pomegranate,Western Dry Zone,Zaid,4.08
+13,29,36,23.0,89.04,6.2,111.0,pomegranate,Central Plateau,Rabi,5.01
+25,10,46,20.49,85.61,7.0,107.04,pomegranate,Central Plateau,Zaid,5.29
+14,19,42,22.28,91.46,6.96,102.31,pomegranate,Western Dry Zone,Zaid,4.82
+17,17,32,21.42,87.67,6.53,99.08,pomegranate,Southern Hills,Kharif,5.36
+12,14,43,22.99,92.11,5.88,105.69,pomegranate,Southern Hills,Rabi,4.91
+20,18,39,19.74,88.69,6.59,106.33,pomegranate,Northeast Plain,Rabi,4.12
+102,84,52,26.25,84.97,5.97,112.36,banana,Central Plateau,Whole Year,7.61
+108,71,43,27.79,81.09,5.57,116.37,banana,Northeast Plain,Rabi,8.14
+100,93,49,27.39,77.08,5.91,119.27,banana,Central Plateau,Rabi,7.45
+103,77,46,25.45,83.28,6.4,109.14,banana,Western Dry Zone,Whole Year,7.3
+103,86,44,26.8,76.9,5.81,91.61,banana,Western Dry Zone,Kharif,7.16
+111,85,53,25.94,79.99,5.81,114.44,banana,Southern Hills,Rabi,7.28
+99,79,44,26.99,79.64,5.65,107.07,banana,Western Dry Zone,Zaid,7.62
+100,85,52,26.24,79.36,5.95,102.02,banana,Southern Hills,Rabi,6.7
+93,80,49,26.62,78.46,6.29,108.73,banana,Central Plateau,Zaid,7.85
+92,89,48,24.62,75.01,6.42,100.1,banana,Central Plateau,Rabi,6.91
+111,82,41,25.86,81.16,6.52,111.53,banana,Southern Hills,Zaid,8.34
+106,78,52,25.69,78.48,6.35,112.66,banana,Western Dry Zone,Zaid,8.27
+88,75,52,24.28,77.95,5.87,109.63,banana,Southern Hills,Rabi,6.47
+101,75,47,24.53,75.3,5.41,118.82,banana,Northeast Plain,Rabi,6.35
+100,79,49,26.45,84.13,5.85,93.68,banana,Southern Hills,Whole Year,8.21
+96,75,54,27.48,78.57,6.41,123.86,banana,Northeast Plain,Zaid,6.39
+103,81,46,27.55,74.63,5.63,96.28,banana,Southern Hills,Whole Year,8.04
+107,87,56,25.04,83.69,6.08,98.47,banana,Southern Hills,Kharif,7.14
+99,91,46,28.03,77.39,5.81,111.11,banana,Coastal Delta,Rabi,8.29
+106,78,43,25.22,80.45,6.15,108.07,banana,Central Plateau,Kharif,7.26
+104,90,46,27.43,74.58,5.92,115.15,banana,Western Dry Zone,Whole Year,6.68
+92,79,48,25.36,85.2,6.19,105.7,banana,Coastal Delta,Whole Year,8.4
+97,75,51,25.05,78.05,6.2,92.37,banana,Western Dry Zone,Kharif,7.35
+111,94,52,27.53,79.24,6.37,92.36,banana,Coastal Delta,Kharif,7.18
+109,73,52,26.48,81.1,6.0,112.8,banana,Western Dry Zone,Kharif,7.9
+106,84,40,26.06,82.97,6.18,112.97,banana,Western Dry Zone,Whole Year,8.31
+87,90,47,27.58,77.83,5.92,98.9,banana,Coastal Delta,Whole Year,7.51
+104,75,48,25.63,74.71,6.11,108.81,banana,Southern Hills,Kharif,7.63
+89,85,57,27.08,84.25,5.68,88.55,banana,Central Plateau,Zaid,6.78
+110,92,45,26.45,73.55,5.96,93.52,banana,Central Plateau,Kharif,7.49
+88,85,47,25.99,85.73,5.98,97.25,banana,Coastal Delta,Kharif,7.75
+90,81,54,25.15,75.39,5.86,108.01,banana,Coastal Delta,Kharif,8.34
+94,75,49,25.73,72.96,6.09,104.33,banana,Western Dry Zone,Zaid,6.87
+87,73,54,25.92,85.43,6.18,98.34,banana,Northeast Plain,Kharif,6.91
+103,87,60,28.33,73.38,5.91,103.12,banana,Coastal Delta,Whole Year,6.51
+90,82,56,26.82,85.27,5.84,101.45,banana,Central Plateau,Rabi,7.07
+97,76,45,27.8,82.13,5.71,89.03,banana,Northeast Plain,Rabi,8.08
+115,86,49,27.5,81.8,5.4,104.35,banana,Southern Hills,Kharif,6.81
+92,87,52,25.33,82.83,6.09,99.3,banana,Southern Hills,Kharif,6.92
+106,80,50,24.87,82.27,6.18,109.95,banana,Western Dry Zone,Whole Year,7.86
+111,84,49,24.56,78.9,5.59,88.88,banana,Central Plateau,Rabi,7.2
+114,82,44,25.5,80.68,6.14,94.92,banana,Western Dry Zone,Zaid,7.19
+93,90,48,26.1,82.44,6.03,99.61,banana,Northeast Plain,Kharif,7.16
+93,82,45,27.97,75.19,5.31,89.8,banana,Western Dry Zone,Zaid,7.47
+98,89,50,28.41,84.86,5.84,98.03,banana,Coastal Delta,Zaid,7.9
+102,91,47,27.1,81.61,5.83,114.09,banana,Northeast Plain,Whole Year,8.11
+106,76,51,24.62,79.69,6.4,120.67,banana,Southern Hills,Rabi,7.01
+107,89,52,24.95,81.18,6.02,112.06,banana,Western Dry Zone,Rabi,7.26
+112,78,49,25.47,81.97,5.94,107.28,banana,Central Plateau,Rabi,8.33
+101,87,54,26.59,86.09,6.27,97.24,banana,Western Dry Zone,Kharif,7.55
+104,73,56,27.21,78.12,6.14,96.47,banana,Western Dry Zone,Zaid,7.1
+103,85,55,25.09,82.86,6.07,83.54,banana,Western Dry Zone,Whole Year,6.87
+102,75,43,25.2,74.16,5.84,105.23,banana,Northeast Plain,Zaid,6.75
+90,88,52,28.12,81.2,6.22,107.69,banana,Western Dry Zone,Zaid,8.07
+109,83,52,27.15,77.31,6.0,94.58,banana,Northeast Plain,Kharif,7.27
+102,83,50,26.63,79.4,6.49,93.75,banana,Western Dry Zone,Whole Year,6.75
+87,81,51,27.23,81.81,6.14,91.62,banana,Coastal Delta,Whole Year,6.96
+109,76,44,24.72,73.94,5.69,113.9,banana,Central Plateau,Whole Year,7.78
+92,78,49,25.7,79.85,5.9,90.65,banana,Northeast Plain,Zaid,8.1
+93,80,49,27.41,80.57,6.4,90.41,banana,Western Dry Zone,Rabi,7.88
+98,89,54,24.49,79.76,5.41,102.68,banana,Southern Hills,Zaid,6.57
+98,82,47,26.8,79.38,5.9,104.06,banana,Central Plateau,Rabi,7.73
+89,84,52,26.17,80.04,6.46,109.12,banana,Central Plateau,Whole Year,6.74
+97,88,55,26.67,79.81,5.89,95.5,banana,Coastal Delta,Whole Year,7.93
+95,83,52,27.36,80.0,5.66,105.4,banana,Northeast Plain,Rabi,6.7
+102,94,52,25.66,85.18,6.07,106.17,banana,Coastal Delta,Kharif,8.12
+102,79,43,26.27,81.85,6.11,88.37,banana,Coastal Delta,Rabi,6.86
+108,86,52,27.38,78.28,6.28,108.22,banana,Central Plateau,Whole Year,8.29
+98,87,53,27.38,78.45,6.03,90.65,banana,Central Plateau,Rabi,6.82
+105,94,55,25.7,81.38,6.12,110.91,banana,Northeast Plain,Zaid,6.56
+98,83,52,27.41,75.63,6.07,99.3,banana,Southern Hills,Whole Year,7.38
+90,84,50,25.62,82.43,5.32,83.58,banana,Northeast Plain,Rabi,7.98
+95,71,43,24.41,79.58,5.71,111.55,banana,Northeast Plain,Whole Year,6.87
+92,78,46,26.09,78.05,5.7,122.1,banana,Southern Hills,Zaid,8.15
+109,73,48,25.12,80.75,6.4,111.8,banana,Southern Hills,Whole Year,7.68
+106,88,53,28.88,77.96,6.25,93.03,banana,Northeast Plain,Rabi,8.23
+101,91,49,27.37,82.01,5.59,106.24,banana,Northeast Plain,Whole Year,7.16
+96,82,43,27.01,73.6,5.53,91.31,banana,Western Dry Zone,Zaid,7.78
+93,87,52,27.11,83.23,5.86,100.22,banana,Coastal Delta,Zaid,7.07
+105,91,50,25.19,78.45,6.4,107.77,banana,Northeast Plain,Whole Year,7.17
+98,88,52,26.2,80.82,5.42,91.86,banana,Northeast Plain,Rabi,7.12
+95,83,45,26.52,85.66,5.95,99.34,banana,Northeast Plain,Whole Year,7.41
+109,82,60,25.28,78.43,6.56,98.36,banana,Southern Hills,Whole Year,6.78
+96,85,56,25.83,75.63,6.11,120.49,banana,Northeast Plain,Zaid,7.28
+109,73,58,26.19,77.6,6.17,93.96,banana,Coastal Delta,Zaid,7.16
+93,90,54,27.2,77.88,5.71,102.24,banana,Northeast Plain,Zaid,8.04
+96,90,40,27.67,87.11,5.62,113.46,banana,Coastal Delta,Kharif,7.7
+89,89,49,26.53,80.61,6.0,90.34,banana,Northeast Plain,Whole Year,8.15
+90,77,52,27.93,75.34,6.31,96.94,banana,Central Plateau,Whole Year,6.9
+97,84,48,26.77,82.72,5.55,90.65,banana,Western Dry Zone,Zaid,6.56
+106,87,59,27.52,75.8,5.61,102.27,banana,Central Plateau,Zaid,7.18
+103,78,41,25.46,80.82,5.89,99.15,banana,Southern Hills,Whole Year,6.68
+100,77,44,26.45,74.89,5.95,119.15,banana,Western Dry Zone,Rabi,6.63
+102,81,47,28.09,81.34,6.29,108.82,banana,Southern Hills,Rabi,6.49
+105,71,52,28.43,78.02,6.02,105.42,banana,Central Plateau,Kharif,7.98
+98,88,50,26.22,77.28,6.23,104.88,banana,Central Plateau,Whole Year,7.74
+105,83,52,25.63,74.12,5.66,86.95,banana,Southern Hills,Kharif,6.91
+91,79,50,24.34,81.9,6.67,121.14,banana,Central Plateau,Whole Year,8.0
+109,80,47,27.8,75.32,6.39,103.18,banana,Southern Hills,Whole Year,7.03
+102,88,56,25.96,85.78,6.46,93.67,banana,Southern Hills,Whole Year,7.78
+19,32,26,30.79,51.86,6.69,87.78,mango,Western Dry Zone,Rabi,3.84
+27,30,30,30.63,51.78,6.02,92.56,mango,Western Dry Zone,Zaid,3.73
+24,29,42,32.23,50.66,6.04,82.76,mango,Southern Hills,Rabi,4.01
+18,26,28,35.2,52.92,6.61,100.89,mango,Coastal Delta,Kharif,3.41
+11,39,43,32.56,44.5,6.72,95.41,mango,Coastal Delta,Whole Year,4.34
+31,25,33,31.94,45.75,6.4,97.79,mango,Coastal Delta,Kharif,5.24
+19,30,26,33.49,53.56,6.36,103.71,mango,Western Dry Zone,Kharif,4.24
+19,27,43,28.49,45.53,5.86,82.46,mango,Western Dry Zone,Zaid,3.9
+25,29,40,32.67,51.0,6.53,99.04,mango,Western Dry Zone,Kharif,4.36
+23,23,29,28.08,53.04,6.13,96.12,mango,Coastal Delta,Rabi,5.41
+28,27,35,33.37,55.39,6.02,96.58,mango,Southern Hills,Zaid,4.82
+25,16,41,29.09,52.05,6.36,100.29,mango,Southern Hills,Rabi,4.76
+22,29,22,32.28,50.43,5.76,108.65,mango,Northeast Plain,Kharif,4.24
+24,22,23,27.28,47.71,6.37,92.51,mango,Northeast Plain,Zaid,3.52
+27,33,35,35.14,47.04,6.37,85.76,mango,Western Dry Zone,Kharif,4.26
+14,21,27,28.64,52.48,6.89,99.77,mango,Central Plateau,Rabi,5.32
+18,24,30,30.32,52.27,5.62,86.25,mango,Central Plateau,Whole Year,3.77
+25,18,31,34.94,53.25,5.85,93.53,mango,Central Plateau,Rabi,4.2
+20,27,31,35.07,55.95,5.61,107.82,mango,Southern Hills,Whole Year,4.36
+34,30,28,27.04,56.34,6.13,91.95,mango,Western Dry Zone,Whole Year,3.96
+25,26,32,30.92,54.06,6.07,91.02,mango,Coastal Delta,Whole Year,4.18
+21,21,27,32.42,52.78,6.84,87.17,mango,Western Dry Zone,Kharif,3.67
+31,34,28,30.65,45.98,6.35,103.3,mango,Western Dry Zone,Whole Year,3.79
+22,28,28,31.8,53.84,6.41,100.56,mango,Coastal Delta,Rabi,4.3
+31,25,38,28.11,48.45,6.28,96.75,mango,Southern Hills,Kharif,4.36
+19,21,34,27.98,45.84,6.5,91.18,mango,Northeast Plain,Zaid,4.38
+12,29,24,27.14,49.79,6.43,98.85,mango,Northeast Plain,Kharif,4.82
+22,29,34,32.56,49.6,6.51,94.37,mango,Northeast Plain,Kharif,4.86
+18,37,37,32.93,48.33,6.15,100.24,mango,Northeast Plain,Rabi,3.46
+19,22,36,34.86,47.78,6.6,89.54,mango,Central Plateau,Whole Year,5.25
+34,26,35,28.57,53.47,6.71,88.15,mango,Northeast Plain,Kharif,4.69
+24,25,31,34.37,54.16,6.15,92.51,mango,Central Plateau,Kharif,4.57
+31,27,21,27.51,52.31,6.58,96.17,mango,Southern Hills,Whole Year,3.59
+30,33,25,33.33,48.9,6.34,93.15,mango,Western Dry Zone,Rabi,3.47
+27,29,25,34.28,51.87,6.04,100.53,mango,Northeast Plain,Zaid,3.93
+23,20,39,31.34,50.61,5.85,89.34,mango,Northeast Plain,Kharif,4.75
+32,35,23,29.31,48.77,5.97,98.53,mango,Western Dry Zone,Kharif,5.31
+26,31,27,29.1,53.42,6.32,91.35,mango,Central Plateau,Kharif,4.53
+24,22,37,26.72,48.83,6.46,98.48,mango,Western Dry Zone,Zaid,4.12
+15,31,29,27.82,54.36,6.45,93.83,mango,Central Plateau,Kharif,4.53
+26,19,28,28.11,55.51,5.77,98.13,mango,Southern Hills,Rabi,5.04
+21,18,34,34.52,56.23,7.03,81.49,mango,Northeast Plain,Rabi,3.45
+25,34,43,31.32,51.34,6.67,91.93,mango,Southern Hills,Rabi,4.31
+21,38,37,29.98,46.97,6.35,91.6,mango,Coastal Delta,Whole Year,4.69
+27,33,33,28.84,53.51,5.58,90.33,mango,Western Dry Zone,Kharif,4.19
+31,19,33,32.16,47.47,6.28,93.94,mango,Coastal Delta,Zaid,4.19
+26,29,29,32.47,49.27,6.22,94.58,mango,Western Dry Zone,Kharif,4.19
+24,28,43,35.12,50.6,5.94,95.26,mango,Southern Hills,Rabi,3.9
+31,25,32,34.96,48.93,5.85,98.91,mango,Northeast Plain,Kharif,5.09
+19,31,24,33.06,47.83,6.5,96.36,mango,Western Dry Zone,Rabi,4.47
+22,22,34,28.42,55.84,5.89,93.52,mango,Western Dry Zone,Kharif,4.44
+24,33,22,33.8,48.79,6.83,96.86,mango,Western Dry Zone,Rabi,4.88
+23,24,39,27.78,43.26,6.34,99.88,mango,Central Plateau,Zaid,3.49
+26,31,43,28.25,54.46,6.28,93.84,mango,Central Plateau,Rabi,4.45
+18,26,26,28.07,49.49,6.84,82.6,mango,Southern Hills,Whole Year,4.88
+14,27,43,34.72,51.24,6.05,104.49,mango,Southern Hills,Whole Year,5.33
+17,27,37,32.87,56.23,6.97,104.2,mango,Northeast Plain,Kharif,4.15
+21,31,29,31.39,44.11,6.84,88.96,mango,Southern Hills,Kharif,4.61
+17,23,37,27.21,50.73,6.1,91.93,mango,Western Dry Zone,Zaid,4.72
+24,31,36,32.15,42.86,6.16,101.74,mango,Southern Hills,Zaid,3.9
+30,25,27,34.54,51.24,6.33,90.86,mango,Western Dry Zone,Kharif,4.13
+32,26,24,28.34,51.55,6.33,95.2,mango,Central Plateau,Whole Year,4.18
+22,33,34,28.23,47.9,6.36,96.05,mango,Western Dry Zone,Whole Year,4.91
+24,30,41,27.57,55.38,5.96,91.04,mango,Central Plateau,Rabi,5.2
+23,29,36,30.67,53.1,6.18,108.66,mango,Western Dry Zone,Whole Year,3.54
+22,28,36,29.56,49.26,5.97,96.68,mango,Southern Hills,Rabi,3.7
+20,23,36,27.72,51.08,6.49,99.14,mango,Western Dry Zone,Rabi,3.96
+17,16,34,35.54,53.15,6.66,91.73,mango,Coastal Delta,Kharif,4.39
+27,28,32,33.01,43.28,6.12,92.34,mango,Central Plateau,Rabi,3.82
+14,31,28,27.92,51.05,6.09,83.8,mango,Southern Hills,Rabi,3.43
+15,36,28,32.68,47.57,6.2,94.4,mango,Southern Hills,Whole Year,4.49
+17,28,25,32.44,47.03,6.57,85.42,mango,Central Plateau,Kharif,4.38
+14,23,38,28.69,53.77,6.73,96.94,mango,Western Dry Zone,Whole Year,4.34
+19,19,28,31.52,46.91,6.21,105.84,mango,Central Plateau,Zaid,3.59
+27,27,37,27.76,52.46,6.54,92.2,mango,Central Plateau,Kharif,4.48
+22,18,31,28.84,56.18,6.43,81.64,mango,Coastal Delta,Kharif,3.53
+15,24,42,28.58,48.96,5.88,89.96,mango,Southern Hills,Kharif,5.17
+32,28,35,26.72,53.09,6.07,103.46,mango,Western Dry Zone,Zaid,4.14
+22,34,20,33.85,49.04,6.43,100.79,mango,Northeast Plain,Rabi,3.88
+30,26,26,29.15,54.46,6.61,99.37,mango,Southern Hills,Kharif,3.71
+30,31,31,28.54,48.99,6.5,101.81,mango,Western Dry Zone,Kharif,4.83
+30,29,37,30.18,54.74,6.08,85.55,mango,Central Plateau,Kharif,5.31
+25,31,26,26.88,52.2,5.91,95.27,mango,Western Dry Zone,Whole Year,4.35
+24,25,29,29.23,51.92,6.05,97.72,mango,Northeast Plain,Zaid,5.31
+23,38,22,26.33,47.37,6.29,85.09,mango,Northeast Plain,Zaid,3.98
+25,30,30,29.86,47.77,6.14,97.23,mango,Southern Hills,Zaid,5.07
+28,25,42,31.95,43.09,6.2,102.55,mango,Northeast Plain,Whole Year,4.35
+19,30,32,34.24,47.67,6.61,101.89,mango,Southern Hills,Whole Year,3.57
+15,26,43,32.52,57.8,5.9,87.74,mango,Southern Hills,Rabi,4.46
+21,20,41,34.36,50.52,6.62,97.24,mango,Coastal Delta,Zaid,4.44
+25,32,24,35.6,54.52,6.74,104.94,mango,Southern Hills,Rabi,5.28
+24,21,45,27.01,46.67,6.43,97.23,mango,Northeast Plain,Zaid,5.37
+17,29,26,27.8,50.35,6.84,89.99,mango,Coastal Delta,Whole Year,3.75
+22,21,28,27.71,43.55,6.58,100.96,mango,Central Plateau,Zaid,4.54
+22,28,27,27.87,43.14,6.51,85.81,mango,Northeast Plain,Rabi,5.04
+23,24,28,29.12,55.75,6.06,98.2,mango,Southern Hills,Whole Year,3.97
+30,23,45,30.15,49.2,6.24,93.43,mango,Western Dry Zone,Zaid,5.1
+13,26,39,29.98,51.37,6.05,93.31,mango,Central Plateau,Rabi,4.12
+18,23,31,35.31,51.53,6.33,87.06,mango,Coastal Delta,Zaid,3.73
+27,24,32,34.52,51.04,6.65,97.42,mango,Western Dry Zone,Zaid,4.54
+16,128,192,33.26,81.45,6.0,82.96,grapes,Coastal Delta,Whole Year,5.0
+30,116,200,16.52,79.89,6.05,82.37,grapes,Western Dry Zone,Kharif,5.37
+22,137,196,20.69,79.21,5.79,71.06,grapes,Central Plateau,Zaid,7.24
+23,141,202,16.23,82.82,5.4,78.87,grapes,Southern Hills,Zaid,6.86
+31,135,205,24.51,80.92,5.55,74.27,grapes,Coastal Delta,Zaid,7.26
+38,119,206,13.9,80.54,5.57,71.1,grapes,Coastal Delta,Zaid,6.01
+27,127,209,26.81,81.95,5.67,70.11,grapes,Coastal Delta,Whole Year,5.89
+24,136,199,12.64,83.03,5.86,63.37,grapes,Southern Hills,Whole Year,6.34
+26,140,194,30.34,79.24,5.49,69.88,grapes,Central Plateau,Kharif,6.74
+27,121,200,12.36,83.18,5.96,66.53,grapes,Coastal Delta,Zaid,4.63
+22,137,199,12.68,79.88,5.75,73.93,grapes,Coastal Delta,Kharif,5.96
+33,123,206,28.32,78.97,5.74,66.43,grapes,Central Plateau,Whole Year,5.51
+24,131,192,23.56,79.7,5.77,69.84,grapes,Southern Hills,Zaid,5.37
+23,135,197,35.66,83.23,5.89,77.57,grapes,Northeast Plain,Kharif,6.2
+28,131,204,16.92,79.93,5.98,79.65,grapes,Coastal Delta,Rabi,4.95
+18,122,195,25.85,80.4,6.0,58.74,grapes,Coastal Delta,Kharif,5.31
+15,135,205,36.46,77.28,5.91,65.11,grapes,Western Dry Zone,Whole Year,5.41
+34,130,198,18.96,82.21,6.02,75.99,grapes,Coastal Delta,Whole Year,6.29
+36,123,200,14.06,82.1,5.44,69.11,grapes,Coastal Delta,Rabi,5.01
+27,124,195,23.05,78.3,5.69,70.95,grapes,Central Plateau,Zaid,6.89
+38,139,205,22.02,84.42,5.92,64.62,grapes,Southern Hills,Whole Year,5.71
+32,124,196,14.24,83.28,5.96,77.15,grapes,Central Plateau,Zaid,6.52
+31,125,202,22.83,81.32,6.0,62.39,grapes,Coastal Delta,Whole Year,6.65
+23,130,202,31.51,82.95,5.79,75.44,grapes,Western Dry Zone,Zaid,4.77
+35,135,199,11.49,79.68,5.92,77.76,grapes,Central Plateau,Zaid,6.68
+21,126,192,27.94,83.71,5.54,66.49,grapes,Central Plateau,Rabi,6.08
+35,143,202,15.09,79.76,5.68,81.11,grapes,Southern Hills,Kharif,6.61
+33,135,202,26.7,80.88,5.75,74.11,grapes,Central Plateau,Kharif,5.97
+25,131,197,20.67,77.84,5.76,72.89,grapes,Western Dry Zone,Whole Year,6.26
+25,126,204,38.8,82.77,5.87,76.31,grapes,Southern Hills,Rabi,4.99
+33,133,203,17.58,78.58,5.97,78.69,grapes,Coastal Delta,Zaid,5.52
+27,123,199,23.83,81.5,5.54,67.91,grapes,Coastal Delta,Kharif,5.37
+17,130,200,32.0,82.38,6.04,67.97,grapes,Southern Hills,Whole Year,5.12
+21,137,207,31.47,80.06,5.66,75.24,grapes,Southern Hills,Rabi,6.54
+26,119,202,37.41,82.57,5.98,64.22,grapes,Western Dry Zone,Whole Year,5.41
+29,123,194,15.29,80.7,5.93,75.06,grapes,Northeast Plain,Whole Year,6.65
+34,121,200,14.39,82.55,5.69,67.94,grapes,Northeast Plain,Kharif,6.14
+37,125,200,16.02,83.41,5.93,78.44,grapes,Western Dry Zone,Rabi,5.93
+22,133,193,23.66,80.25,5.53,64.76,grapes,Southern Hills,Zaid,5.36
+20,123,197,30.21,82.88,6.17,60.51,grapes,Central Plateau,Kharif,6.0
+26,119,200,25.05,80.84,5.64,64.31,grapes,Central Plateau,Zaid,6.18
+21,137,197,21.35,80.16,5.85,75.7,grapes,Northeast Plain,Zaid,5.21
+21,127,194,27.8,79.5,5.5,71.32,grapes,Central Plateau,Whole Year,6.7
+24,132,201,13.42,82.18,5.67,78.38,grapes,Southern Hills,Kharif,5.67
+20,137,200,11.62,79.63,6.08,63.45,grapes,Southern Hills,Kharif,5.82
+32,117,209,30.47,82.11,5.86,69.51,grapes,Central Plateau,Zaid,6.79
+31,123,195,36.72,80.32,5.63,75.85,grapes,Northeast Plain,Kharif,5.41
+32,121,199,28.19,82.64,5.37,71.64,grapes,Southern Hills,Whole Year,6.19
+15,129,200,20.19,84.41,5.86,67.76,grapes,Northeast Plain,Zaid,6.02
+38,130,204,17.08,80.65,5.52,66.52,grapes,Western Dry Zone,Rabi,6.56
+25,138,195,33.37,81.34,5.79,61.3,grapes,Central Plateau,Rabi,6.79
+33,128,203,30.7,78.43,5.75,58.27,grapes,Central Plateau,Rabi,6.69
+22,123,195,14.75,84.67,5.6,76.57,grapes,Northeast Plain,Zaid,5.31
+30,125,204,13.29,83.47,5.59,62.83,grapes,Southern Hills,Zaid,5.09
+32,137,201,11.45,80.0,5.33,74.64,grapes,Coastal Delta,Rabi,4.9
+34,127,205,17.5,82.84,5.36,69.32,grapes,Central Plateau,Whole Year,5.07
+36,129,191,22.16,82.8,5.91,80.06,grapes,Southern Hills,Kharif,5.95
+29,129,198,14.25,78.96,6.03,69.86,grapes,Northeast Plain,Kharif,4.99
+31,133,192,25.74,83.7,5.35,61.84,grapes,Central Plateau,Whole Year,5.51
+25,136,203,21.4,82.05,5.78,67.27,grapes,Western Dry Zone,Whole Year,5.6
+37,126,208,40.61,79.23,5.95,60.6,grapes,Southern Hills,Zaid,5.03
+30,127,206,23.14,80.78,6.21,65.22,grapes,Northeast Plain,Zaid,6.17
+33,140,205,16.53,84.73,6.14,80.4,grapes,Western Dry Zone,Kharif,5.52
+23,130,200,25.83,83.22,5.84,57.26,grapes,Southern Hills,Rabi,7.17
+30,136,204,19.64,79.6,5.98,75.44,grapes,Central Plateau,Whole Year,6.05
+21,129,207,18.73,83.28,6.06,62.24,grapes,Northeast Plain,Whole Year,6.34
+31,121,200,22.0,82.19,5.43,80.15,grapes,Central Plateau,Kharif,6.8
+22,126,200,19.9,83.25,5.79,82.69,grapes,Southern Hills,Rabi,7.12
+31,127,199,38.65,85.59,5.7,63.88,grapes,Central Plateau,Rabi,5.89
+35,132,196,19.01,81.44,5.34,77.39,grapes,Central Plateau,Whole Year,5.1
+23,120,200,26.56,82.23,5.66,75.89,grapes,Western Dry Zone,Kharif,5.65
+19,136,201,21.97,82.39,5.87,66.67,grapes,Western Dry Zone,Kharif,5.83
+31,131,197,28.91,79.63,5.62,72.47,grapes,Northeast Plain,Whole Year,5.07
+34,122,200,26.96,81.08,5.98,71.92,grapes,Western Dry Zone,Kharif,7.02
+39,143,198,21.57,78.35,6.17,76.96,grapes,Western Dry Zone,Zaid,5.69
+25,138,204,30.79,80.42,5.56,66.21,grapes,Coastal Delta,Rabi,5.14
+33,129,198,29.99,81.49,5.79,67.18,grapes,Northeast Plain,Whole Year,5.18
+22,123,202,25.79,82.05,5.43,69.27,grapes,Southern Hills,Rabi,5.48
+27,136,193,17.3,81.89,5.69,79.14,grapes,Southern Hills,Zaid,6.48
+34,131,197,23.75,80.66,6.02,72.77,grapes,Southern Hills,Kharif,6.71
+36,132,198,25.01,80.94,5.54,68.61,grapes,Coastal Delta,Whole Year,7.12
+30,128,204,17.42,84.26,6.13,70.38,grapes,Coastal Delta,Kharif,6.01
+24,136,196,32.89,83.11,5.57,81.56,grapes,Western Dry Zone,Whole Year,6.16
+30,135,199,12.34,81.39,5.8,68.26,grapes,Western Dry Zone,Rabi,6.28
+31,123,206,31.7,82.4,5.96,64.6,grapes,Western Dry Zone,Whole Year,6.06
+28,140,198,25.82,83.5,5.95,62.11,grapes,Central Plateau,Kharif,6.25
+31,118,194,39.2,81.8,5.71,76.28,grapes,Central Plateau,Kharif,6.42
+25,132,200,29.99,82.94,5.61,66.37,grapes,Central Plateau,Whole Year,6.2
+28,135,202,32.31,81.08,5.6,62.76,grapes,Central Plateau,Zaid,5.64
+19,131,201,38.16,80.97,5.82,68.98,grapes,Southern Hills,Rabi,6.44
+25,121,200,38.02,80.21,5.92,65.45,grapes,Northeast Plain,Whole Year,6.38
+28,134,203,17.58,82.46,5.45,61.61,grapes,Central Plateau,Whole Year,5.66
+36,124,192,21.55,80.95,5.79,76.13,grapes,Coastal Delta,Zaid,7.0
+23,128,197,16.77,80.97,5.75,80.11,grapes,Coastal Delta,Whole Year,6.12
+18,135,193,23.64,83.44,5.7,75.39,grapes,Coastal Delta,Zaid,7.15
+28,129,196,35.9,82.5,5.56,72.95,grapes,Central Plateau,Whole Year,5.6
+18,124,192,33.2,83.3,5.53,66.98,grapes,Central Plateau,Kharif,4.97
+25,119,200,34.03,80.98,5.53,63.33,grapes,Coastal Delta,Kharif,7.01
+18,122,206,21.28,84.69,5.85,68.9,grapes,Central Plateau,Zaid,5.83
+29,140,202,36.34,80.65,5.7,64.28,grapes,Western Dry Zone,Zaid,5.1
+82,20,54,26.15,87.92,6.18,39.59,watermelon,Southern Hills,Zaid,5.5
+92,11,54,24.06,82.66,5.84,46.6,watermelon,Central Plateau,Whole Year,6.96
+79,8,49,24.25,81.82,6.84,37.09,watermelon,Western Dry Zone,Zaid,6.6
+94,9,56,24.76,82.05,6.55,35.63,watermelon,Coastal Delta,Kharif,6.96
+85,2,56,24.85,85.98,6.59,51.41,watermelon,Coastal Delta,Rabi,6.58
+105,16,50,24.62,84.67,6.27,50.22,watermelon,Southern Hills,Whole Year,5.57
+78,13,47,26.57,86.63,6.37,58.9,watermelon,Northeast Plain,Zaid,6.82
+100,13,48,26.37,81.34,6.29,64.59,watermelon,Coastal Delta,Kharif,5.75
+98,25,48,24.19,82.46,6.75,48.07,watermelon,Central Plateau,Rabi,6.0
+96,9,54,25.68,82.92,6.68,46.8,watermelon,Northeast Plain,Kharif,5.87
+89,2,49,25.08,89.57,6.84,41.54,watermelon,Southern Hills,Zaid,6.47
+80,16,53,25.01,82.57,6.74,57.86,watermelon,Coastal Delta,Rabi,6.48
+84,14,53,25.15,82.89,6.51,33.33,watermelon,Southern Hills,Kharif,6.9
+88,4,56,24.79,82.94,5.98,35.79,watermelon,Northeast Plain,Rabi,6.61
+86,10,44,25.2,83.53,6.65,46.74,watermelon,Northeast Plain,Whole Year,6.86
+90,16,50,25.5,88.25,6.38,42.31,watermelon,Northeast Plain,Zaid,5.68
+87,13,53,23.34,83.01,6.16,44.51,watermelon,Northeast Plain,Rabi,5.75
+95,22,54,25.13,85.77,6.2,36.52,watermelon,Northeast Plain,Whole Year,5.94
+95,18,44,23.7,84.46,6.71,42.45,watermelon,Coastal Delta,Kharif,6.62
+86,11,51,26.28,87.88,6.66,34.39,watermelon,Northeast Plain,Kharif,6.51
+90,6,57,23.79,83.62,6.17,50.35,watermelon,Southern Hills,Rabi,6.37
+92,6,55,23.91,79.94,5.98,34.66,watermelon,Northeast Plain,Rabi,5.94
+86,2,58,24.9,83.17,6.4,47.02,watermelon,Northeast Plain,Zaid,6.04
+80,17,50,25.47,86.99,6.91,33.81,watermelon,Northeast Plain,Whole Year,7.1
+96,11,45,26.17,89.05,6.52,39.43,watermelon,Northeast Plain,Kharif,6.69
+101,3,52,23.22,83.31,6.43,43.97,watermelon,Central Plateau,Whole Year,6.7
+97,22,50,23.74,87.7,6.21,47.8,watermelon,Northeast Plain,Kharif,5.84
+91,2,46,25.3,87.88,5.89,41.99,watermelon,Northeast Plain,Zaid,7.1
+79,20,47,25.03,88.05,6.39,61.14,watermelon,Northeast Plain,Rabi,6.44
+81,19,47,25.71,88.17,6.65,51.19,watermelon,Southern Hills,Whole Year,5.9
+82,0,47,24.76,82.23,6.53,50.98,watermelon,Coastal Delta,Zaid,5.48
+78,2,55,25.26,84.17,6.12,34.85,watermelon,Western Dry Zone,Zaid,6.52
+89,8,53,24.87,83.48,6.21,63.23,watermelon,Northeast Plain,Rabi,6.76
+94,24,50,25.14,83.84,6.6,39.04,watermelon,Coastal Delta,Rabi,6.64
+98,2,47,24.78,82.09,6.73,40.51,watermelon,Western Dry Zone,Whole Year,5.61
+102,12,48,26.67,80.85,6.37,56.06,watermelon,Western Dry Zone,Whole Year,6.64
+90,14,50,25.77,84.0,6.68,63.79,watermelon,Western Dry Zone,Whole Year,6.58
+93,11,49,23.7,89.15,7.05,40.47,watermelon,Southern Hills,Rabi,6.71
+98,13,48,25.52,82.4,6.21,34.23,watermelon,Southern Hills,Kharif,6.99
+88,14,55,25.97,84.94,6.63,47.95,watermelon,Coastal Delta,Whole Year,6.24
+95,8,57,24.87,80.42,6.14,38.56,watermelon,Southern Hills,Kharif,5.81
+86,16,51,25.67,80.7,6.54,46.74,watermelon,Southern Hills,Whole Year,5.52
+92,21,48,24.0,80.61,6.51,44.1,watermelon,Northeast Plain,Kharif,6.59
+83,12,58,25.47,85.42,6.44,38.79,watermelon,Central Plateau,Whole Year,6.17
+92,6,44,24.92,83.4,6.88,53.5,watermelon,Central Plateau,Kharif,6.63
+82,16,49,25.8,87.91,6.15,54.47,watermelon,Southern Hills,Whole Year,6.93
+102,16,50,24.97,79.41,6.88,55.51,watermelon,Northeast Plain,Zaid,5.47
+95,24,55,24.59,85.14,6.71,44.17,watermelon,Southern Hills,Rabi,7.34
+87,7,45,24.56,85.75,6.79,55.16,watermelon,Western Dry Zone,Zaid,6.87
+76,13,52,24.93,82.34,6.75,47.62,watermelon,Coastal Delta,Zaid,7.12
+101,18,49,23.88,83.41,6.93,51.11,watermelon,Western Dry Zone,Kharif,6.87
+96,9,44,24.02,79.14,6.69,38.03,watermelon,Western Dry Zone,Whole Year,6.49
+88,15,50,24.86,84.68,6.81,39.15,watermelon,Coastal Delta,Kharif,6.51
+83,18,45,24.78,80.83,5.72,51.13,watermelon,Coastal Delta,Whole Year,6.89
+78,10,46,25.05,77.69,6.95,55.06,watermelon,Coastal Delta,Kharif,6.38
+91,2,44,23.04,82.88,6.45,53.67,watermelon,Southern Hills,Whole Year,5.99
+88,21,44,25.56,91.39,6.01,37.29,watermelon,Northeast Plain,Kharif,5.51
+83,10,52,24.53,88.69,5.98,61.75,watermelon,Western Dry Zone,Kharif,5.63
+95,4,50,24.85,86.94,6.59,57.13,watermelon,Southern Hills,Zaid,6.5
+100,15,48,24.5,87.79,6.78,55.82,watermelon,Coastal Delta,Rabi,6.94
+78,8,57,25.14,91.1,6.47,61.18,watermelon,Northeast Plain,Whole Year,5.75
+84,6,48,24.33,83.65,6.34,31.85,watermelon,Coastal Delta,Kharif,6.72
+80,6,54,26.66,84.77,6.72,38.4,watermelon,Western Dry Zone,Rabi,6.32
+91,14,50,24.73,84.52,6.84,45.0,watermelon,Southern Hills,Zaid,5.98
+82,10,48,25.64,84.14,6.83,55.6,watermelon,Northeast Plain,Zaid,7.05
+86,10,52,24.47,79.34,5.9,42.15,watermelon,Central Plateau,Rabi,5.63
+84,18,44,25.79,88.44,6.11,42.55,watermelon,Central Plateau,Zaid,5.77
+78,10,48,24.32,81.52,6.33,42.16,watermelon,Coastal Delta,Zaid,5.72
+95,12,47,25.2,88.67,6.81,44.78,watermelon,Western Dry Zone,Kharif,5.95
+88,6,45,24.82,86.9,6.07,43.94,watermelon,Western Dry Zone,Zaid,6.21
+85,22,53,24.58,78.58,6.78,48.26,watermelon,Northeast Plain,Rabi,5.96
+94,15,51,24.81,92.01,6.87,57.88,watermelon,Coastal Delta,Kharif,5.92
+92,15,53,24.87,86.86,6.41,55.47,watermelon,Northeast Plain,Zaid,6.18
+79,14,53,24.74,89.44,6.23,43.39,watermelon,Western Dry Zone,Rabi,6.77
+98,14,50,24.01,80.89,6.1,54.04,watermelon,Central Plateau,Kharif,6.7
+87,14,55,25.45,82.77,6.22,39.7,watermelon,Northeast Plain,Whole Year,6.01
+99,16,52,25.93,86.41,6.6,46.7,watermelon,Western Dry Zone,Zaid,6.78
+77,3,55,24.91,85.25,6.65,45.91,watermelon,Central Plateau,Kharif,7.38
+84,14,47,26.07,90.84,6.18,44.5,watermelon,Southern Hills,Zaid,5.67
+80,17,58,25.08,81.01,6.55,59.16,watermelon,Western Dry Zone,Zaid,6.45
+95,10,51,24.3,87.16,6.54,58.76,watermelon,Northeast Plain,Zaid,5.74
+95,18,53,25.53,80.79,6.45,44.41,watermelon,Southern Hills,Rabi,5.66
+89,11,50,24.68,84.53,6.6,52.75,watermelon,Western Dry Zone,Whole Year,6.94
+85,10,48,24.4,88.41,6.37,38.51,watermelon,Northeast Plain,Kharif,5.7
+97,5,55,24.58,85.54,6.5,49.36,watermelon,Coastal Delta,Zaid,7.41
+103,13,51,24.95,84.72,6.32,60.76,watermelon,Coastal Delta,Zaid,6.72
+95,3,59,24.71,87.89,5.94,47.22,watermelon,Coastal Delta,Whole Year,5.63
+76,20,48,25.52,79.56,6.91,46.94,watermelon,Northeast Plain,Kharif,6.24
+96,7,52,26.01,91.4,6.47,47.48,watermelon,Central Plateau,Kharif,5.91
+90,10,51,26.17,84.52,6.34,35.26,watermelon,Western Dry Zone,Kharif,7.23
+85,9,56,23.42,82.59,6.03,54.81,watermelon,Northeast Plain,Kharif,5.57
+95,4,50,25.75,80.15,6.57,50.95,watermelon,Northeast Plain,Whole Year,6.85
+84,17,47,23.65,86.91,5.9,50.87,watermelon,Central Plateau,Zaid,5.58
+93,11,51,26.16,84.37,6.34,40.38,watermelon,Southern Hills,Kharif,6.46
+89,15,46,24.57,82.6,6.98,52.78,watermelon,Coastal Delta,Whole Year,6.95
+96,11,52,23.78,86.68,6.21,44.82,watermelon,Western Dry Zone,Zaid,5.45
+82,6,44,24.38,80.24,6.41,46.88,watermelon,Northeast Plain,Kharif,7.46
+93,15,52,25.74,85.96,6.31,50.93,watermelon,Southern Hills,Rabi,7.38
+87,15,55,26.12,85.66,6.37,42.07,watermelon,Coastal Delta,Kharif,5.71
+93,19,47,26.1,79.82,6.62,43.98,watermelon,Central Plateau,Kharif,6.38
+95,22,47,29.24,95.19,6.12,35.62,muskmelon,Central Plateau,Rabi,4.98
+83,20,54,28.5,91.59,6.11,30.03,muskmelon,Southern Hills,Zaid,5.76
+81,12,53,28.0,92.59,6.55,30.29,muskmelon,Northeast Plain,Rabi,4.95
+96,10,46,28.61,90.74,6.39,25.5,muskmelon,Coastal Delta,Whole Year,6.27
+96,28,50,27.08,96.43,6.32,33.15,muskmelon,Southern Hills,Whole Year,5.58
+89,25,50,27.67,91.61,6.88,15.49,muskmelon,Central Plateau,Zaid,6.17
+84,21,46,27.83,92.14,6.34,16.73,muskmelon,Southern Hills,Zaid,4.69
+94,21,51,28.1,89.61,6.62,37.5,muskmelon,Western Dry Zone,Kharif,5.42
+91,8,48,29.08,93.25,6.52,33.43,muskmelon,Southern Hills,Kharif,5.44
+79,19,54,27.3,92.02,6.53,30.67,muskmelon,Western Dry Zone,Whole Year,5.34
+79,6,50,26.93,92.3,6.16,19.11,muskmelon,Southern Hills,Rabi,5.8
+95,14,50,28.21,90.04,6.09,38.74,muskmelon,Coastal Delta,Zaid,5.74
+89,16,48,29.57,95.76,6.82,20.95,muskmelon,Northeast Plain,Rabi,5.84
+95,5,51,26.64,92.34,6.24,20.38,muskmelon,Northeast Plain,Zaid,5.56
+80,23,44,28.59,88.71,6.89,37.18,muskmelon,Central Plateau,Whole Year,6.05
+86,24,46,27.24,92.24,5.95,22.01,muskmelon,Central Plateau,Rabi,6.3
+100,24,52,27.91,91.3,6.04,14.3,muskmelon,Southern Hills,Kharif,5.57
+91,18,47,29.03,94.64,6.43,27.44,muskmelon,Central Plateau,Rabi,5.97
+89,9,44,26.69,91.43,6.54,22.07,muskmelon,Coastal Delta,Kharif,5.2
+100,14,51,28.07,91.17,6.55,31.49,muskmelon,Northeast Plain,Whole Year,6.03
+84,11,51,28.72,93.56,6.32,31.27,muskmelon,Coastal Delta,Kharif,4.71
+99,23,46,28.62,91.24,5.98,22.43,muskmelon,Southern Hills,Zaid,4.61
+98,27,50,26.34,92.0,6.27,28.16,muskmelon,Southern Hills,Rabi,5.33
+100,12,42,29.16,89.37,6.61,26.8,muskmelon,Southern Hills,Zaid,5.07
+82,4,55,27.2,94.48,6.76,17.87,muskmelon,Southern Hills,Rabi,5.92
+87,18,53,28.96,93.18,5.76,22.94,muskmelon,Southern Hills,Kharif,5.14
+96,7,55,27.84,91.84,6.52,21.95,muskmelon,Central Plateau,Whole Year,5.68
+76,13,47,27.55,94.17,6.89,21.23,muskmelon,Central Plateau,Kharif,6.24
+84,6,49,27.42,92.43,6.08,19.69,muskmelon,Central Plateau,Kharif,4.49
+87,15,51,27.44,92.64,6.13,29.01,muskmelon,Western Dry Zone,Whole Year,6.31
+86,4,55,28.12,92.94,6.31,24.68,muskmelon,Northeast Plain,Kharif,6.17
+100,24,54,26.74,94.65,6.11,28.01,muskmelon,Central Plateau,Kharif,5.8
+83,10,50,28.7,90.19,6.65,37.17,muskmelon,Southern Hills,Whole Year,4.84
+86,4,54,27.36,94.7,6.09,17.43,muskmelon,Northeast Plain,Zaid,6.0
+88,21,51,28.63,94.27,5.94,33.27,muskmelon,Central Plateau,Whole Year,5.93
+88,4,47,27.44,89.7,6.56,16.81,muskmelon,Southern Hills,Whole Year,5.55
+87,10,43,27.42,92.27,6.39,21.23,muskmelon,Coastal Delta,Zaid,5.33
+90,19,49,29.11,89.24,6.53,20.49,muskmelon,Central Plateau,Zaid,5.3
+88,3,51,27.31,93.62,6.51,27.23,muskmelon,Central Plateau,Kharif,4.76
+85,25,51,27.76,89.65,6.15,21.79,muskmelon,Western Dry Zone,Zaid,4.97
+102,16,46,28.25,91.58,6.5,22.07,muskmelon,Central Plateau,Kharif,5.92
+96,14,44,29.12,94.23,6.37,38.73,muskmelon,Southern Hills,Kharif,5.87
+97,22,54,27.81,94.48,6.41,28.22,muskmelon,Northeast Plain,Rabi,4.63
+91,9,57,28.59,88.82,6.57,27.92,muskmelon,Central Plateau,Whole Year,5.74
+90,20,52,26.31,93.14,6.18,30.18,muskmelon,Central Plateau,Kharif,5.42
+97,15,45,28.64,95.35,5.87,26.8,muskmelon,Southern Hills,Whole Year,4.6
+92,16,53,28.8,92.88,6.05,20.9,muskmelon,Southern Hills,Zaid,5.0
+96,7,53,28.16,89.98,6.59,25.79,muskmelon,Northeast Plain,Rabi,6.26
+101,18,47,28.56,88.41,6.14,29.1,muskmelon,Northeast Plain,Rabi,5.82
+79,28,48,27.86,95.66,6.46,23.93,muskmelon,Coastal Delta,Kharif,6.11
+90,12,55,29.08,91.75,6.33,26.19,muskmelon,Northeast Plain,Zaid,4.56
+89,12,44,27.91,93.94,6.39,28.32,muskmelon,Northeast Plain,Zaid,5.67
+96,22,50,27.43,95.15,6.4,19.46,muskmelon,Coastal Delta,Zaid,4.89
+94,14,57,27.82,91.74,6.65,33.23,muskmelon,Northeast Plain,Kharif,5.04
+90,23,50,28.28,94.46,6.03,20.39,muskmelon,Southern Hills,Whole Year,5.04
+87,13,57,26.8,93.14,6.05,24.4,muskmelon,Central Plateau,Zaid,5.8
+87,12,49,28.21,92.0,6.34,37.88,muskmelon,Coastal Delta,Kharif,4.31
+88,9,51,27.74,92.49,6.77,19.83,muskmelon,Coastal Delta,Zaid,5.06
+103,15,42,26.64,89.72,6.89,13.04,muskmelon,Coastal Delta,Rabi,4.33
+90,28,51,28.32,90.33,6.92,22.24,muskmelon,Coastal Delta,Kharif,5.36
+90,3,49,28.39,92.5,6.49,33.71,muskmelon,Southern Hills,Rabi,5.32
+100,24,51,26.41,93.68,6.5,18.36,muskmelon,Southern Hills,Whole Year,4.99
+86,19,52,28.75,89.16,6.41,32.54,muskmelon,Central Plateau,Kharif,4.66
+89,13,56,27.38,92.52,6.44,18.3,muskmelon,Southern Hills,Whole Year,5.68
+85,22,58,28.2,89.92,6.13,29.6,muskmelon,Northeast Plain,Zaid,5.65
+102,6,48,28.68,92.73,6.12,25.26,muskmelon,Northeast Plain,Zaid,5.39
+92,3,51,26.7,94.97,5.88,19.35,muskmelon,Coastal Delta,Zaid,5.35
+98,16,52,27.17,93.66,6.23,30.74,muskmelon,Southern Hills,Rabi,4.48
+88,13,51,28.28,88.81,6.42,34.42,muskmelon,Central Plateau,Whole Year,5.54
+82,11,43,27.15,91.36,6.3,26.76,muskmelon,Southern Hills,Whole Year,4.57
+96,3,50,28.24,93.39,6.13,15.44,muskmelon,Southern Hills,Rabi,4.41
+76,14,46,29.67,90.26,5.91,22.72,muskmelon,Southern Hills,Zaid,5.9
+81,17,41,27.45,95.04,6.45,31.67,muskmelon,Coastal Delta,Rabi,4.65
+91,6,50,27.86,92.03,6.19,21.75,muskmelon,Central Plateau,Rabi,6.09
+95,21,48,29.75,95.07,5.85,20.35,muskmelon,Western Dry Zone,Kharif,5.0
+86,12,44,28.36,90.7,6.01,18.16,muskmelon,Central Plateau,Rabi,5.63
+99,26,44,29.68,91.56,6.65,26.23,muskmelon,Western Dry Zone,Rabi,5.32
+84,18,52,28.05,91.01,6.25,34.48,muskmelon,Central Plateau,Rabi,5.67
+92,17,55,29.06,93.55,6.87,32.45,muskmelon,Western Dry Zone,Whole Year,5.31
+80,24,55,26.84,95.21,7.01,13.43,muskmelon,Central Plateau,Rabi,5.68
+94,9,48,28.4,91.16,6.62,17.67,muskmelon,Southern Hills,Whole Year,6.18
+94,21,42,29.28,94.71,6.39,35.97,muskmelon,Western Dry Zone,Rabi,6.15
+85,2,46,27.89,92.66,6.32,29.92,muskmelon,Western Dry Zone,Kharif,5.48
+78,7,42,27.94,90.04,6.42,17.78,muskmelon,Coastal Delta,Zaid,6.24
+79,25,53,27.01,88.28,6.33,27.23,muskmelon,Western Dry Zone,Zaid,6.09
+97,8,54,26.64,92.15,6.43,18.19,muskmelon,Central Plateau,Rabi,4.94
+94,5,43,27.46,94.1,6.54,14.16,muskmelon,Central Plateau,Whole Year,4.51
+76,18,56,27.7,92.6,6.49,23.09,muskmelon,Southern Hills,Whole Year,5.95
+91,13,45,27.73,87.49,6.19,18.78,muskmelon,Western Dry Zone,Zaid,4.43
+103,14,53,28.6,95.86,6.52,32.79,muskmelon,Southern Hills,Rabi,6.04
+83,7,56,28.82,95.41,6.22,19.47,muskmelon,Northeast Plain,Kharif,4.75
+97,16,53,27.1,91.69,6.84,28.84,muskmelon,Southern Hills,Rabi,5.4
+82,16,47,29.21,96.18,6.03,35.44,muskmelon,Southern Hills,Zaid,4.99
+83,15,47,28.73,94.89,6.21,28.96,muskmelon,Central Plateau,Kharif,5.23
+95,8,48,29.05,89.29,5.99,17.08,muskmelon,Central Plateau,Kharif,5.54
+100,17,45,26.47,89.09,6.71,14.01,muskmelon,Southern Hills,Rabi,5.69
+98,24,48,28.14,93.7,6.8,24.91,muskmelon,Southern Hills,Whole Year,6.12
+80,6,45,27.52,91.3,6.21,37.67,muskmelon,Northeast Plain,Kharif,5.39
+88,9,48,27.32,91.35,6.77,30.37,muskmelon,Central Plateau,Whole Year,6.12
+87,4,48,27.24,92.66,6.84,26.42,muskmelon,Northeast Plain,Rabi,6.32
+21,123,201,22.31,89.32,6.42,128.66,apple,Coastal Delta,Rabi,4.58
+27,125,209,20.91,89.38,6.03,100.62,apple,Central Plateau,Zaid,3.06
+12,127,204,21.24,89.22,5.94,110.99,apple,Northeast Plain,Zaid,3.61
+10,120,199,23.55,89.76,5.5,111.6,apple,Coastal Delta,Kharif,3.55
+17,133,192,22.14,91.14,5.31,100.88,apple,Coastal Delta,Kharif,4.24
+20,138,196,20.65,92.35,5.6,113.38,apple,Coastal Delta,Kharif,4.36
+17,117,206,23.27,90.09,5.26,96.65,apple,Western Dry Zone,Rabi,4.27
+22,126,206,22.62,90.84,6.21,94.15,apple,Western Dry Zone,Whole Year,3.97
+10,124,205,22.94,92.07,6.56,125.6,apple,Northeast Plain,Whole Year,3.3
+18,121,202,21.14,89.76,6.39,110.67,apple,Northeast Plain,Rabi,4.38
+24,129,200,21.44,89.02,5.9,101.67,apple,Coastal Delta,Whole Year,3.79
+31,124,206,24.22,91.68,5.99,102.34,apple,Southern Hills,Kharif,4.4
+25,139,204,22.79,88.6,6.27,124.46,apple,Western Dry Zone,Whole Year,3.38
+19,135,198,23.77,92.67,5.65,101.2,apple,Coastal Delta,Rabi,4.13
+28,125,206,22.48,88.87,5.76,111.63,apple,Southern Hills,Kharif,3.82
+24,131,197,22.06,88.67,6.39,112.58,apple,Coastal Delta,Rabi,3.74
+21,125,205,23.32,89.0,5.35,110.22,apple,Central Plateau,Zaid,4.07
+14,134,197,21.44,91.02,6.19,109.32,apple,Western Dry Zone,Whole Year,3.6
+40,140,200,24.13,91.79,5.63,110.16,apple,Southern Hills,Whole Year,3.55
+28,133,200,21.04,89.36,6.3,117.03,apple,Northeast Plain,Zaid,4.05
+24,130,193,22.21,92.24,6.43,121.32,apple,Western Dry Zone,Zaid,3.79
+25,136,200,23.4,88.54,6.66,128.5,apple,Northeast Plain,Kharif,4.34
+27,135,200,22.06,91.89,5.67,106.27,apple,Central Plateau,Zaid,3.18
+21,128,198,21.55,91.97,5.68,113.1,apple,Northeast Plain,Kharif,3.69
+10,129,194,23.6,92.85,6.23,113.78,apple,Western Dry Zone,Whole Year,3.61
+32,117,204,23.43,93.19,5.96,118.62,apple,Central Plateau,Whole Year,3.82
+22,119,196,22.72,94.62,6.13,128.38,apple,Northeast Plain,Kharif,3.57
+23,134,199,22.69,92.95,6.33,127.92,apple,Central Plateau,Kharif,4.1
+21,132,203,23.23,89.82,6.21,112.79,apple,Central Plateau,Rabi,3.92
+12,135,208,23.55,94.43,6.01,104.96,apple,Central Plateau,Whole Year,4.55
+25,120,201,22.45,90.13,5.97,124.2,apple,Coastal Delta,Whole Year,4.59
+10,121,204,22.12,89.14,6.03,116.92,apple,Central Plateau,Zaid,4.09
+25,119,196,24.51,90.37,6.28,124.6,apple,Northeast Plain,Rabi,3.0
+13,131,205,24.05,91.33,6.15,112.28,apple,Western Dry Zone,Kharif,4.48
+16,128,198,22.23,93.41,5.36,105.31,apple,Western Dry Zone,Rabi,4.16
+17,131,202,22.31,91.26,5.35,108.9,apple,Northeast Plain,Rabi,3.3
+29,132,204,21.78,90.66,5.84,120.94,apple,Coastal Delta,Whole Year,3.49
+35,141,201,24.66,92.53,5.49,109.65,apple,Western Dry Zone,Kharif,2.98
+19,131,201,24.25,91.02,6.33,118.59,apple,Northeast Plain,Zaid,4.27
+21,125,198,21.43,93.4,6.31,96.21,apple,Southern Hills,Whole Year,3.51
+13,119,203,22.67,92.69,6.03,116.31,apple,Central Plateau,Kharif,3.96
+30,124,200,21.5,95.13,6.63,126.59,apple,Coastal Delta,Kharif,3.34
+19,137,198,22.58,90.56,5.76,121.67,apple,Southern Hills,Kharif,4.76
+31,139,202,23.54,90.71,6.17,106.84,apple,Coastal Delta,Kharif,3.07
+30,117,199,21.19,89.65,5.69,132.38,apple,Western Dry Zone,Whole Year,3.07
+28,140,200,21.95,91.53,6.04,113.1,apple,Western Dry Zone,Rabi,3.1
+14,134,197,22.11,90.51,6.62,112.99,apple,Western Dry Zone,Rabi,3.87
+30,127,200,23.23,91.95,6.54,118.38,apple,Northeast Plain,Kharif,3.83
+15,132,192,24.67,92.38,5.74,112.1,apple,Western Dry Zone,Zaid,4.63
+22,127,190,24.04,92.27,6.36,103.08,apple,Central Plateau,Zaid,4.52
+24,131,202,21.29,89.51,6.07,119.91,apple,Southern Hills,Zaid,3.22
+15,119,201,21.4,88.93,6.13,96.3,apple,Northeast Plain,Kharif,3.8
+22,133,200,23.91,88.7,5.31,111.85,apple,Coastal Delta,Zaid,4.18
+9,136,199,22.23,95.24,6.16,120.96,apple,Northeast Plain,Zaid,4.13
+5,143,192,21.56,90.86,6.08,114.46,apple,Central Plateau,Rabi,3.4
+32,136,202,22.85,88.25,5.82,113.89,apple,Western Dry Zone,Kharif,3.11
+32,130,194,21.68,88.01,6.36,112.17,apple,Northeast Plain,Rabi,3.78
+18,134,194,20.57,92.97,6.23,117.45,apple,Coastal Delta,Rabi,3.71
+11,117,191,23.66,89.79,5.87,113.05,apple,Western Dry Zone,Zaid,3.74
+27,130,204,22.93,90.31,5.75,103.91,apple,Southern Hills,Rabi,3.38
+7,129,193,22.04,90.93,6.45,126.92,apple,Coastal Delta,Whole Year,3.38
+18,122,205,22.53,89.32,6.46,107.92,apple,Southern Hills,Whole Year,3.18
+32,126,202,22.33,92.04,5.78,98.93,apple,Southern Hills,Kharif,3.68
+20,132,192,22.49,89.97,6.19,112.61,apple,Western Dry Zone,Whole Year,3.63
+19,138,205,20.55,92.66,6.07,113.41,apple,Central Plateau,Whole Year,3.1
+15,136,200,22.82,90.64,6.15,106.38,apple,Northeast Plain,Zaid,4.06
+21,144,196,21.88,95.26,6.35,106.98,apple,Central Plateau,Kharif,4.18
+18,133,206,23.33,87.95,5.8,106.85,apple,Central Plateau,Rabi,3.97
+23,122,198,24.04,91.4,6.19,111.43,apple,Western Dry Zone,Kharif,3.24
+31,121,199,22.09,89.64,5.89,99.43,apple,Northeast Plain,Whole Year,3.62
+29,134,193,20.9,92.92,6.2,92.73,apple,Western Dry Zone,Kharif,3.23
+33,132,204,22.48,94.8,5.87,116.69,apple,Southern Hills,Kharif,4.63
+13,137,197,20.79,93.96,5.97,129.35,apple,Central Plateau,Kharif,3.72
+23,138,197,22.6,89.49,5.56,97.03,apple,Coastal Delta,Kharif,3.09
+16,120,203,21.64,93.12,5.71,100.58,apple,Coastal Delta,Zaid,4.72
+23,131,197,22.29,94.72,6.11,100.64,apple,Coastal Delta,Kharif,3.24
+14,133,194,22.14,90.51,6.05,108.18,apple,Northeast Plain,Rabi,3.91
+32,144,198,22.93,90.97,5.57,130.49,apple,Coastal Delta,Zaid,4.36
+14,121,198,23.97,92.84,5.32,104.31,apple,Coastal Delta,Zaid,4.04
+28,132,194,21.77,92.51,5.74,113.71,apple,Central Plateau,Rabi,3.93
+20,135,199,24.03,92.35,6.12,108.1,apple,Northeast Plain,Rabi,3.5
+30,130,197,23.3,92.24,5.71,107.91,apple,Northeast Plain,Rabi,4.63
+11,125,201,22.15,91.03,6.28,128.79,apple,Coastal Delta,Whole Year,4.61
+18,125,198,20.97,92.79,6.19,126.15,apple,Western Dry Zone,Kharif,4.11
+34,134,198,22.53,90.09,6.11,126.01,apple,Coastal Delta,Whole Year,4.11
+18,121,199,21.12,92.91,5.67,103.28,apple,Central Plateau,Kharif,3.22
+20,121,209,21.6,89.58,6.58,114.93,apple,Northeast Plain,Zaid,3.62
+9,119,200,23.26,94.18,5.39,128.81,apple,Northeast Plain,Whole Year,4.38
+34,138,203,21.68,95.71,6.73,125.1,apple,Coastal Delta,Zaid,4.06
+25,140,203,21.69,94.03,5.94,96.74,apple,Southern Hills,Kharif,3.35
+13,139,201,23.55,92.5,6.35,101.48,apple,Western Dry Zone,Zaid,4.52
+30,129,193,21.52,90.69,6.23,125.61,apple,Southern Hills,Rabi,4.58
+20,116,208,23.16,90.33,6.4,121.95,apple,Northeast Plain,Zaid,3.48
+19,118,200,21.83,89.2,6.02,118.11,apple,Coastal Delta,Rabi,3.87
+29,137,199,24.16,95.81,6.58,114.52,apple,Northeast Plain,Rabi,3.36
+18,136,193,21.34,92.42,6.19,116.0,apple,Coastal Delta,Whole Year,3.92
+13,138,203,24.02,89.29,5.72,104.99,apple,Western Dry Zone,Rabi,4.53
+6,125,202,21.88,89.21,5.33,101.18,apple,Central Plateau,Rabi,3.16
+35,125,204,22.71,91.82,5.81,111.96,apple,Southern Hills,Rabi,3.05
+22,127,197,22.34,93.24,5.52,128.3,apple,Western Dry Zone,Kharif,3.91
+25,13,8,18.99,94.88,7.98,124.52,orange,Northeast Plain,Rabi,3.67
+11,11,12,23.72,89.04,7.18,109.3,orange,Western Dry Zone,Kharif,4.6
+18,19,18,11.72,91.83,6.41,119.76,orange,Coastal Delta,Kharif,4.39
+20,20,7,29.66,96.91,7.32,114.4,orange,Coastal Delta,Kharif,3.88
+30,22,17,15.79,90.14,7.59,106.61,orange,Central Plateau,Whole Year,4.52
+25,3,9,32.12,92.86,6.56,108.78,orange,Northeast Plain,Rabi,3.8
+36,15,11,11.85,93.99,7.49,114.16,orange,Central Plateau,Kharif,3.42
+22,8,14,33.46,89.13,5.94,119.89,orange,Central Plateau,Kharif,3.45
+28,11,6,26.17,95.06,6.12,117.45,orange,Western Dry Zone,Rabi,4.85
+34,2,13,23.57,90.65,6.77,111.04,orange,Northeast Plain,Kharif,3.61
+10,4,8,28.12,92.66,6.45,99.85,orange,Southern Hills,Whole Year,4.55
+16,19,13,32.42,95.0,6.99,120.58,orange,Coastal Delta,Whole Year,4.23
+31,23,9,18.16,92.68,6.36,114.69,orange,Central Plateau,Whole Year,4.74
+13,8,19,13.29,89.68,6.25,114.96,orange,Northeast Plain,Zaid,4.51
+18,7,6,23.17,95.46,6.13,111.67,orange,Southern Hills,Rabi,4.49
+27,3,2,28.02,92.06,7.0,114.04,orange,Coastal Delta,Zaid,3.98
+27,8,14,15.32,91.74,7.11,112.97,orange,Northeast Plain,Rabi,4.65
+32,21,8,29.25,91.94,6.15,97.29,orange,Coastal Delta,Kharif,3.3
+25,10,17,21.86,89.87,7.39,129.61,orange,Southern Hills,Kharif,4.7
+24,0,11,25.75,90.19,7.6,119.64,orange,Southern Hills,Kharif,3.71
+28,13,6,26.77,92.98,7.23,108.82,orange,Central Plateau,Kharif,4.26
+17,6,12,15.83,93.62,7.73,119.9,orange,Central Plateau,Kharif,3.73
+16,5,16,17.33,94.59,7.6,108.52,orange,Northeast Plain,Whole Year,4.47
+21,17,7,30.22,93.49,7.87,116.4,orange,Western Dry Zone,Kharif,3.86
+15,7,14,10.45,90.13,6.87,98.96,orange,Central Plateau,Zaid,3.95
+20,22,17,19.89,88.85,6.19,110.02,orange,Western Dry Zone,Zaid,4.23
+34,11,12,26.87,93.36,6.8,105.88,orange,Southern Hills,Zaid,3.7
+14,18,12,28.82,90.82,6.91,111.66,orange,Coastal Delta,Kharif,4.18
+30,14,3,33.46,89.28,6.53,108.16,orange,Southern Hills,Kharif,4.33
+18,13,7,27.69,95.95,6.89,121.59,orange,Southern Hills,Kharif,4.32
+18,12,6,19.0,92.53,6.07,118.79,orange,Northeast Plain,Kharif,3.69
+36,15,13,17.91,90.94,7.1,114.53,orange,Southern Hills,Whole Year,4.68
+32,14,8,27.66,93.03,6.6,117.25,orange,Coastal Delta,Kharif,4.49
+29,22,8,26.24,95.07,6.98,122.29,orange,Central Plateau,Whole Year,3.8
+14,12,10,31.67,90.84,8.09,107.17,orange,Western Dry Zone,Zaid,4.33
+23,10,8,14.15,97.13,7.64,106.98,orange,Western Dry Zone,Whole Year,3.75
+17,23,1,19.56,97.28,7.13,119.37,orange,Southern Hills,Kharif,4.39
+24,23,13,29.35,97.05,6.75,107.67,orange,Northeast Plain,Zaid,4.18
+12,9,4,27.69,87.55,6.07,100.33,orange,Coastal Delta,Rabi,4.51
+36,17,16,25.28,95.48,7.34,111.53,orange,Southern Hills,Rabi,4.87
+18,9,20,25.87,91.14,7.19,103.93,orange,Coastal Delta,Zaid,3.93
+32,5,12,27.91,93.41,6.47,114.62,orange,Southern Hills,Kharif,4.13
+19,16,14,26.89,88.79,5.99,108.91,orange,Southern Hills,Whole Year,4.78
+25,8,8,35.04,89.53,6.54,99.69,orange,Central Plateau,Rabi,3.25
+26,20,10,21.82,94.71,6.29,110.03,orange,Coastal Delta,Rabi,4.53
+14,18,13,34.37,93.75,7.62,100.78,orange,Western Dry Zone,Kharif,3.63
+18,17,4,17.44,93.35,6.83,100.99,orange,Southern Hills,Zaid,4.03
+24,9,20,25.1,93.16,6.08,124.43,orange,Central Plateau,Zaid,4.25
+18,5,5,34.99,93.39,6.34,105.84,orange,Northeast Plain,Rabi,3.93
+22,18,10,15.77,92.82,6.84,124.94,orange,Northeast Plain,Rabi,4.29
+18,11,12,23.68,96.67,6.19,103.37,orange,Northeast Plain,Zaid,3.58
+39,11,1,14.89,92.52,7.48,107.0,orange,Western Dry Zone,Whole Year,4.15
+16,3,2,17.47,90.68,7.69,112.99,orange,Central Plateau,Kharif,4.58
+21,24,9,13.39,90.17,6.18,105.35,orange,Coastal Delta,Rabi,3.5
+31,15,1,28.3,92.34,7.08,103.85,orange,Central Plateau,Zaid,4.67
+33,11,14,17.51,96.27,6.7,123.57,orange,Western Dry Zone,Kharif,3.54
+13,15,5,33.72,92.37,7.01,115.6,orange,Central Plateau,Whole Year,4.38
+29,19,17,13.26,93.37,7.25,119.58,orange,Central Plateau,Whole Year,4.55
+20,13,12,30.31,91.89,7.19,106.73,orange,Central Plateau,Zaid,3.33
+22,14,11,25.31,89.44,7.76,121.12,orange,Central Plateau,Zaid,4.54
+15,16,18,31.17,96.13,6.69,118.06,orange,Central Plateau,Zaid,3.38
+19,11,11,33.93,90.6,6.94,110.1,orange,Western Dry Zone,Whole Year,4.09
+17,19,16,17.8,93.11,7.95,112.22,orange,Southern Hills,Zaid,3.79
+15,12,13,13.81,92.42,7.61,106.42,orange,Northeast Plain,Kharif,3.58
+22,6,14,33.83,93.11,6.1,129.56,orange,Southern Hills,Kharif,3.89
+37,18,5,22.28,90.04,6.58,110.03,orange,Central Plateau,Kharif,4.29
+21,18,8,11.69,90.32,8.03,109.66,orange,Coastal Delta,Zaid,3.44
+23,14,14,31.24,93.88,6.82,112.13,orange,Western Dry Zone,Kharif,3.46
+25,18,2,19.25,94.71,6.31,120.69,orange,Coastal Delta,Rabi,4.56
+31,9,6,16.59,94.59,7.51,118.61,orange,Coastal Delta,Zaid,3.88
+16,7,13,33.43,93.43,7.21,115.15,orange,Southern Hills,Kharif,4.31
+36,16,18,28.7,95.41,7.19,112.19,orange,Central Plateau,Whole Year,3.74
+21,10,7,16.55,94.83,6.62,125.6,orange,Southern Hills,Whole Year,3.36
+27,11,5,22.87,93.18,7.75,104.64,orange,Western Dry Zone,Rabi,4.28
+17,16,9,25.15,95.63,7.55,104.94,orange,Central Plateau,Whole Year,3.73
+30,4,6,29.71,94.78,7.56,104.86,orange,Western Dry Zone,Rabi,4.22
+18,13,13,22.56,94.93,6.29,115.4,orange,Western Dry Zone,Rabi,3.98
+18,5,8,18.6,89.93,6.48,122.19,orange,Western Dry Zone,Kharif,3.93
+26,3,13,32.35,93.54,6.71,110.87,orange,Coastal Delta,Whole Year,3.74
+21,8,9,19.36,91.95,6.91,105.04,orange,Western Dry Zone,Kharif,4.07
+31,13,0,13.84,92.6,8.09,117.11,orange,Coastal Delta,Rabi,4.04
+23,8,8,17.01,97.54,6.48,106.86,orange,Coastal Delta,Rabi,4.07
+16,8,12,13.16,89.45,7.56,107.17,orange,Southern Hills,Whole Year,3.49
+27,21,10,17.01,92.28,7.39,106.83,orange,Coastal Delta,Whole Year,3.96
+26,5,11,10.89,93.74,6.07,121.26,orange,Coastal Delta,Kharif,3.81
+23,12,17,24.41,91.22,6.72,117.99,orange,Coastal Delta,Zaid,4.31
+21,16,14,33.8,93.94,6.72,119.01,orange,Southern Hills,Rabi,3.79
+36,14,17,12.1,92.12,6.74,111.42,orange,Western Dry Zone,Zaid,4.3
+31,17,8,17.9,95.51,6.72,118.81,orange,Northeast Plain,Whole Year,4.2
+33,22,15,24.83,89.9,6.83,121.36,orange,Coastal Delta,Whole Year,3.78
+22,15,4,10.38,90.33,7.34,112.25,orange,Northeast Plain,Kharif,3.85
+23,7,10,15.86,93.84,7.89,97.77,orange,Western Dry Zone,Rabi,3.32
+26,19,16,34.0,89.41,6.04,112.99,orange,Coastal Delta,Kharif,4.26
+33,10,9,25.88,96.87,6.79,105.87,orange,Southern Hills,Whole Year,4.21
+28,20,11,29.13,92.57,6.3,118.47,orange,Northeast Plain,Kharif,4.01
+15,14,12,18.8,95.08,6.97,118.0,orange,Southern Hills,Whole Year,4.37
+26,11,3,9.59,92.12,7.18,116.29,orange,Central Plateau,Whole Year,4.17
+25,11,14,27.75,90.6,6.35,106.76,orange,Central Plateau,Rabi,3.41
+21,3,1,25.52,92.63,7.17,122.57,orange,Central Plateau,Zaid,4.12
+12,1,18,15.62,92.47,7.99,110.48,orange,Southern Hills,Zaid,3.6
+42,55,44,30.6,96.2,7.07,183.18,papaya,Western Dry Zone,Whole Year,4.53
+33,52,45,26.16,96.6,6.7,182.11,papaya,Southern Hills,Zaid,5.68
+41,47,58,30.22,89.53,7.01,247.18,papaya,Central Plateau,Rabi,5.03
+41,61,56,34.65,89.32,6.75,203.76,papaya,Northeast Plain,Whole Year,5.78
+47,56,54,29.43,90.39,6.51,168.32,papaya,Coastal Delta,Rabi,5.6
+57,43,54,31.29,90.33,6.42,218.05,papaya,Central Plateau,Zaid,5.48
+41,55,44,38.92,93.73,6.82,205.43,papaya,Southern Hills,Zaid,5.49
+33,49,60,30.2,90.69,6.85,187.35,papaya,Northeast Plain,Zaid,5.43
+57,51,46,28.78,97.26,6.79,241.33,papaya,Southern Hills,Rabi,5.09
+42,42,55,30.72,94.84,6.73,247.11,papaya,Coastal Delta,Rabi,5.51
+43,52,49,35.9,87.58,6.76,227.9,papaya,Coastal Delta,Whole Year,5.36
+41,57,53,26.46,93.14,6.79,165.84,papaya,Western Dry Zone,Zaid,5.1
+55,58,51,37.86,94.1,6.59,253.02,papaya,Coastal Delta,Rabi,5.01
+45,60,40,31.6,90.13,6.75,203.82,papaya,Central Plateau,Whole Year,5.83
+59,58,49,28.76,88.22,7.07,223.27,papaya,Western Dry Zone,Whole Year,5.23
+48,51,56,31.09,88.05,6.71,209.06,papaya,Central Plateau,Zaid,5.38
+56,60,50,27.28,96.96,6.45,230.45,papaya,Southern Hills,Rabi,5.4
+34,44,46,37.84,91.76,6.4,193.52,papaya,Western Dry Zone,Kharif,5.23
+50,57,45,27.37,96.88,6.6,157.46,papaya,Central Plateau,Whole Year,4.82
+44,58,45,38.83,93.0,6.54,237.42,papaya,Western Dry Zone,Rabi,4.6
+43,62,47,29.52,95.4,7.09,169.35,papaya,Coastal Delta,Rabi,5.35
+32,64,43,39.3,93.13,6.94,219.64,papaya,Coastal Delta,Rabi,4.35
+47,53,52,39.75,94.28,6.67,147.26,papaya,Coastal Delta,Rabi,4.33
+41,51,52,23.97,89.03,6.89,183.65,papaya,Coastal Delta,Zaid,4.89
+36,54,47,37.7,89.27,7.04,221.08,papaya,Western Dry Zone,Kharif,5.16
+51,63,53,25.38,90.41,6.99,245.52,papaya,Northeast Plain,Whole Year,4.49
+52,54,50,31.21,90.69,6.82,222.78,papaya,Southern Hills,Kharif,5.67
+43,57,51,38.26,92.83,6.65,135.73,papaya,Southern Hills,Kharif,4.34
+49,59,55,26.01,91.54,6.85,256.41,papaya,Coastal Delta,Whole Year,5.42
+44,47,54,31.38,97.0,7.03,157.69,papaya,Northeast Plain,Kharif,5.09
+35,54,55,37.44,92.42,6.76,187.81,papaya,Central Plateau,Zaid,4.95
+55,50,51,27.69,94.06,6.39,177.49,papaya,Northeast Plain,Rabi,5.71
+39,58,48,38.73,91.27,6.92,201.17,papaya,Coastal Delta,Whole Year,4.81
+45,61,53,25.53,95.85,6.4,183.97,papaya,Southern Hills,Zaid,4.61
+55,52,45,24.69,88.18,6.57,210.64,papaya,Western Dry Zone,Rabi,5.67
+46,47,53,39.43,95.49,6.93,147.91,papaya,Coastal Delta,Kharif,5.12
+48,49,51,27.48,97.17,6.6,145.04,papaya,Central Plateau,Kharif,5.38
+42,56,56,40.51,92.12,6.66,232.89,papaya,Coastal Delta,Kharif,4.43
+40,58,56,30.39,91.46,6.53,256.09,papaya,Coastal Delta,Whole Year,5.06
+40,53,57,33.42,89.97,7.05,171.63,papaya,Northeast Plain,Zaid,5.53
+38,55,58,34.31,89.32,7.24,162.97,papaya,Southern Hills,Rabi,5.58
+33,53,54,22.78,94.36,7.04,137.87,papaya,Southern Hills,Kharif,4.4
+48,43,55,31.38,95.96,6.81,148.21,papaya,Northeast Plain,Whole Year,5.48
+42,63,52,31.4,94.1,6.69,206.61,papaya,Southern Hills,Rabi,5.87
+45,64,46,27.57,90.84,7.04,241.49,papaya,Coastal Delta,Rabi,5.47
+36,45,47,27.94,94.02,6.55,223.61,papaya,Central Plateau,Whole Year,5.14
+42,50,48,33.67,96.0,6.81,229.43,papaya,Northeast Plain,Rabi,4.4
+46,59,49,33.84,89.38,6.64,162.99,papaya,Coastal Delta,Whole Year,5.81
+32,54,47,26.37,93.8,7.05,240.23,papaya,Central Plateau,Whole Year,5.09
+41,55,49,29.52,93.98,6.66,231.6,papaya,Central Plateau,Kharif,5.01
+46,43,56,35.44,89.2,7.03,212.92,papaya,Central Plateau,Whole Year,4.46
+49,58,50,25.46,90.09,6.45,157.32,papaya,Coastal Delta,Rabi,4.58
+53,50,49,39.01,91.48,6.53,170.05,papaya,Northeast Plain,Rabi,5.65
+58,57,56,38.75,89.6,6.72,160.62,papaya,Southern Hills,Zaid,5.38
+35,47,49,33.75,89.16,6.65,193.8,papaya,Western Dry Zone,Rabi,5.34
+50,49,49,30.97,89.39,6.7,174.74,papaya,Northeast Plain,Whole Year,5.22
+40,50,49,39.66,88.47,6.84,244.74,papaya,Coastal Delta,Kharif,5.16
+33,57,55,35.14,90.99,6.37,174.59,papaya,Western Dry Zone,Rabi,4.72
+52,51,44,33.0,92.97,6.69,222.81,papaya,Coastal Delta,Whole Year,4.65
+48,59,43,27.27,89.42,6.86,178.68,papaya,Southern Hills,Zaid,4.74
+48,59,53,25.34,95.42,7.06,195.64,papaya,Southern Hills,Zaid,5.61
+51,51,51,29.49,90.05,6.38,184.33,papaya,Central Plateau,Rabi,4.89
+45,52,48,26.57,91.63,6.93,209.46,papaya,Southern Hills,Kharif,5.23
+42,59,53,37.73,94.53,6.79,138.77,papaya,Coastal Delta,Whole Year,5.39
+46,47,55,23.72,96.7,6.88,187.39,papaya,Western Dry Zone,Whole Year,4.64
+48,53,52,31.92,95.08,6.39,141.89,papaya,Western Dry Zone,Kharif,5.75
+37,47,53,23.85,94.29,6.51,190.18,papaya,Central Plateau,Kharif,4.48
+38,52,55,38.01,92.8,6.93,183.74,papaya,Northeast Plain,Zaid,4.95
+37,42,41,36.08,96.23,6.81,236.98,papaya,Western Dry Zone,Whole Year,4.97
+37,50,57,34.93,92.41,6.49,181.13,papaya,Central Plateau,Whole Year,5.14
+48,52,53,38.57,91.28,6.49,175.8,papaya,Southern Hills,Zaid,5.4
+50,45,42,30.82,90.04,6.72,154.93,papaya,Coastal Delta,Whole Year,4.52
+49,54,43,33.81,95.41,6.72,212.91,papaya,Central Plateau,Rabi,5.55
+52,57,50,35.13,95.03,6.73,138.21,papaya,Central Plateau,Zaid,5.38
+50,46,49,25.48,91.89,6.63,242.47,papaya,Northeast Plain,Whole Year,4.81
+41,58,45,39.99,92.57,6.63,176.15,papaya,Coastal Delta,Whole Year,5.34
+51,51,56,27.09,91.99,6.64,221.83,papaya,Southern Hills,Zaid,4.87
+42,57,49,23.88,95.47,6.78,215.31,papaya,Central Plateau,Kharif,4.3
+43,50,51,31.27,95.01,7.0,179.44,papaya,Northeast Plain,Zaid,4.95
+44,55,49,36.72,93.57,6.71,191.24,papaya,Central Plateau,Whole Year,5.39
+53,44,51,24.62,92.65,6.74,173.88,papaya,Central Plateau,Zaid,5.73
+38,40,46,37.47,90.48,6.65,218.08,papaya,Western Dry Zone,Kharif,4.55
+47,60,42,24.47,95.8,7.03,227.59,papaya,Western Dry Zone,Kharif,4.45
+43,58,56,24.51,94.69,6.91,216.79,papaya,Northeast Plain,Rabi,5.35
+40,55,47,38.07,89.98,7.13,181.07,papaya,Central Plateau,Rabi,5.7
+40,51,52,24.12,88.86,6.51,157.97,papaya,Central Plateau,Zaid,5.46
+39,54,49,37.64,91.27,6.66,229.24,papaya,Western Dry Zone,Rabi,4.4
+39,64,53,37.62,93.49,7.11,166.86,papaya,Southern Hills,Rabi,5.59
+33,43,46,28.68,93.47,6.63,168.69,papaya,Southern Hills,Kharif,5.44
+39,43,41,37.84,95.91,6.84,228.21,papaya,Central Plateau,Zaid,5.36
+38,43,51,32.13,92.17,6.72,200.76,papaya,Southern Hills,Rabi,4.51
+44,64,43,39.73,95.65,6.38,179.73,papaya,Western Dry Zone,Whole Year,4.97
+44,61,54,33.67,89.66,6.65,219.49,papaya,Coastal Delta,Kharif,4.9
+50,54,50,25.43,95.23,6.91,141.59,papaya,Western Dry Zone,Whole Year,4.27
+37,47,48,34.13,88.83,7.05,250.8,papaya,Central Plateau,Kharif,4.39
+39,52,43,25.75,88.89,6.61,175.7,papaya,Northeast Plain,Rabi,4.47
+49,48,48,33.36,92.2,6.49,181.89,papaya,Northeast Plain,Zaid,4.79
+40,52,43,31.94,90.92,7.09,252.46,papaya,Western Dry Zone,Rabi,5.16
+41,50,52,23.19,94.22,7.17,238.73,papaya,Central Plateau,Whole Year,5.43
+40,53,51,38.02,94.66,7.18,173.3,papaya,Coastal Delta,Zaid,4.57
+23,1,33,27.02,90.75,5.99,169.63,coconut,Coastal Delta,Kharif,6.16
+20,16,26,25.52,96.43,6.36,180.91,coconut,Coastal Delta,Kharif,6.92
+25,11,24,26.19,94.76,6.29,163.88,coconut,Coastal Delta,Zaid,5.11
+27,13,30,28.87,89.62,5.57,202.89,coconut,Western Dry Zone,Zaid,5.37
+25,17,33,25.63,90.35,5.88,169.46,coconut,Western Dry Zone,Zaid,6.82
+19,8,28,28.07,95.27,6.61,183.12,coconut,Southern Hills,Zaid,6.65
+28,2,35,25.88,93.29,6.29,222.9,coconut,Western Dry Zone,Rabi,6.43
+30,13,34,28.52,98.73,5.82,212.41,coconut,Western Dry Zone,Rabi,5.4
+28,21,35,25.9,95.84,5.82,174.3,coconut,Western Dry Zone,Whole Year,6.38
+8,10,20,27.81,94.84,6.47,143.93,coconut,Coastal Delta,Rabi,6.34
+26,8,32,28.34,98.46,6.51,137.67,coconut,Western Dry Zone,Zaid,6.61
+19,19,26,26.38,93.49,5.7,193.47,coconut,Northeast Plain,Zaid,6.09
+26,18,21,27.31,98.81,5.68,154.33,coconut,Northeast Plain,Rabi,5.44
+24,13,30,28.17,93.02,6.01,163.53,coconut,Southern Hills,Rabi,6.2
+31,16,31,25.5,95.11,6.68,233.41,coconut,Coastal Delta,Rabi,4.84
+18,19,20,27.06,100.0,6.58,169.13,coconut,Coastal Delta,Zaid,5.87
+9,24,29,26.3,97.46,6.21,179.28,coconut,Coastal Delta,Zaid,5.06
+26,11,27,26.96,96.31,5.79,152.85,coconut,Southern Hills,Kharif,5.61
+29,9,33,26.43,92.71,6.5,165.17,coconut,Western Dry Zone,Kharif,5.09
+20,5,32,29.37,98.05,6.35,177.37,coconut,Southern Hills,Kharif,5.02
+22,21,33,27.8,92.65,5.6,214.04,coconut,Coastal Delta,Zaid,6.76
+6,5,35,26.75,94.74,5.47,201.84,coconut,Central Plateau,Kharif,5.33
+27,10,35,28.44,98.82,5.63,173.26,coconut,Central Plateau,Rabi,5.37
+22,14,39,25.82,99.98,5.52,178.94,coconut,Central Plateau,Kharif,5.5
+24,18,28,27.51,94.97,5.77,211.71,coconut,Northeast Plain,Zaid,5.34
+10,14,30,27.29,97.27,6.22,215.28,coconut,Southern Hills,Whole Year,5.97
+9,10,28,28.7,95.65,6.05,156.77,coconut,Coastal Delta,Zaid,5.07
+32,7,29,25.82,95.75,6.11,160.94,coconut,Northeast Plain,Whole Year,6.6
+17,18,36,24.64,97.99,5.72,197.66,coconut,Central Plateau,Kharif,6.08
+27,17,35,26.13,97.04,6.07,147.97,coconut,Central Plateau,Zaid,6.37
+34,3,36,27.56,92.62,5.6,188.73,coconut,Southern Hills,Kharif,5.91
+28,6,36,27.88,94.51,6.24,156.89,coconut,Coastal Delta,Zaid,6.62
+22,10,32,24.9,93.71,6.07,168.78,coconut,Coastal Delta,Zaid,4.94
+27,14,28,28.68,94.16,6.51,156.87,coconut,Western Dry Zone,Zaid,6.53
+14,15,39,26.34,94.65,5.74,166.06,coconut,Southern Hills,Whole Year,6.09
+26,17,27,27.26,93.41,6.2,159.76,coconut,Northeast Plain,Rabi,6.73
+32,0,31,27.69,95.98,5.89,191.72,coconut,Coastal Delta,Kharif,5.19
+14,14,35,28.77,91.89,5.76,213.28,coconut,Central Plateau,Rabi,6.61
+30,12,38,28.56,99.42,6.04,212.64,coconut,Western Dry Zone,Kharif,5.95
+11,11,29,26.7,95.1,6.55,210.53,coconut,Southern Hills,Whole Year,6.44
+22,11,27,26.28,97.7,6.08,152.45,coconut,Northeast Plain,Rabi,5.95
+14,17,33,26.82,91.16,6.1,203.93,coconut,Central Plateau,Zaid,5.28
+17,9,35,25.55,89.89,5.93,208.43,coconut,Western Dry Zone,Whole Year,5.28
+19,9,31,25.57,94.74,5.99,221.49,coconut,Northeast Plain,Kharif,5.41
+28,13,27,26.93,94.81,6.02,154.42,coconut,Northeast Plain,Rabi,6.59
+23,9,33,28.13,92.64,6.19,157.04,coconut,Central Plateau,Whole Year,6.54
+24,8,40,26.01,95.33,5.89,151.8,coconut,Northeast Plain,Zaid,5.91
+32,7,32,26.15,92.22,6.61,150.87,coconut,Southern Hills,Kharif,5.86
+25,14,33,26.24,89.35,5.81,171.0,coconut,Central Plateau,Rabi,5.61
+17,10,33,26.87,89.8,5.9,195.88,coconut,Central Plateau,Zaid,4.96
+12,16,23,27.67,96.85,6.08,154.45,coconut,Western Dry Zone,Kharif,5.46
+22,21,29,27.95,97.45,6.28,182.81,coconut,Southern Hills,Zaid,6.6
+29,7,29,27.02,96.32,5.91,183.14,coconut,Southern Hills,Rabi,6.32
+26,4,31,27.64,94.68,6.48,223.61,coconut,Central Plateau,Whole Year,6.41
+20,4,28,27.93,93.93,6.5,147.86,coconut,Southern Hills,Kharif,5.05
+27,11,36,28.02,97.46,5.76,201.92,coconut,Northeast Plain,Whole Year,5.52
+14,4,35,28.11,99.4,6.06,212.36,coconut,Western Dry Zone,Whole Year,5.66
+17,4,38,29.47,100.0,5.68,185.6,coconut,Northeast Plain,Rabi,5.88
+15,18,31,26.98,93.13,6.03,218.25,coconut,Southern Hills,Kharif,6.18
+15,11,24,27.07,96.0,6.36,153.53,coconut,Coastal Delta,Zaid,6.55
+32,18,32,28.83,91.86,6.39,221.63,coconut,Northeast Plain,Zaid,6.21
+29,14,33,27.15,94.03,6.27,178.52,coconut,Northeast Plain,Whole Year,5.09
+24,9,28,28.14,88.85,5.8,221.19,coconut,Coastal Delta,Whole Year,6.45
+29,8,34,25.59,94.46,5.74,198.64,coconut,Western Dry Zone,Rabi,5.98
+14,18,28,25.67,93.26,5.88,227.64,coconut,Western Dry Zone,Whole Year,6.34
+26,9,32,27.21,95.18,6.21,155.36,coconut,Western Dry Zone,Rabi,5.81
+6,20,29,28.4,94.78,5.98,183.51,coconut,Coastal Delta,Whole Year,6.31
+19,15,31,28.0,94.56,5.99,160.71,coconut,Western Dry Zone,Whole Year,5.62
+17,19,34,24.59,94.15,5.33,189.11,coconut,Southern Hills,Rabi,5.39
+20,11,26,27.92,96.85,6.27,154.13,coconut,Northeast Plain,Zaid,6.8
+30,16,25,26.75,93.79,5.49,199.04,coconut,Central Plateau,Whole Year,6.37
+11,10,26,27.82,95.88,5.78,177.47,coconut,Central Plateau,Zaid,6.71
+20,14,31,27.39,94.03,5.81,189.0,coconut,Coastal Delta,Rabi,6.31
+27,20,29,25.29,91.59,6.02,165.4,coconut,Western Dry Zone,Whole Year,5.71
+18,10,30,28.43,91.02,5.63,162.25,coconut,Southern Hills,Zaid,5.23
+16,21,31,26.32,89.1,5.94,142.26,coconut,Northeast Plain,Whole Year,6.34
+13,7,35,24.95,97.34,6.4,143.56,coconut,Southern Hills,Rabi,4.92
+14,6,27,29.3,96.18,6.51,190.84,coconut,Western Dry Zone,Whole Year,5.01
+18,11,24,29.29,100.0,5.81,131.08,coconut,Southern Hills,Kharif,5.9
+18,13,34,25.47,94.9,6.21,175.2,coconut,Central Plateau,Zaid,5.63
+13,15,27,26.56,91.87,6.45,166.26,coconut,Northeast Plain,Kharif,5.98
+29,12,29,27.03,93.47,5.39,207.47,coconut,Coastal Delta,Rabi,5.58
+30,15,31,25.53,89.55,6.43,200.95,coconut,Southern Hills,Rabi,6.18
+22,4,33,25.67,95.51,6.21,222.69,coconut,Central Plateau,Kharif,5.11
+22,19,33,29.23,93.15,6.05,163.8,coconut,Coastal Delta,Kharif,5.29
+23,17,31,27.77,90.82,6.09,181.1,coconut,Central Plateau,Zaid,6.04
+24,12,35,25.88,98.59,6.03,151.94,coconut,Southern Hills,Zaid,6.67
+8,19,30,25.76,94.36,6.17,201.74,coconut,Southern Hills,Whole Year,5.04
+32,11,26,26.28,100.0,6.62,201.28,coconut,Northeast Plain,Zaid,6.47
+13,11,33,28.04,99.78,5.76,160.57,coconut,Western Dry Zone,Zaid,6.27
+22,12,26,25.85,99.12,6.54,143.59,coconut,Southern Hills,Rabi,6.1
+22,6,32,26.35,96.12,6.13,216.83,coconut,Coastal Delta,Whole Year,5.73
+16,12,36,25.09,96.82,6.49,188.85,coconut,Western Dry Zone,Kharif,5.52
+29,5,35,26.2,96.74,5.69,168.76,coconut,Coastal Delta,Kharif,5.81
+24,9,32,26.27,95.93,6.46,159.84,coconut,Coastal Delta,Kharif,6.84
+28,7,36,27.92,91.8,6.26,206.27,coconut,Southern Hills,Zaid,6.73
+11,16,34,25.33,95.37,6.23,150.23,coconut,Central Plateau,Kharif,5.58
+18,15,34,27.85,92.63,5.52,213.67,coconut,Southern Hills,Zaid,6.4
+20,10,24,26.26,98.28,6.22,160.67,coconut,Central Plateau,Kharif,5.94
+24,4,32,26.12,91.0,6.0,199.37,coconut,Central Plateau,Zaid,6.79
+113,42,26,23.21,79.36,7.53,77.49,cotton,Southern Hills,Rabi,2.16
+107,47,20,24.26,74.42,6.71,78.09,cotton,Coastal Delta,Rabi,2.27
+122,40,19,22.99,74.69,6.95,67.42,cotton,Western Dry Zone,Kharif,2.52
+114,52,27,22.04,80.78,6.58,65.1,cotton,Southern Hills,Whole Year,2.69
+114,35,19,23.21,79.81,5.71,72.14,cotton,Central Plateau,Rabi,2.69
+111,51,22,24.39,74.13,6.07,77.07,cotton,Western Dry Zone,Zaid,3.14
+115,36,20,22.62,80.47,7.83,85.81,cotton,Central Plateau,Kharif,2.92
+111,42,22,22.96,77.93,7.21,81.0,cotton,Southern Hills,Whole Year,2.66
+118,35,17,22.89,74.93,6.11,71.36,cotton,Western Dry Zone,Kharif,2.18
+106,39,11,23.93,78.18,6.92,68.79,cotton,Western Dry Zone,Rabi,2.22
+125,39,18,23.73,79.44,6.4,85.65,cotton,Southern Hills,Rabi,3.09
+121,37,16,24.61,76.42,7.66,74.3,cotton,Coastal Delta,Zaid,2.55
+112,50,23,22.27,76.17,6.89,79.77,cotton,Southern Hills,Rabi,2.11
+101,46,20,24.22,77.08,6.17,62.65,cotton,Southern Hills,Kharif,2.41
+100,33,20,23.35,79.81,7.85,70.05,cotton,Northeast Plain,Zaid,2.43
+118,41,27,21.99,75.7,6.18,63.43,cotton,Southern Hills,Zaid,2.3
+123,47,11,22.75,74.06,7.04,58.78,cotton,Coastal Delta,Rabi,2.36
+118,49,13,23.38,81.41,6.85,84.86,cotton,Coastal Delta,Rabi,2.17
+116,38,21,24.94,78.03,8.04,71.77,cotton,Northeast Plain,Kharif,2.42
+124,44,30,24.75,78.67,6.09,74.85,cotton,Southern Hills,Rabi,2.06
+109,43,19,24.51,73.52,6.82,78.8,cotton,Coastal Delta,Whole Year,2.9
+97,31,13,25.82,79.24,6.53,58.81,cotton,Coastal Delta,Rabi,2.29
+118,43,24,21.25,77.53,6.9,84.31,cotton,Coastal Delta,Rabi,2.34
+107,42,13,25.06,76.87,7.51,66.57,cotton,Southern Hills,Whole Year,2.13
+98,41,29,22.96,76.47,5.61,71.79,cotton,Western Dry Zone,Zaid,2.8
+97,44,17,24.83,79.82,6.62,81.04,cotton,Coastal Delta,Rabi,2.8
+125,37,20,23.04,76.24,7.29,77.67,cotton,Central Plateau,Zaid,2.88
+107,42,25,21.75,77.28,5.97,71.35,cotton,Coastal Delta,Kharif,3.04
+123,42,19,23.6,79.88,6.09,60.44,cotton,Central Plateau,Kharif,3.0
+123,33,26,23.71,77.93,7.74,81.03,cotton,Southern Hills,Rabi,2.39
+111,47,17,24.72,80.3,6.81,72.74,cotton,Coastal Delta,Whole Year,2.7
+114,32,15,22.93,76.82,6.98,66.93,cotton,Southern Hills,Zaid,2.51
+114,41,17,23.44,80.75,8.1,71.38,cotton,Western Dry Zone,Kharif,2.16
+116,32,29,22.6,74.13,7.89,77.23,cotton,Coastal Delta,Rabi,2.0
+108,40,21,22.29,79.19,7.27,74.63,cotton,Western Dry Zone,Whole Year,2.65
+101,49,24,24.63,74.61,6.98,81.67,cotton,Northeast Plain,Kharif,2.43
+99,34,24,22.57,76.66,5.84,76.07,cotton,Coastal Delta,Zaid,2.78
+117,38,16,23.55,80.12,7.06,78.34,cotton,Western Dry Zone,Whole Year,2.73
+119,45,17,22.9,75.92,7.24,83.94,cotton,Central Plateau,Kharif,2.16
+98,47,19,23.93,77.24,6.29,75.56,cotton,Coastal Delta,Whole Year,2.17
+119,45,11,22.35,79.86,7.16,64.87,cotton,Western Dry Zone,Whole Year,2.12
+100,37,19,23.84,77.43,7.13,67.58,cotton,Southern Hills,Zaid,2.77
+106,53,18,25.81,76.2,7.68,72.1,cotton,Southern Hills,Zaid,2.53
+112,38,28,24.25,76.41,8.24,79.38,cotton,Coastal Delta,Kharif,2.52
+112,49,24,23.25,79.23,5.82,83.92,cotton,Southern Hills,Whole Year,3.07
+110,43,25,23.99,77.58,7.09,77.08,cotton,Southern Hills,Zaid,2.63
+105,45,25,25.46,78.8,6.39,70.63,cotton,Coastal Delta,Kharif,2.74
+121,44,20,24.28,81.29,6.57,66.85,cotton,Northeast Plain,Rabi,2.31
+100,47,21,22.34,80.44,7.74,52.03,cotton,Central Plateau,Whole Year,1.95
+115,48,14,22.88,79.23,7.61,72.45,cotton,Western Dry Zone,Whole Year,2.59
+110,40,26,23.4,80.5,7.15,63.13,cotton,Western Dry Zone,Zaid,2.32
+108,42,13,23.52,79.14,6.32,68.79,cotton,Central Plateau,Kharif,2.81
+115,33,16,23.52,77.86,6.13,75.8,cotton,Coastal Delta,Zaid,2.34
+105,49,23,24.51,79.91,7.68,72.02,cotton,Southern Hills,Whole Year,2.82
+115,34,22,24.27,77.02,6.75,72.14,cotton,Central Plateau,Whole Year,2.41
+110,41,24,23.77,79.0,6.41,85.09,cotton,Coastal Delta,Kharif,3.06
+109,40,19,25.53,78.8,7.48,76.48,cotton,Northeast Plain,Rabi,2.24
+103,38,16,24.28,75.62,6.9,74.58,cotton,Central Plateau,Rabi,2.38
+115,44,14,23.56,78.39,6.45,77.77,cotton,Coastal Delta,Kharif,3.13
+98,50,20,23.84,74.91,7.42,61.5,cotton,Western Dry Zone,Kharif,1.98
+105,53,19,24.01,77.54,7.22,57.4,cotton,Southern Hills,Whole Year,2.93
+114,40,20,21.27,77.4,6.49,80.48,cotton,Western Dry Zone,Kharif,2.85
+109,47,24,24.39,74.61,7.54,72.11,cotton,Northeast Plain,Kharif,2.56
+118,44,21,23.81,78.04,7.66,68.71,cotton,Central Plateau,Rabi,2.72
+115,36,15,24.38,77.64,8.19,70.83,cotton,Central Plateau,Zaid,3.12
+105,49,17,23.69,76.39,6.65,65.88,cotton,Southern Hills,Rabi,2.08
+108,53,24,22.74,77.48,7.78,71.03,cotton,Northeast Plain,Rabi,2.3
+111,46,29,24.38,78.17,6.56,56.96,cotton,Coastal Delta,Kharif,2.17
+101,37,23,22.56,73.9,6.41,70.15,cotton,Southern Hills,Whole Year,2.58
+121,37,13,25.29,79.98,7.75,70.2,cotton,Northeast Plain,Zaid,2.78
+103,34,16,24.96,77.27,6.7,79.21,cotton,Coastal Delta,Whole Year,2.42
+108,40,23,22.6,75.8,6.34,67.52,cotton,Northeast Plain,Kharif,2.64
+120,44,18,22.97,76.97,7.76,59.94,cotton,Coastal Delta,Zaid,2.72
+119,53,21,21.67,76.76,5.9,57.08,cotton,Northeast Plain,Whole Year,2.35
+101,31,19,24.54,79.95,6.01,75.36,cotton,Northeast Plain,Rabi,2.6
+107,39,15,23.71,74.15,6.8,79.27,cotton,Northeast Plain,Zaid,2.15
+115,42,24,24.89,76.95,6.06,59.52,cotton,Coastal Delta,Whole Year,3.12
+124,48,29,21.98,80.53,6.79,67.12,cotton,Western Dry Zone,Kharif,2.48
+122,55,24,24.14,80.54,7.08,85.34,cotton,Central Plateau,Whole Year,2.65
+110,33,30,23.09,74.52,5.65,67.36,cotton,Central Plateau,Zaid,2.82
+110,36,13,22.64,77.46,7.72,79.5,cotton,Coastal Delta,Whole Year,2.93
+104,33,22,23.73,75.52,5.8,75.95,cotton,Western Dry Zone,Whole Year,2.13
+100,39,15,22.68,79.82,6.28,68.77,cotton,Central Plateau,Kharif,3.05
+110,39,23,23.29,77.84,7.28,54.87,cotton,Coastal Delta,Zaid,1.96
+106,40,17,24.87,76.28,6.43,64.26,cotton,Coastal Delta,Kharif,2.16
+104,44,20,22.94,81.24,7.08,66.65,cotton,Western Dry Zone,Whole Year,2.84
+109,53,28,23.28,80.3,7.03,62.36,cotton,Central Plateau,Zaid,2.1
+114,38,14,23.54,79.29,6.4,69.37,cotton,Coastal Delta,Rabi,2.3
+110,42,19,23.86,75.7,7.82,84.73,cotton,Southern Hills,Whole Year,2.84
+110,48,27,23.14,73.87,7.39,72.14,cotton,Central Plateau,Whole Year,3.12
+107,38,14,22.18,73.58,6.74,79.7,cotton,Coastal Delta,Rabi,2.03
+100,49,26,23.45,77.34,5.58,69.73,cotton,Coastal Delta,Kharif,2.88
+117,45,20,24.35,76.62,7.32,66.78,cotton,Coastal Delta,Kharif,2.11
+117,54,18,21.63,76.31,6.33,70.15,cotton,Western Dry Zone,Rabi,2.31
+105,46,28,23.59,77.85,7.55,84.3,cotton,Western Dry Zone,Whole Year,2.68
+116,41,19,23.08,80.13,7.4,72.16,cotton,Western Dry Zone,Kharif,2.29
+107,44,25,22.37,80.44,7.91,53.68,cotton,Northeast Plain,Whole Year,2.58
+101,35,30,24.96,79.08,5.9,81.89,cotton,Western Dry Zone,Kharif,2.19
+115,39,21,24.64,79.08,7.4,65.97,cotton,Coastal Delta,Whole Year,3.16
+115,45,19,23.36,78.5,6.38,66.93,cotton,Central Plateau,Kharif,2.99
+77,40,41,23.82,79.18,6.82,197.84,jute,Western Dry Zone,Rabi,3.49
+61,50,34,23.93,72.17,6.93,162.79,jute,Central Plateau,Rabi,3.14
+57,42,49,23.62,79.22,6.14,176.53,jute,Southern Hills,Whole Year,3.36
+66,33,38,23.77,73.51,6.64,187.79,jute,Southern Hills,Rabi,3.38
+83,41,42,25.21,78.99,6.3,170.64,jute,Coastal Delta,Rabi,2.32
+76,51,35,23.52,72.09,6.71,154.3,jute,Western Dry Zone,Zaid,2.76
+67,38,45,24.66,84.96,6.92,164.66,jute,Southern Hills,Zaid,2.19
+69,43,42,24.26,86.32,7.16,189.83,jute,Central Plateau,Kharif,2.43
+61,45,35,26.53,72.39,6.17,190.33,jute,Southern Hills,Zaid,3.01
+66,47,45,26.59,79.92,6.19,206.33,jute,Central Plateau,Zaid,3.51
+76,48,41,26.48,83.1,6.5,163.41,jute,Northeast Plain,Whole Year,3.37
+68,42,36,25.75,87.28,6.22,142.56,jute,Western Dry Zone,Kharif,2.23
+80,41,38,27.31,82.22,6.8,195.01,jute,Central Plateau,Zaid,3.34
+64,44,46,26.1,73.15,5.98,164.83,jute,Western Dry Zone,Zaid,2.92
+69,37,47,24.94,87.3,6.16,196.8,jute,Northeast Plain,Zaid,2.91
+74,38,30,23.68,74.02,6.17,147.75,jute,Northeast Plain,Kharif,3.62
+61,47,45,23.83,70.68,6.19,153.59,jute,Western Dry Zone,Kharif,3.32
+79,42,34,24.34,76.91,6.15,146.83,jute,Central Plateau,Zaid,2.39
+57,42,34,24.63,72.6,6.62,168.82,jute,Western Dry Zone,Rabi,2.85
+71,44,39,27.05,76.13,6.61,198.86,jute,Western Dry Zone,Zaid,3.48
+83,48,44,26.53,80.38,5.97,161.77,jute,Coastal Delta,Kharif,2.74
+78,39,37,25.08,80.88,6.33,195.43,jute,Coastal Delta,Zaid,3.68
+69,38,39,26.48,85.32,6.21,197.25,jute,Western Dry Zone,Zaid,2.8
+64,39,33,26.12,74.74,6.32,164.93,jute,Coastal Delta,Rabi,2.85
+78,45,37,24.88,83.95,6.8,149.75,jute,Northeast Plain,Kharif,2.65
+65,53,40,25.83,76.76,6.17,184.38,jute,Southern Hills,Whole Year,2.92
+68,48,35,26.26,77.84,6.41,190.94,jute,Northeast Plain,Kharif,2.64
+69,50,44,25.86,85.05,6.3,174.46,jute,Coastal Delta,Zaid,3.65
+84,49,41,23.7,78.01,7.26,170.29,jute,Southern Hills,Zaid,3.34
+67,43,40,23.77,79.95,6.8,187.27,jute,Western Dry Zone,Kharif,3.45
+62,37,47,24.88,81.06,6.6,199.81,jute,Western Dry Zone,Whole Year,3.65
+72,48,41,24.84,72.49,7.04,178.14,jute,Northeast Plain,Whole Year,2.23
+73,43,48,23.3,74.15,5.97,155.17,jute,Northeast Plain,Rabi,2.45
+77,45,38,25.49,72.76,6.85,149.74,jute,Northeast Plain,Rabi,2.62
+69,42,48,22.71,73.62,6.73,198.25,jute,Southern Hills,Rabi,2.92
+77,46,41,27.68,73.33,6.42,193.3,jute,Coastal Delta,Whole Year,3.47
+79,44,33,27.13,78.4,6.71,199.46,jute,Western Dry Zone,Whole Year,3.64
+75,53,43,23.5,86.09,6.88,196.63,jute,Coastal Delta,Rabi,3.2
+80,50,30,25.88,80.19,6.45,187.57,jute,Western Dry Zone,Rabi,2.59
+57,36,38,22.82,79.47,6.45,168.57,jute,Coastal Delta,Zaid,2.58
+69,45,41,24.2,71.11,6.47,151.36,jute,Western Dry Zone,Whole Year,2.26
+74,34,43,23.74,84.06,6.71,205.41,jute,Western Dry Zone,Kharif,2.3
+72,38,33,26.48,71.74,6.33,167.0,jute,Western Dry Zone,Rabi,3.59
+67,47,42,26.31,71.93,6.86,171.71,jute,Central Plateau,Rabi,3.61
+61,42,33,26.07,80.06,6.44,167.75,jute,Northeast Plain,Rabi,3.73
+67,47,39,24.41,76.87,6.58,154.46,jute,Coastal Delta,Rabi,3.72
+66,49,46,25.12,87.24,6.74,208.36,jute,Coastal Delta,Kharif,3.46
+69,35,47,26.46,83.53,6.48,144.81,jute,Southern Hills,Rabi,3.42
+75,40,38,24.41,70.11,6.82,179.74,jute,Northeast Plain,Whole Year,3.31
+78,37,33,24.32,71.6,5.97,167.53,jute,Western Dry Zone,Whole Year,3.29
+68,40,46,25.68,85.56,6.62,175.85,jute,Southern Hills,Zaid,3.75
+61,47,43,24.25,83.67,6.86,168.55,jute,Northeast Plain,Rabi,3.7
+78,45,41,23.44,73.74,6.29,180.3,jute,Coastal Delta,Zaid,2.19
+72,43,37,23.5,67.74,7.21,182.29,jute,Western Dry Zone,Whole Year,2.96
+69,40,41,24.27,72.3,7.1,181.63,jute,Western Dry Zone,Zaid,3.05
+67,45,46,23.24,82.4,7.18,183.0,jute,Southern Hills,Kharif,3.74
+68,41,43,23.84,75.65,6.91,188.27,jute,Western Dry Zone,Zaid,2.54
+65,51,43,25.62,85.52,6.69,195.07,jute,Southern Hills,Kharif,2.76
+67,48,43,27.48,70.02,6.63,163.37,jute,Central Plateau,Zaid,2.27
+69,49,47,25.21,85.51,5.93,176.84,jute,Coastal Delta,Rabi,3.08
+67,47,42,22.82,70.58,6.86,178.33,jute,Northeast Plain,Whole Year,2.45
+79,42,39,25.66,80.7,6.32,193.34,jute,Coastal Delta,Zaid,2.61
+69,47,46,23.67,84.86,7.16,188.42,jute,Central Plateau,Rabi,2.82
+59,45,30,23.63,73.32,6.96,175.39,jute,Northeast Plain,Rabi,2.31
+73,52,47,23.19,76.5,6.42,168.05,jute,Northeast Plain,Whole Year,3.65
+72,44,46,26.04,70.86,6.86,167.62,jute,Southern Hills,Rabi,2.44
+63,48,45,24.2,72.08,6.42,167.57,jute,Southern Hills,Kharif,2.24
+69,39,40,25.69,80.72,6.3,162.17,jute,Central Plateau,Whole Year,2.51
+77,37,41,24.24,74.92,6.25,196.05,jute,Coastal Delta,Rabi,2.63
+69,54,33,24.61,74.35,6.97,159.16,jute,Southern Hills,Zaid,2.8
+73,47,40,25.74,85.52,6.68,198.2,jute,Northeast Plain,Kharif,2.74
+76,41,41,26.76,70.66,6.66,186.88,jute,Southern Hills,Rabi,2.98
+65,47,46,23.22,73.44,6.58,200.06,jute,Coastal Delta,Rabi,3.38
+66,44,36,23.59,85.93,5.88,192.46,jute,Southern Hills,Whole Year,2.3
+66,55,34,24.65,72.48,6.42,177.56,jute,Northeast Plain,Rabi,2.34
+71,36,39,25.05,78.03,7.18,192.82,jute,Northeast Plain,Zaid,3.35
+67,51,40,24.07,86.91,5.84,159.41,jute,Coastal Delta,Whole Year,2.63
+60,47,38,25.57,84.61,6.47,181.86,jute,Western Dry Zone,Whole Year,3.04
+63,46,45,24.36,83.5,6.39,153.38,jute,Western Dry Zone,Whole Year,2.78
+79,34,39,22.14,78.74,6.33,187.76,jute,Coastal Delta,Kharif,2.5
+80,45,45,24.48,82.64,6.94,203.55,jute,Central Plateau,Whole Year,2.98
+63,34,38,26.42,73.9,6.26,162.09,jute,Southern Hills,Rabi,2.83
+72,44,48,25.48,69.48,6.92,189.8,jute,Central Plateau,Rabi,3.08
+79,50,41,25.55,72.05,6.21,199.54,jute,Western Dry Zone,Kharif,3.46
+81,31,41,23.33,86.04,7.13,201.68,jute,Coastal Delta,Whole Year,2.34
+74,36,36,25.98,71.67,6.77,199.29,jute,Central Plateau,Whole Year,3.64
+64,41,46,23.37,84.58,6.71,162.07,jute,Northeast Plain,Zaid,2.2
+59,42,41,23.47,82.78,6.4,185.39,jute,Coastal Delta,Zaid,3.31
+62,38,49,24.45,72.06,6.09,162.94,jute,Western Dry Zone,Zaid,3.12
+82,39,40,22.64,74.25,6.05,170.53,jute,Western Dry Zone,Kharif,2.98
+71,42,34,25.1,81.44,6.14,187.29,jute,Central Plateau,Kharif,3.77
+63,53,41,25.97,90.3,5.93,180.8,jute,Western Dry Zone,Rabi,2.55
+73,38,35,24.3,84.07,6.94,183.66,jute,Central Plateau,Kharif,3.51
+78,49,40,27.7,83.97,6.82,183.22,jute,Western Dry Zone,Zaid,3.43
+66,40,41,24.98,87.5,6.47,163.65,jute,Central Plateau,Kharif,2.41
+77,48,41,25.09,80.1,5.95,178.28,jute,Western Dry Zone,Zaid,2.6
+56,48,32,26.4,80.16,6.84,170.32,jute,Coastal Delta,Whole Year,3.2
+70,44,37,25.46,79.27,6.7,162.7,jute,Northeast Plain,Zaid,2.77
+78,36,40,24.64,77.69,6.15,177.67,jute,Coastal Delta,Zaid,3.55
+80,55,41,22.39,86.98,6.79,193.63,jute,Western Dry Zone,Rabi,2.22
+102,29,27,25.26,57.69,6.83,148.31,coffee,Coastal Delta,Whole Year,2.39
+99,17,28,23.74,53.92,6.97,149.02,coffee,Western Dry Zone,Zaid,2.77
+112,25,38,23.16,62.5,7.22,137.72,coffee,Central Plateau,Kharif,2.12
+109,21,23,24.26,60.86,7.15,163.52,coffee,Southern Hills,Whole Year,2.22
+94,20,33,25.58,54.79,6.9,170.08,coffee,Western Dry Zone,Rabi,1.92
+96,29,24,24.74,51.7,6.54,188.35,coffee,Western Dry Zone,Kharif,2.58
+90,24,31,23.58,58.1,6.94,169.56,coffee,Coastal Delta,Zaid,2.69
+99,22,39,23.17,51.99,6.29,186.62,coffee,Central Plateau,Rabi,2.76
+93,28,31,24.34,59.05,6.91,148.16,coffee,Northeast Plain,Zaid,2.46
+99,17,32,25.87,62.24,6.82,149.35,coffee,Central Plateau,Whole Year,1.97
+106,18,25,23.86,63.59,6.21,176.43,coffee,Northeast Plain,Whole Year,2.42
+104,26,28,24.93,55.71,7.6,171.52,coffee,Northeast Plain,Rabi,2.93
+106,25,37,26.22,48.75,6.42,143.24,coffee,Central Plateau,Kharif,1.8
+107,25,25,26.66,52.26,6.9,153.15,coffee,Northeast Plain,Whole Year,2.7
+94,17,40,25.57,53.34,7.12,147.1,coffee,Southern Hills,Zaid,2.4
+95,24,33,24.15,55.67,7.11,169.23,coffee,Southern Hills,Rabi,2.02
+98,19,27,24.66,54.42,6.55,141.46,coffee,Southern Hills,Whole Year,2.94
+100,33,29,24.06,57.06,6.87,171.75,coffee,Southern Hills,Whole Year,2.36
+95,21,37,25.95,59.66,6.55,145.67,coffee,Western Dry Zone,Kharif,1.86
+104,27,38,25.2,65.26,7.16,163.5,coffee,Western Dry Zone,Rabi,2.44
+102,24,34,26.1,58.23,6.32,154.17,coffee,Southern Hills,Whole Year,2.15
+103,29,33,25.58,51.51,6.35,147.9,coffee,Southern Hills,Whole Year,1.83
+99,22,28,23.84,52.04,6.86,167.14,coffee,Western Dry Zone,Kharif,2.96
+104,13,27,25.66,62.1,6.98,149.08,coffee,Western Dry Zone,Zaid,2.88
+105,24,36,25.58,63.26,6.07,186.75,coffee,Western Dry Zone,Zaid,2.21
+98,12,26,25.72,54.78,6.17,190.58,coffee,Western Dry Zone,Whole Year,2.06
+103,30,34,23.49,62.91,6.84,165.04,coffee,Coastal Delta,Rabi,2.92
+95,25,28,25.3,61.19,6.52,183.9,coffee,Western Dry Zone,Rabi,2.8
+108,21,31,25.66,57.89,6.31,174.29,coffee,Northeast Plain,Zaid,2.06
+89,23,35,24.92,63.73,6.24,145.77,coffee,Western Dry Zone,Zaid,1.9
+92,31,31,23.84,57.78,6.63,154.15,coffee,Central Plateau,Kharif,2.58
+96,16,23,25.26,63.81,7.62,141.86,coffee,Coastal Delta,Rabi,2.59
+99,21,28,25.93,49.71,7.42,156.14,coffee,Central Plateau,Kharif,2.27
+106,30,31,27.08,56.36,5.86,196.0,coffee,Coastal Delta,Zaid,2.85
+112,24,26,25.79,49.19,7.49,183.1,coffee,Coastal Delta,Kharif,2.08
+113,21,35,25.59,55.06,6.07,187.24,coffee,Northeast Plain,Kharif,2.65
+113,19,30,25.26,49.14,7.26,167.13,coffee,Southern Hills,Zaid,2.55
+110,21,25,24.13,61.61,7.29,172.58,coffee,Central Plateau,Whole Year,1.92
+110,27,26,24.84,55.67,7.58,159.38,coffee,Western Dry Zone,Zaid,2.8
+91,19,28,23.92,55.32,7.13,167.7,coffee,Southern Hills,Rabi,1.98
+105,17,28,26.17,62.62,6.67,182.76,coffee,Coastal Delta,Kharif,2.76
+100,25,24,23.15,56.49,6.87,180.5,coffee,Southern Hills,Zaid,2.43
+104,15,23,23.24,61.44,7.4,195.36,coffee,Southern Hills,Rabi,1.87
+96,33,29,23.67,52.38,6.74,152.54,coffee,Western Dry Zone,Rabi,1.95
+92,16,35,26.25,54.89,6.31,169.36,coffee,Western Dry Zone,Kharif,1.94
+108,13,26,23.59,53.36,7.1,145.29,coffee,Northeast Plain,Kharif,2.28
+108,28,33,27.18,53.77,6.99,173.17,coffee,Central Plateau,Whole Year,2.45
+93,27,23,23.8,63.29,7.27,175.31,coffee,Central Plateau,Kharif,2.31
+91,24,32,24.28,57.87,7.5,138.4,coffee,Coastal Delta,Zaid,2.87
+108,17,27,24.63,57.46,6.55,145.75,coffee,Northeast Plain,Whole Year,2.54
+101,19,30,26.68,64.77,7.19,150.77,coffee,Western Dry Zone,Whole Year,2.17
+98,26,25,23.9,61.76,7.16,150.29,coffee,Coastal Delta,Whole Year,2.72
+99,30,24,23.1,56.66,6.6,147.07,coffee,Coastal Delta,Zaid,2.58
+98,18,31,24.54,63.93,6.9,150.57,coffee,Central Plateau,Kharif,2.02
+108,15,28,24.94,62.99,6.35,138.69,coffee,Northeast Plain,Rabi,2.89
+104,24,22,24.35,62.78,6.6,182.75,coffee,Southern Hills,Rabi,2.73
+87,26,40,26.1,61.23,6.94,134.84,coffee,Southern Hills,Rabi,2.58
+91,20,34,23.64,56.23,7.62,151.25,coffee,Northeast Plain,Whole Year,2.73
+93,24,24,24.48,57.85,7.09,170.27,coffee,Coastal Delta,Rabi,2.88
+106,14,32,23.12,53.22,7.19,163.62,coffee,Western Dry Zone,Whole Year,1.97
+110,30,36,26.86,67.13,7.56,168.44,coffee,Central Plateau,Rabi,2.63
+94,25,33,26.1,65.19,6.16,149.31,coffee,Central Plateau,Rabi,2.93
+85,17,31,22.87,61.87,6.99,169.27,coffee,Central Plateau,Zaid,2.38
+99,29,36,24.26,58.9,7.12,160.92,coffee,Western Dry Zone,Rabi,2.78
+89,20,38,27.6,63.04,7.35,131.35,coffee,Western Dry Zone,Rabi,1.94
+110,12,34,23.78,60.02,6.81,148.62,coffee,Southern Hills,Rabi,1.77
+100,25,35,25.2,61.4,6.62,154.36,coffee,Western Dry Zone,Kharif,2.7
+99,13,25,23.57,61.56,6.23,154.74,coffee,Central Plateau,Zaid,2.06
+99,12,30,25.19,56.39,6.9,171.39,coffee,Western Dry Zone,Zaid,2.03
+109,24,34,24.17,55.99,6.33,163.51,coffee,Coastal Delta,Whole Year,2.06
+101,22,28,22.88,49.01,6.41,198.84,coffee,Western Dry Zone,Rabi,1.96
+95,20,29,24.17,57.45,7.28,169.47,coffee,Western Dry Zone,Rabi,2.27
+95,31,32,25.0,56.52,7.28,151.42,coffee,Coastal Delta,Zaid,2.4
+109,26,32,27.55,66.13,6.04,155.42,coffee,Western Dry Zone,Kharif,2.9
+95,20,31,25.96,59.96,6.18,172.9,coffee,Western Dry Zone,Rabi,2.89
+107,23,29,24.19,58.49,6.41,177.94,coffee,Western Dry Zone,Kharif,2.71
+88,22,30,25.77,63.37,6.07,144.55,coffee,Northeast Plain,Kharif,2.04
+94,29,39,23.23,51.84,7.31,165.1,coffee,Western Dry Zone,Rabi,1.83
+98,29,21,25.33,60.48,7.25,166.84,coffee,Northeast Plain,Whole Year,2.8
+103,26,27,24.09,59.11,6.79,151.54,coffee,Southern Hills,Rabi,2.24
+99,17,33,25.23,58.98,7.49,154.51,coffee,Central Plateau,Rabi,2.68
+106,24,34,24.79,62.93,7.03,180.25,coffee,Central Plateau,Kharif,2.28
+114,26,28,25.02,56.72,7.0,156.56,coffee,Coastal Delta,Kharif,1.99
+91,24,26,26.48,53.86,6.3,148.62,coffee,Southern Hills,Zaid,2.0
+106,14,32,26.94,54.56,6.73,181.26,coffee,Northeast Plain,Kharif,2.38
+105,10,23,25.1,54.65,6.18,149.51,coffee,Western Dry Zone,Zaid,1.82
+100,33,32,26.57,55.4,7.02,142.37,coffee,Northeast Plain,Rabi,2.21
+111,30,33,26.2,58.37,6.71,152.67,coffee,Coastal Delta,Kharif,2.17
+101,22,20,24.91,56.79,5.97,143.22,coffee,Northeast Plain,Whole Year,1.79
+111,19,37,26.45,59.0,6.89,195.33,coffee,Southern Hills,Zaid,2.04
+107,26,32,24.74,61.06,6.89,185.81,coffee,Northeast Plain,Zaid,2.27
+108,30,25,26.77,63.64,7.33,177.2,coffee,Southern Hills,Whole Year,2.79
+107,28,37,23.95,57.53,6.63,155.65,coffee,Central Plateau,Rabi,1.92
+91,18,31,25.67,58.79,6.97,170.0,coffee,Western Dry Zone,Zaid,2.6
+98,18,32,25.39,63.94,6.63,168.52,coffee,Northeast Plain,Rabi,2.85
+102,22,29,23.48,59.18,5.96,155.39,coffee,Central Plateau,Kharif,1.98
+97,22,36,23.49,58.28,7.26,186.71,coffee,Central Plateau,Kharif,1.97
+97,26,34,24.48,49.18,6.87,173.97,coffee,Southern Hills,Rabi,2.46
+115,16,26,25.91,60.24,7.19,185.9,coffee,Southern Hills,Zaid,2.89
+91,18,32,25.83,56.98,6.71,154.01,coffee,Central Plateau,Whole Year,2.37

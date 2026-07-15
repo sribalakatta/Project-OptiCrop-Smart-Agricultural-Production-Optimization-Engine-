@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OptiCrop Recommendation Engine</title>
+
+    <style>
+        *{
+            margin:0;
+            padding:0;
+            box-sizing:border-box;
+            font-family: Arial, sans-serif;
+        }
+
+        body{
+            background:#f4f7f9;
+            display:flex;
+            justify-content:center;
+            align-items:center;
+            min-height:100vh;
+            padding:20px;
+        }
+
+        .card{
+            background:white;
+            padding:30px;
+            border-radius:15px;
+            box-shadow:0 4px 15px rgba(0,0,0,0.1);
+            width:100%;
+            max-width:900px;
+        }
+
+        .title{
+            text-align:center;
+            color:#2e7d32;
+            margin-bottom:10px;
+        }
+
+        .subtitle{
+            text-align:center;
+            color:#666;
+            margin-bottom:25px;
+        }
+
+        .row{
+            display:flex;
+            gap:15px;
+            margin-bottom:20px;
+        }
+
+        .col{
+            flex:1;
+            display:flex;
+            flex-direction:column;
+        }
+
+        label{
+            margin-bottom:6px;
+            font-weight:bold;
+        }
+
+        input{
+            padding:10px;
+            border:1px solid #ccc;
+            border-radius:8px;
+            font-size:14px;
+        }
+
+        button{
+            width:100%;
+            padding:12px;
+            background:#2e7d32;
+            color:white;
+            border:none;
+            border-radius:8px;
+            font-size:16px;
+            cursor:pointer;
+        }
+
+        button:hover{
+            background:#1b5e20;
+        }
+
+        #result{
+            margin-top:20px;
+            text-align:center;
+            font-size:20px;
+            font-weight:bold;
+            color:#2e7d32;
+        }
+
+        @media(max-width:768px){
+            .row{
+                flex-direction:column;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<div class="card">
+    <h2 class="title">🌱 OptiCrop Recommendation Engine</h2>
+    <p class="subtitle">
+        Enter soil and climate values to identify the best crop.
+    </p>
+
+    <form action="/predict" method="POST">
+
+        <div class="row">
+            <div class="col">
+                <label>Nitrogen (N)</label>
+                <input type="number" step="any" name="N" required>
+            </div>
+
+            <div class="col">
+                <label>Phosphorus (P)</label>
+                <input type="number" step="any" name="P" required>
+            </div>
+
+            <div class="col">
+                <label>Potassium (K)</label>
+                <input type="number" step="any" name="K" required>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col">
+                <label>Temperature (°C)</label>
+                <input type="number" step="any" name="temperature" required>
+            </div>
+
+            <div class="col">
+                <label>Humidity (%)</label>
+                <input type="number" step="any" name="humidity" required>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col">
+                <label>Soil pH</label>
+                <input type="number" step="any" name="ph" required>
+            </div>
+
+            <div class="col">
+                <label>Rainfall (mm)</label>
+                <input type="number" step="any" name="rainfall" required>
+            </div>
+        </div>
+
+        <button type="submit">Identify Best Crop</button>
+
+    </form>
+
+    {% if prediction_text %}
+        <div id="result">
+            {{ prediction_text }}
+        </div>
+    {% endif %}
+
+</div>
+
+</body>
+</html>

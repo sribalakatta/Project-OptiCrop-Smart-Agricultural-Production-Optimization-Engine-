@@ -1,0 +1,40 @@
+N,P,K,temperature,humidity,ph,rainfall,crop,yield,soil_cluster,location,season
+80.0,45.0,40.0,24.5,82.0,6.5,220.0,rice,5.2,3,Coastal Delta,Kharif
+85.0,42.0,40.0,26.0,80.0,6.2,210.0,rice,5.19,3,Coastal Delta,Kharif
+85.0,12.0,63.0,52.0,6.0,8.3,222.0,coffee,2.36,3,Coastal Delta,Kharif
+80.0,45.0,40.0,24.5,82.0,6.5,220.0,rice,5.2,3,Coastal Delta,Kharif
+80.0,45.0,40.0,24.5,82.0,6.5,220.0,rice,5.2,3,Coastal Delta,Kharif
+56.0,55.0,12.0,39.0,45.0,7.9,210.0,papaya,1.99,3,Western Dry Zone,Zaid
+80.0,45.0,40.0,24.5,82.0,6.5,220.0,rice,5.2,3,Coastal Delta,Kharif
+80.0,45.0,40.0,24.5,82.0,6.5,220.0,rice,5.2,3,Coastal Delta,Kharif
+80.0,45.0,40.0,24.5,82.0,6.5,220.0,rice,5.2,3,Coastal Delta,Kharif
+80.0,45.0,40.0,24.5,82.0,6.5,220.0,rice,5.2,3,Coastal Delta,Kharif
+80.0,45.0,40.0,24.5,82.0,6.5,220.0,rice,5.2,3,Coastal Delta,Kharif
+80.0,45.0,40.0,24.5,82.0,6.5,220.0,rice,5.2,3,Coastal Delta,Kharif
+80.0,45.0,40.0,24.5,82.0,6.5,220.0,rice,5.2,3,Coastal Delta,Kharif
+80.0,45.0,40.0,24.5,82.0,6.5,220.0,rice,5.2,3,Coastal Delta,Kharif
+80.0,45.0,40.0,24.5,82.0,6.5,220.0,rice,5.2,3,Coastal Delta,Kharif
+80.0,45.0,40.0,24.5,82.0,6.5,220.0,rice,5.2,3,Coastal Delta,Kharif
+90.0,55.0,52.0,52.0,52.0,6.5,220.0,rice,3.76,3,Coastal Delta,Kharif
+80.0,45.0,40.0,24.5,82.0,6.5,220.0,rice,5.2,3,Coastal Delta,Kharif
+80.0,45.0,40.0,24.5,82.0,6.5,220.0,rice,5.2,3,Coastal Delta,Kharif
+80.0,45.0,40.0,24.5,82.0,6.5,220.0,rice,5.2,3,Coastal Delta,Kharif
+80.0,45.0,40.0,24.5,82.0,6.5,220.0,rice,5.2,3,Coastal Delta,Kharif
+80.0,45.0,40.0,24.5,82.0,6.5,220.0,rice,5.2,3,Coastal Delta,Kharif
+100.0,22.0,30.0,25.0,58.0,6.8,165.0,coffee,2.43,1,Southern Hills,Whole Year
+100.0,22.0,30.0,25.0,58.0,6.8,165.0,coffee,2.43,1,Southern Hills,Whole Year
+100.0,22.0,30.0,25.0,58.0,6.8,165.0,coffee,2.43,1,Southern Hills,Whole Year
+100.0,22.0,30.0,25.0,58.0,6.8,165.0,coffee,2.43,1,Southern Hills,Whole Year
+90.0,12.0,50.0,25.0,85.0,6.4,48.0,watermelon,6.44,1,Western Dry Zone,Zaid
+90.0,42.0,40.0,24.0,82.0,6.0,220.0,rice,5.43,3,Coastal Delta,Kharif
+90.0,42.0,40.0,24.0,82.0,6.0,220.0,rice,5.43,3,Coastal Delta,Kharif
+90.0,42.0,40.0,24.0,82.0,6.0,220.0,rice,5.43,3,Coastal Delta,Kharif
+90.0,42.0,40.0,24.0,82.0,6.0,220.0,rice,5.43,3,Coastal Delta,Kharif
+90.0,42.0,40.0,24.0,82.0,6.0,220.0,rice,5.43,3,Coastal Delta,Kharif
+90.0,42.0,40.0,24.0,82.0,6.0,220.0,rice,5.43,3,Coastal Delta,Kharif
+90.0,42.0,40.0,24.0,82.0,6.0,220.0,rice,5.43,3,Coastal Delta,Kharif
+90.0,42.0,40.0,24.0,82.0,6.0,220.0,rice,5.43,3,Coastal Delta,Kharif
+90.0,42.0,40.0,24.0,82.0,6.0,220.0,rice,5.43,3,Coastal Delta,Kharif
+49.0,70.0,222.0,48.0,69.0,8.6,339.0,papaya,2.12,3,Southern Hills,Zaid
+80.0,45.0,40.0,24.5,82.0,6.5,220.0,rice,5.2,3,Coastal Delta,Kharif
+63.0,130.0,199.0,39.0,69.0,9.0,300.0,grapes,2.52,3,Coastal Delta,Rabi
