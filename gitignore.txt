@@ -1,0 +1,29 @@
+# Secrets — never commit to public repo
+.env
+**/.env
+
+# Database — runtime artifact
+*.db
+**/instance/*.db
+
+# Model artifacts — large binary files
+**/*.pkl
+**/saved_models/*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.hypothesis/
+
+# Kiro IDE
+.kiro/
+.vscode/
+
+# Test artifacts
+.pytest_cache/
+.coverage
+
+# Logs
+*.log
+**/logs/*.log
