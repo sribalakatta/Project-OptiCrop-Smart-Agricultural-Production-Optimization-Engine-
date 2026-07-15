@@ -1,0 +1,2 @@
+# Project-OptiCrop-Smart-Agricultural-Production-Optimization-Engine-
+OptiCrop – Smart Agricultural Production Optimization Engine Developed an AI and IoT-based smart farming system to optimize agricultural productivity using real-time soil and climate monitoring.  Smart irrigation control -Soil and climate monitoring -Crop disease prediction Yield optimization recommendations -Sustainable farming support.
